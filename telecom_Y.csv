@@ -45,18 +45,6 @@ ID0008,Diane,2021-01-01,Friday,0 days 10:22:05,Payment related,Y,Y,22.0,0 days 0
 ID0004,Greg,2021-01-01,Friday,0 days 09:47:31,Contract related,Y,Y,53.0,0 days 00:00:37,2.0
 ID0038,Joe,2021-01-01,Friday,0 days 13:42:14,Technical Support,Y,Y,52.0,0 days 00:00:36,3.0
 ID0012,Greg,2021-01-01,Friday,0 days 11:15:22,Payment related,Y,Y,50.0,0 days 00:00:32,4.0
-ID0006,Stewart,2021-01-01,Friday,0 days 10:00:29,Technical Support,N,N,,0 days 00:00:00,
-ID0011,Joe,2021-01-01,Friday,0 days 11:15:22,Payment related,N,N,,0 days 00:00:00,
-ID0018,Becky,2021-01-01,Friday,0 days 11:57:07,Admin Support,N,N,,0 days 00:00:00,
-ID0019,Jim,2021-01-01,Friday,0 days 12:01:26,Streaming,N,N,,0 days 00:00:00,
-ID0023,Martha,2021-01-01,Friday,0 days 12:02:53,Technical Support,N,N,,0 days 00:00:00,
-ID0026,Dan,2021-01-01,Friday,0 days 12:30:14,Payment related,N,N,,0 days 00:00:00,
-ID0036,Diane,2021-01-01,Friday,0 days 13:42:14,Streaming,N,N,,0 days 00:00:00,
-ID0046,Jim,2021-01-01,Friday,0 days 15:44:38,Contract related,N,N,,0 days 00:00:00,
-ID0048,Martha,2021-01-01,Friday,0 days 17:13:55,Contract related,N,N,,0 days 00:00:00,
-ID0050,Dan,2021-01-01,Friday,0 days 17:25:26,Technical Support,N,N,,0 days 00:00:00,
-ID0051,Martha,2021-01-01,Friday,0 days 17:35:31,Contract related,N,N,,0 days 00:00:00,
-ID0052,Jim,2021-01-01,Friday,0 days 17:35:31,Admin Support,N,N,,0 days 00:00:00,
 ID0082,Greg,2021-01-02,Saturday,0 days 12:00:00,Payment related,Y,Y,52.0,0 days 00:06:56,4.0
 ID0063,Dan,2021-01-02,Saturday,0 days 09:20:10,Streaming,Y,Y,96.0,0 days 00:06:46,1.0
 ID0077,Martha,2021-01-02,Saturday,0 days 11:47:02,Technical Support,Y,Y,33.0,0 days 00:06:38,2.0
@@ -105,18 +93,6 @@ ID0088,Martha,2021-01-02,Saturday,0 days 12:44:38,Admin Support,Y,N,45.0,0 days 
 ID0066,Diane,2021-01-02,Saturday,0 days 09:38:53,Technical Support,Y,N,90.0,0 days 00:01:23,4.0
 ID0111,Becky,2021-01-02,Saturday,0 days 15:10:05,Technical Support,Y,Y,53.0,0 days 00:00:56,3.0
 ID0094,Becky,2021-01-02,Saturday,0 days 13:04:48,Technical Support,Y,Y,80.0,0 days 00:00:53,3.0
-ID0062,Joe,2021-01-02,Saturday,0 days 09:18:43,Technical Support,N,N,,0 days 00:00:00,
-ID0070,Diane,2021-01-02,Saturday,0 days 10:33:36,Admin Support,N,N,,0 days 00:00:00,
-ID0076,Diane,2021-01-02,Saturday,0 days 11:42:43,Admin Support,N,N,,0 days 00:00:00,
-ID0087,Jim,2021-01-02,Saturday,0 days 12:44:38,Payment related,N,N,,0 days 00:00:00,
-ID0090,Dan,2021-01-02,Saturday,0 days 12:59:02,Streaming,N,N,,0 days 00:00:00,
-ID0098,Martha,2021-01-02,Saturday,0 days 13:20:38,Streaming,N,N,,0 days 00:00:00,
-ID0101,Becky,2021-01-02,Saturday,0 days 13:45:07,Technical Support,N,N,,0 days 00:00:00,
-ID0107,Joe,2021-01-02,Saturday,0 days 14:22:34,Streaming,N,N,,0 days 00:00:00,
-ID0109,Stewart,2021-01-02,Saturday,0 days 14:52:48,Admin Support,N,N,,0 days 00:00:00,
-ID0114,Stewart,2021-01-02,Saturday,0 days 15:36:00,Technical Support,N,N,,0 days 00:00:00,
-ID0116,Greg,2021-01-02,Saturday,0 days 17:36:58,Payment related,N,N,,0 days 00:00:00,
-ID0117,Diane,2021-01-02,Saturday,0 days 17:47:02,Streaming,N,N,,0 days 00:00:00,
 ID0153,Martha,2021-01-03,Sunday,0 days 12:54:43,Payment related,Y,N,52.0,0 days 00:06:59,4.0
 ID0139,Becky,2021-01-03,Sunday,0 days 11:16:48,Technical Support,Y,Y,43.0,0 days 00:06:20,5.0
 ID0170,Dan,2021-01-03,Sunday,0 days 14:47:02,Streaming,Y,Y,14.0,0 days 00:06:14,4.0
@@ -164,17 +140,6 @@ ID0150,Diane,2021-01-03,Sunday,0 days 11:58:34,Payment related,Y,Y,88.0,0 days 0
 ID0167,Joe,2021-01-03,Sunday,0 days 14:03:50,Payment related,Y,Y,84.0,0 days 00:00:58,2.0
 ID0133,Dan,2021-01-03,Sunday,0 days 11:02:24,Admin Support,Y,Y,124.0,0 days 00:00:53,2.0
 ID0148,Jim,2021-01-03,Sunday,0 days 11:55:41,Payment related,Y,Y,46.0,0 days 00:00:50,4.0
-ID0120,Dan,2021-01-03,Sunday,0 days 09:10:05,Contract related,N,N,,0 days 00:00:00,
-ID0125,Martha,2021-01-03,Sunday,0 days 10:37:55,Technical Support,N,N,,0 days 00:00:00,
-ID0134,Jim,2021-01-03,Sunday,0 days 11:02:24,Technical Support,N,N,,0 days 00:00:00,
-ID0138,Martha,2021-01-03,Sunday,0 days 11:06:43,Contract related,N,N,,0 days 00:00:00,
-ID0146,Joe,2021-01-03,Sunday,0 days 11:52:48,Contract related,N,N,,0 days 00:00:00,
-ID0152,Stewart,2021-01-03,Sunday,0 days 12:33:07,Contract related,N,N,,0 days 00:00:00,
-ID0157,Jim,2021-01-03,Sunday,0 days 13:14:53,Technical Support,N,N,,0 days 00:00:00,
-ID0165,Joe,2021-01-03,Sunday,0 days 13:58:05,Streaming,N,N,,0 days 00:00:00,
-ID0166,Stewart,2021-01-03,Sunday,0 days 13:58:05,Payment related,N,N,,0 days 00:00:00,
-ID0172,Dan,2021-01-03,Sunday,0 days 15:34:34,Contract related,N,N,,0 days 00:00:00,
-ID0173,Diane,2021-01-03,Sunday,0 days 16:29:17,Technical Support,N,N,,0 days 00:00:00,
 ID0219,Stewart,2021-01-04,Monday,0 days 15:48:58,Admin Support,Y,Y,120.0,0 days 00:06:50,5.0
 ID0193,Dan,2021-01-04,Monday,0 days 11:22:34,Payment related,Y,Y,31.0,0 days 00:06:43,2.0
 ID0200,Joe,2021-01-04,Monday,0 days 12:15:50,Technical Support,Y,Y,103.0,0 days 00:06:40,5.0
@@ -219,16 +184,6 @@ ID0229,Martha,2021-01-04,Monday,0 days 17:39:50,Admin Support,Y,N,70.0,0 days 00
 ID0179,Martha,2021-01-04,Monday,0 days 09:31:41,Payment related,Y,Y,86.0,0 days 00:01:04,4.0
 ID0220,Diane,2021-01-04,Monday,0 days 15:48:58,Payment related,Y,Y,22.0,0 days 00:00:50,1.0
 ID0223,Martha,2021-01-04,Monday,0 days 16:49:26,Contract related,Y,Y,71.0,0 days 00:00:48,2.0
-ID0177,Martha,2021-01-04,Monday,0 days 09:01:26,Contract related,N,N,,0 days 00:00:00,
-ID0180,Joe,2021-01-04,Monday,0 days 09:31:41,Streaming,N,N,,0 days 00:00:00,
-ID0182,Greg,2021-01-04,Monday,0 days 09:43:12,Streaming,N,N,,0 days 00:00:00,
-ID0186,Diane,2021-01-04,Monday,0 days 10:27:50,Technical Support,N,N,,0 days 00:00:00,
-ID0192,Martha,2021-01-04,Monday,0 days 11:18:14,Technical Support,N,N,,0 days 00:00:00,
-ID0194,Joe,2021-01-04,Monday,0 days 11:22:34,Streaming,N,N,,0 days 00:00:00,
-ID0199,Jim,2021-01-04,Monday,0 days 12:15:50,Streaming,N,N,,0 days 00:00:00,
-ID0211,Jim,2021-01-04,Monday,0 days 14:28:19,Technical Support,N,N,,0 days 00:00:00,
-ID0216,Becky,2021-01-04,Monday,0 days 14:49:55,Technical Support,N,N,,0 days 00:00:00,
-ID0222,Jim,2021-01-04,Monday,0 days 16:48:00,Streaming,N,N,,0 days 00:00:00,
 ID0264,Diane,2021-01-05,Tuesday,0 days 15:31:41,Streaming,Y,Y,72.0,0 days 00:06:48,3.0
 ID0282,Joe,2021-01-05,Tuesday,0 days 17:38:24,Streaming,Y,Y,65.0,0 days 00:06:46,1.0
 ID0249,Becky,2021-01-05,Tuesday,0 days 12:00:00,Streaming,Y,Y,32.0,0 days 00:06:29,4.0
@@ -278,13 +233,6 @@ ID0267,Joe,2021-01-05,Tuesday,0 days 15:37:26,Streaming,Y,Y,120.0,0 days 00:00:5
 ID0231,Joe,2021-01-05,Tuesday,0 days 09:08:38,Streaming,Y,Y,18.0,0 days 00:00:50,3.0
 ID0250,Martha,2021-01-05,Tuesday,0 days 12:00:00,Admin Support,Y,Y,116.0,0 days 00:00:42,4.0
 ID0270,Martha,2021-01-05,Tuesday,0 days 15:44:38,Payment related,Y,Y,31.0,0 days 00:00:42,5.0
-ID0236,Stewart,2021-01-05,Tuesday,0 days 09:33:07,Streaming,N,N,,0 days 00:00:00,
-ID0241,Joe,2021-01-05,Tuesday,0 days 11:31:12,Streaming,N,N,,0 days 00:00:00,
-ID0246,Dan,2021-01-05,Tuesday,0 days 11:49:55,Streaming,N,N,,0 days 00:00:00,
-ID0277,Stewart,2021-01-05,Tuesday,0 days 17:25:26,Technical Support,N,N,,0 days 00:00:00,
-ID0278,Greg,2021-01-05,Tuesday,0 days 17:25:26,Payment related,N,N,,0 days 00:00:00,
-ID0279,Joe,2021-01-05,Tuesday,0 days 17:29:46,Technical Support,N,N,,0 days 00:00:00,
-ID0284,Martha,2021-01-05,Tuesday,0 days 17:44:10,Technical Support,N,N,,0 days 00:00:00,
 ID0336,Stewart,2021-01-06,Wednesday,0 days 17:00:58,Contract related,Y,Y,37.0,0 days 00:06:54,5.0
 ID0324,Greg,2021-01-06,Wednesday,0 days 15:12:58,Contract related,Y,Y,54.0,0 days 00:06:15,4.0
 ID0323,Joe,2021-01-06,Wednesday,0 days 15:12:58,Contract related,Y,Y,72.0,0 days 00:06:00,1.0
@@ -331,18 +279,6 @@ ID0335,Martha,2021-01-06,Wednesday,0 days 17:00:58,Payment related,Y,Y,48.0,0 da
 ID0338,Greg,2021-01-06,Wednesday,0 days 17:19:41,Payment related,Y,Y,81.0,0 days 00:00:53,4.0
 ID0308,Jim,2021-01-06,Wednesday,0 days 12:07:12,Admin Support,Y,Y,120.0,0 days 00:00:52,5.0
 ID0334,Diane,2021-01-06,Wednesday,0 days 16:39:22,Contract related,Y,Y,11.0,0 days 00:00:34,4.0
-ID0287,Greg,2021-01-06,Wednesday,0 days 09:08:38,Technical Support,N,N,,0 days 00:00:00,
-ID0291,Joe,2021-01-06,Wednesday,0 days 10:07:41,Payment related,N,N,,0 days 00:00:00,
-ID0298,Becky,2021-01-06,Wednesday,0 days 11:12:29,Streaming,N,N,,0 days 00:00:00,
-ID0301,Dan,2021-01-06,Wednesday,0 days 11:38:24,Payment related,N,N,,0 days 00:00:00,
-ID0304,Greg,2021-01-06,Wednesday,0 days 11:45:36,Technical Support,N,N,,0 days 00:00:00,
-ID0310,Diane,2021-01-06,Wednesday,0 days 13:30:43,Admin Support,N,N,,0 days 00:00:00,
-ID0312,Martha,2021-01-06,Wednesday,0 days 13:58:05,Streaming,N,N,,0 days 00:00:00,
-ID0322,Greg,2021-01-06,Wednesday,0 days 15:02:53,Admin Support,N,N,,0 days 00:00:00,
-ID0330,Dan,2021-01-06,Wednesday,0 days 16:27:50,Contract related,N,N,,0 days 00:00:00,
-ID0331,Martha,2021-01-06,Wednesday,0 days 16:35:02,Payment related,N,N,,0 days 00:00:00,
-ID0332,Jim,2021-01-06,Wednesday,0 days 16:35:02,Streaming,N,N,,0 days 00:00:00,
-ID0339,Becky,2021-01-06,Wednesday,0 days 17:21:07,Contract related,N,N,,0 days 00:00:00,
 ID0362,Stewart,2021-01-07,Thursday,0 days 11:42:43,Technical Support,Y,Y,66.0,0 days 00:06:50,3.0
 ID0389,Jim,2021-01-07,Thursday,0 days 17:03:50,Contract related,Y,Y,107.0,0 days 00:06:46,2.0
 ID0364,Jim,2021-01-07,Thursday,0 days 11:47:02,Admin Support,Y,Y,47.0,0 days 00:06:37,5.0
@@ -387,16 +323,6 @@ ID0358,Joe,2021-01-07,Thursday,0 days 10:48:00,Streaming,Y,Y,25.0,0 days 00:01:2
 ID0347,Becky,2021-01-07,Thursday,0 days 09:07:12,Technical Support,Y,Y,26.0,0 days 00:01:10,3.0
 ID0390,Joe,2021-01-07,Thursday,0 days 17:03:50,Contract related,Y,Y,86.0,0 days 00:00:42,4.0
 ID0393,Jim,2021-01-07,Thursday,0 days 17:47:02,Admin Support,Y,Y,118.0,0 days 00:00:33,3.0
-ID0348,Diane,2021-01-07,Thursday,0 days 09:07:12,Technical Support,N,N,,0 days 00:00:00,
-ID0356,Stewart,2021-01-07,Thursday,0 days 10:33:36,Contract related,N,N,,0 days 00:00:00,
-ID0357,Becky,2021-01-07,Thursday,0 days 10:48:00,Streaming,N,N,,0 days 00:00:00,
-ID0365,Jim,2021-01-07,Thursday,0 days 12:08:38,Payment related,N,N,,0 days 00:00:00,
-ID0367,Dan,2021-01-07,Thursday,0 days 12:36:00,Streaming,N,N,,0 days 00:00:00,
-ID0373,Becky,2021-01-07,Thursday,0 days 13:30:43,Streaming,N,N,,0 days 00:00:00,
-ID0375,Greg,2021-01-07,Thursday,0 days 13:42:14,Contract related,N,N,,0 days 00:00:00,
-ID0382,Dan,2021-01-07,Thursday,0 days 15:53:17,Payment related,N,N,,0 days 00:00:00,
-ID0383,Diane,2021-01-07,Thursday,0 days 16:07:41,Admin Support,N,N,,0 days 00:00:00,
-ID0394,Diane,2021-01-07,Thursday,0 days 17:47:02,Technical Support,N,N,,0 days 00:00:00,
 ID0422,Greg,2021-01-08,Friday,0 days 12:14:24,Technical Support,Y,Y,18.0,0 days 00:06:38,3.0
 ID0419,Jim,2021-01-08,Friday,0 days 12:12:58,Streaming,Y,Y,31.0,0 days 00:06:35,5.0
 ID0426,Diane,2021-01-08,Friday,0 days 12:48:58,Contract related,Y,N,87.0,0 days 00:06:18,4.0
@@ -435,16 +361,6 @@ ID0414,Joe,2021-01-08,Friday,0 days 11:00:58,Contract related,Y,Y,84.0,0 days 00
 ID0401,Diane,2021-01-08,Friday,0 days 09:24:29,Technical Support,Y,Y,37.0,0 days 00:01:05,3.0
 ID0441,Greg,2021-01-08,Friday,0 days 15:54:43,Admin Support,Y,Y,92.0,0 days 00:00:53,3.0
 ID0400,Jim,2021-01-08,Friday,0 days 09:00:00,Technical Support,Y,Y,86.0,0 days 00:00:37,4.0
-ID0404,Stewart,2021-01-08,Friday,0 days 09:47:31,Payment related,N,N,,0 days 00:00:00,
-ID0405,Jim,2021-01-08,Friday,0 days 09:59:02,Technical Support,N,N,,0 days 00:00:00,
-ID0406,Martha,2021-01-08,Friday,0 days 09:59:02,Streaming,N,N,,0 days 00:00:00,
-ID0408,Dan,2021-01-08,Friday,0 days 10:42:14,Payment related,N,N,,0 days 00:00:00,
-ID0417,Dan,2021-01-08,Friday,0 days 11:16:48,Contract related,N,N,,0 days 00:00:00,
-ID0425,Stewart,2021-01-08,Friday,0 days 12:48:58,Contract related,N,N,,0 days 00:00:00,
-ID0427,Diane,2021-01-08,Friday,0 days 13:10:34,Payment related,N,N,,0 days 00:00:00,
-ID0429,Joe,2021-01-08,Friday,0 days 13:10:34,Technical Support,N,N,,0 days 00:00:00,
-ID0432,Becky,2021-01-08,Friday,0 days 13:17:46,Payment related,N,N,,0 days 00:00:00,
-ID0436,Diane,2021-01-08,Friday,0 days 15:37:26,Admin Support,N,N,,0 days 00:00:00,
 ID0508,Becky,2021-01-09,Saturday,0 days 17:24:00,Streaming,Y,Y,42.0,0 days 00:06:58,2.0
 ID0452,Jim,2021-01-09,Saturday,0 days 09:34:34,Admin Support,Y,Y,110.0,0 days 00:06:53,3.0
 ID0469,Dan,2021-01-09,Saturday,0 days 11:48:29,Technical Support,Y,Y,97.0,0 days 00:06:50,1.0
@@ -500,19 +416,6 @@ ID0482,Becky,2021-01-09,Saturday,0 days 12:40:19,Admin Support,Y,N,10.0,0 days 0
 ID0501,Diane,2021-01-09,Saturday,0 days 17:05:17,Payment related,Y,Y,119.0,0 days 00:00:50,4.0
 ID0479,Diane,2021-01-09,Saturday,0 days 12:33:07,Payment related,Y,Y,61.0,0 days 00:00:36,5.0
 ID0474,Dan,2021-01-09,Saturday,0 days 11:48:29,Technical Support,Y,Y,43.0,0 days 00:00:35,4.0
-ID0456,Martha,2021-01-09,Saturday,0 days 10:29:17,Admin Support,N,N,,0 days 00:00:00,
-ID0468,Dan,2021-01-09,Saturday,0 days 11:25:26,Payment related,N,N,,0 days 00:00:00,
-ID0471,Joe,2021-01-09,Saturday,0 days 11:48:29,Payment related,N,N,,0 days 00:00:00,
-ID0472,Dan,2021-01-09,Saturday,0 days 11:48:29,Admin Support,N,N,,0 days 00:00:00,
-ID0481,Joe,2021-01-09,Saturday,0 days 12:40:19,Payment related,N,N,,0 days 00:00:00,
-ID0484,Jim,2021-01-09,Saturday,0 days 12:50:24,Technical Support,N,N,,0 days 00:00:00,
-ID0487,Becky,2021-01-09,Saturday,0 days 13:39:22,Streaming,N,N,,0 days 00:00:00,
-ID0497,Joe,2021-01-09,Saturday,0 days 15:43:12,Technical Support,N,N,,0 days 00:00:00,
-ID0499,Stewart,2021-01-09,Saturday,0 days 16:58:05,Streaming,N,N,,0 days 00:00:00,
-ID0500,Martha,2021-01-09,Saturday,0 days 16:58:05,Contract related,N,N,,0 days 00:00:00,
-ID0504,Jim,2021-01-09,Saturday,0 days 17:21:07,Admin Support,N,N,,0 days 00:00:00,
-ID0509,Greg,2021-01-09,Saturday,0 days 17:28:19,Technical Support,N,N,,0 days 00:00:00,
-ID0510,Dan,2021-01-09,Saturday,0 days 17:28:19,Technical Support,N,N,,0 days 00:00:00,
 ID0560,Joe,2021-01-10,Sunday,0 days 16:37:55,Payment related,Y,Y,74.0,0 days 00:06:56,5.0
 ID0540,Dan,2021-01-10,Sunday,0 days 13:13:26,Streaming,Y,Y,43.0,0 days 00:06:53,3.0
 ID0578,Greg,2021-01-10,Sunday,0 days 17:48:29,Technical Support,Y,N,124.0,0 days 00:06:46,5.0
@@ -572,11 +475,6 @@ ID0575,Greg,2021-01-10,Sunday,0 days 17:39:50,Payment related,Y,Y,69.0,0 days 00
 ID0539,Becky,2021-01-10,Sunday,0 days 13:13:26,Contract related,Y,Y,100.0,0 days 00:00:41,4.0
 ID0548,Stewart,2021-01-10,Sunday,0 days 14:16:48,Technical Support,Y,Y,19.0,0 days 00:00:38,3.0
 ID0559,Joe,2021-01-10,Sunday,0 days 16:37:55,Payment related,Y,Y,102.0,0 days 00:00:38,5.0
-ID0531,Becky,2021-01-10,Sunday,0 days 11:47:02,Admin Support,N,N,,0 days 00:00:00,
-ID0534,Stewart,2021-01-10,Sunday,0 days 12:27:22,Streaming,N,N,,0 days 00:00:00,
-ID0545,Joe,2021-01-10,Sunday,0 days 14:09:36,Payment related,N,N,,0 days 00:00:00,
-ID0563,Diane,2021-01-10,Sunday,0 days 16:42:14,Contract related,N,N,,0 days 00:00:00,
-ID0568,Stewart,2021-01-10,Sunday,0 days 17:24:00,Technical Support,N,N,,0 days 00:00:00,
 ID0613,Stewart,2021-01-11,Monday,0 days 12:24:29,Admin Support,Y,Y,82.0,0 days 00:06:51,3.0
 ID0596,Joe,2021-01-11,Monday,0 days 10:26:24,Streaming,Y,Y,82.0,0 days 00:06:41,3.0
 ID0609,Jim,2021-01-11,Monday,0 days 12:10:05,Streaming,Y,Y,105.0,0 days 00:06:38,1.0
@@ -645,22 +543,6 @@ ID0615,Jim,2021-01-11,Monday,0 days 12:43:12,Contract related,Y,Y,15.0,0 days 00
 ID0635,Stewart,2021-01-11,Monday,0 days 14:28:19,Streaming,Y,Y,44.0,0 days 00:00:39,4.0
 ID0608,Dan,2021-01-11,Monday,0 days 11:47:02,Payment related,Y,Y,20.0,0 days 00:00:33,3.0
 ID0655,Stewart,2021-01-11,Monday,0 days 17:41:17,Contract related,Y,Y,69.0,0 days 00:00:32,4.0
-ID0582,Stewart,2021-01-11,Monday,0 days 09:37:26,Admin Support,N,N,,0 days 00:00:00,
-ID0585,Diane,2021-01-11,Monday,0 days 09:38:53,Payment related,N,N,,0 days 00:00:00,
-ID0587,Dan,2021-01-11,Monday,0 days 09:48:58,Streaming,N,N,,0 days 00:00:00,
-ID0599,Martha,2021-01-11,Monday,0 days 11:05:17,Admin Support,N,N,,0 days 00:00:00,
-ID0603,Stewart,2021-01-11,Monday,0 days 11:29:46,Admin Support,N,N,,0 days 00:00:00,
-ID0606,Stewart,2021-01-11,Monday,0 days 11:36:58,Payment related,N,N,,0 days 00:00:00,
-ID0617,Jim,2021-01-11,Monday,0 days 12:43:12,Payment related,N,N,,0 days 00:00:00,
-ID0626,Greg,2021-01-11,Monday,0 days 14:09:36,Technical Support,N,N,,0 days 00:00:00,
-ID0627,Martha,2021-01-11,Monday,0 days 14:13:55,Technical Support,N,N,,0 days 00:00:00,
-ID0632,Diane,2021-01-11,Monday,0 days 14:24:00,Admin Support,N,N,,0 days 00:00:00,
-ID0633,Martha,2021-01-11,Monday,0 days 14:26:53,Technical Support,N,N,,0 days 00:00:00,
-ID0634,Joe,2021-01-11,Monday,0 days 14:26:53,Contract related,N,N,,0 days 00:00:00,
-ID0638,Diane,2021-01-11,Monday,0 days 14:32:38,Streaming,N,N,,0 days 00:00:00,
-ID0642,Becky,2021-01-11,Monday,0 days 15:12:58,Contract related,N,N,,0 days 00:00:00,
-ID0644,Joe,2021-01-11,Monday,0 days 15:37:26,Admin Support,N,N,,0 days 00:00:00,
-ID0649,Diane,2021-01-11,Monday,0 days 16:43:41,Payment related,N,N,,0 days 00:00:00,
 ID0682,Greg,2021-01-12,Tuesday,0 days 12:04:19,Contract related,Y,Y,15.0,0 days 00:07:00,2.0
 ID0716,Becky,2021-01-12,Tuesday,0 days 17:06:43,Contract related,Y,Y,44.0,0 days 00:06:56,1.0
 ID0666,Becky,2021-01-12,Tuesday,0 days 09:57:36,Contract related,Y,Y,119.0,0 days 00:06:51,5.0
@@ -707,16 +589,6 @@ ID0663,Dan,2021-01-12,Tuesday,0 days 09:51:50,Technical Support,Y,Y,94.0,0 days 
 ID0713,Dan,2021-01-12,Tuesday,0 days 16:52:19,Payment related,Y,Y,42.0,0 days 00:00:55,1.0
 ID0702,Dan,2021-01-12,Tuesday,0 days 15:51:50,Contract related,Y,Y,77.0,0 days 00:00:51,3.0
 ID0693,Greg,2021-01-12,Tuesday,0 days 14:51:22,Admin Support,Y,Y,79.0,0 days 00:00:48,4.0
-ID0669,Diane,2021-01-12,Tuesday,0 days 10:16:19,Admin Support,N,N,,0 days 00:00:00,
-ID0674,Jim,2021-01-12,Tuesday,0 days 10:48:00,Payment related,N,N,,0 days 00:00:00,
-ID0676,Stewart,2021-01-12,Tuesday,0 days 10:49:26,Payment related,N,N,,0 days 00:00:00,
-ID0679,Diane,2021-01-12,Tuesday,0 days 11:41:17,Contract related,N,N,,0 days 00:00:00,
-ID0689,Martha,2021-01-12,Tuesday,0 days 13:42:14,Technical Support,N,N,,0 days 00:00:00,
-ID0690,Martha,2021-01-12,Tuesday,0 days 13:42:14,Admin Support,N,N,,0 days 00:00:00,
-ID0692,Diane,2021-01-12,Tuesday,0 days 14:12:29,Technical Support,N,N,,0 days 00:00:00,
-ID0706,Becky,2021-01-12,Tuesday,0 days 16:45:07,Technical Support,N,N,,0 days 00:00:00,
-ID0708,Stewart,2021-01-12,Tuesday,0 days 16:46:34,Admin Support,N,N,,0 days 00:00:00,
-ID0718,Greg,2021-01-12,Tuesday,0 days 18:00:00,Streaming,N,N,,0 days 00:00:00,
 ID0724,Diane,2021-01-13,Wednesday,0 days 09:46:05,Contract related,Y,Y,112.0,0 days 00:06:57,2.0
 ID0744,Dan,2021-01-13,Wednesday,0 days 14:02:24,Admin Support,Y,Y,58.0,0 days 00:06:32,4.0
 ID0752,Martha,2021-01-13,Wednesday,0 days 15:27:22,Admin Support,Y,Y,90.0,0 days 00:06:32,4.0
@@ -751,12 +623,6 @@ ID0738,Joe,2021-01-13,Wednesday,0 days 12:31:41,Payment related,Y,Y,124.0,0 days
 ID0728,Dan,2021-01-13,Wednesday,0 days 10:37:55,Admin Support,Y,Y,97.0,0 days 00:00:52,3.0
 ID0737,Martha,2021-01-13,Wednesday,0 days 12:31:41,Contract related,Y,Y,33.0,0 days 00:00:52,3.0
 ID0745,Martha,2021-01-13,Wednesday,0 days 14:26:53,Admin Support,Y,N,112.0,0 days 00:00:40,3.0
-ID0721,Becky,2021-01-13,Wednesday,0 days 09:44:38,Technical Support,N,N,,0 days 00:00:00,
-ID0729,Diane,2021-01-13,Wednesday,0 days 11:06:43,Payment related,N,N,,0 days 00:00:00,
-ID0731,Martha,2021-01-13,Wednesday,0 days 11:09:36,Streaming,N,N,,0 days 00:00:00,
-ID0735,Greg,2021-01-13,Wednesday,0 days 11:54:14,Admin Support,N,N,,0 days 00:00:00,
-ID0742,Becky,2021-01-13,Wednesday,0 days 12:40:19,Streaming,N,N,,0 days 00:00:00,
-ID0753,Stewart,2021-01-13,Wednesday,0 days 15:34:34,Technical Support,N,N,,0 days 00:00:00,
 ID0795,Joe,2021-01-14,Thursday,0 days 14:38:24,Technical Support,Y,Y,10.0,0 days 00:06:57,4.0
 ID0770,Jim,2021-01-14,Thursday,0 days 10:53:46,Streaming,Y,Y,116.0,0 days 00:06:48,2.0
 ID0777,Jim,2021-01-14,Thursday,0 days 12:01:26,Technical Support,Y,Y,26.0,0 days 00:06:41,1.0
@@ -804,17 +670,6 @@ ID0760,Stewart,2021-01-14,Thursday,0 days 09:02:53,Streaming,Y,Y,14.0,0 days 00:
 ID0767,Stewart,2021-01-14,Thursday,0 days 10:01:55,Technical Support,Y,Y,31.0,0 days 00:00:56,4.0
 ID0791,Dan,2021-01-14,Thursday,0 days 13:35:02,Admin Support,Y,Y,109.0,0 days 00:00:38,4.0
 ID0761,Joe,2021-01-14,Thursday,0 days 09:14:24,Technical Support,Y,Y,114.0,0 days 00:00:37,4.0
-ID0763,Jim,2021-01-14,Thursday,0 days 09:17:17,Technical Support,N,N,,0 days 00:00:00,
-ID0768,Dan,2021-01-14,Thursday,0 days 10:01:55,Streaming,N,N,,0 days 00:00:00,
-ID0779,Greg,2021-01-14,Thursday,0 days 12:05:46,Technical Support,N,N,,0 days 00:00:00,
-ID0792,Martha,2021-01-14,Thursday,0 days 13:35:02,Technical Support,N,N,,0 days 00:00:00,
-ID0800,Martha,2021-01-14,Thursday,0 days 15:20:10,Admin Support,N,N,,0 days 00:00:00,
-ID0801,Diane,2021-01-14,Thursday,0 days 15:51:50,Streaming,N,N,,0 days 00:00:00,
-ID0802,Martha,2021-01-14,Thursday,0 days 15:51:50,Admin Support,N,N,,0 days 00:00:00,
-ID0803,Stewart,2021-01-14,Thursday,0 days 15:54:43,Streaming,N,N,,0 days 00:00:00,
-ID0804,Joe,2021-01-14,Thursday,0 days 15:54:43,Technical Support,N,N,,0 days 00:00:00,
-ID0807,Becky,2021-01-14,Thursday,0 days 16:39:22,Technical Support,N,N,,0 days 00:00:00,
-ID0812,Greg,2021-01-14,Thursday,0 days 17:22:34,Contract related,N,N,,0 days 00:00:00,
 ID0824,Martha,2021-01-15,Friday,0 days 10:56:38,Admin Support,Y,Y,83.0,0 days 00:06:53,4.0
 ID0849,Becky,2021-01-15,Friday,0 days 16:37:55,Contract related,Y,Y,45.0,0 days 00:06:53,3.0
 ID0855,Dan,2021-01-15,Friday,0 days 17:21:07,Streaming,Y,Y,76.0,0 days 00:06:35,3.0
@@ -857,10 +712,6 @@ ID0847,Joe,2021-01-15,Friday,0 days 16:06:14,Payment related,Y,N,10.0,0 days 00:
 ID0850,Greg,2021-01-15,Friday,0 days 16:37:55,Admin Support,Y,N,50.0,0 days 00:01:01,3.0
 ID0848,Stewart,2021-01-15,Friday,0 days 16:06:14,Technical Support,Y,Y,117.0,0 days 00:00:41,4.0
 ID0829,Dan,2021-01-15,Friday,0 days 11:45:36,Technical Support,Y,Y,111.0,0 days 00:00:40,4.0
-ID0831,Dan,2021-01-15,Friday,0 days 13:46:34,Technical Support,N,N,,0 days 00:00:00,
-ID0840,Diane,2021-01-15,Friday,0 days 15:01:26,Payment related,N,N,,0 days 00:00:00,
-ID0843,Greg,2021-01-15,Friday,0 days 15:30:14,Contract related,N,N,,0 days 00:00:00,
-ID0858,Becky,2021-01-15,Friday,0 days 17:38:24,Payment related,N,N,,0 days 00:00:00,
 ID0885,Greg,2021-01-16,Saturday,0 days 13:36:29,Streaming,Y,Y,28.0,0 days 00:06:55,4.0
 ID0886,Joe,2021-01-16,Saturday,0 days 13:36:29,Technical Support,Y,Y,30.0,0 days 00:06:49,4.0
 ID0868,Becky,2021-01-16,Saturday,0 days 10:30:43,Technical Support,Y,Y,111.0,0 days 00:06:45,5.0
@@ -905,18 +756,6 @@ ID0899,Becky,2021-01-16,Saturday,0 days 15:30:14,Streaming,Y,N,55.0,0 days 00:00
 ID0863,Becky,2021-01-16,Saturday,0 days 09:00:00,Technical Support,Y,N,19.0,0 days 00:00:36,5.0
 ID0870,Dan,2021-01-16,Saturday,0 days 10:52:19,Payment related,Y,Y,115.0,0 days 00:00:36,3.0
 ID0913,Stewart,2021-01-16,Saturday,0 days 17:57:07,Payment related,Y,Y,99.0,0 days 00:00:33,5.0
-ID0865,Dan,2021-01-16,Saturday,0 days 10:20:38,Technical Support,N,N,,0 days 00:00:00,
-ID0872,Greg,2021-01-16,Saturday,0 days 11:08:10,Admin Support,N,N,,0 days 00:00:00,
-ID0873,Becky,2021-01-16,Saturday,0 days 12:14:24,Streaming,N,N,,0 days 00:00:00,
-ID0881,Martha,2021-01-16,Saturday,0 days 13:03:22,Technical Support,N,N,,0 days 00:00:00,
-ID0883,Dan,2021-01-16,Saturday,0 days 13:35:02,Technical Support,N,N,,0 days 00:00:00,
-ID0884,Stewart,2021-01-16,Saturday,0 days 13:35:02,Payment related,N,N,,0 days 00:00:00,
-ID0893,Diane,2021-01-16,Saturday,0 days 14:39:50,Technical Support,N,N,,0 days 00:00:00,
-ID0894,Diane,2021-01-16,Saturday,0 days 14:39:50,Contract related,N,N,,0 days 00:00:00,
-ID0897,Stewart,2021-01-16,Saturday,0 days 15:24:29,Technical Support,N,N,,0 days 00:00:00,
-ID0902,Stewart,2021-01-16,Saturday,0 days 15:47:31,Technical Support,N,N,,0 days 00:00:00,
-ID0908,Jim,2021-01-16,Saturday,0 days 16:36:29,Technical Support,N,N,,0 days 00:00:00,
-ID0916,Becky,2021-01-16,Saturday,0 days 17:58:34,Admin Support,N,N,,0 days 00:00:00,
 ID0962,Diane,2021-01-17,Sunday,0 days 17:06:43,Admin Support,Y,Y,97.0,0 days 00:06:46,4.0
 ID0920,Martha,2021-01-17,Sunday,0 days 09:51:50,Contract related,Y,Y,116.0,0 days 00:06:18,4.0
 ID0950,Dan,2021-01-17,Sunday,0 days 15:00:00,Streaming,Y,Y,124.0,0 days 00:06:18,4.0
@@ -958,15 +797,6 @@ ID0946,Becky,2021-01-17,Sunday,0 days 14:28:19,Streaming,Y,Y,118.0,0 days 00:00:
 ID0953,Joe,2021-01-17,Sunday,0 days 15:21:36,Contract related,Y,Y,18.0,0 days 00:00:46,1.0
 ID0940,Becky,2021-01-17,Sunday,0 days 13:53:46,Technical Support,Y,Y,91.0,0 days 00:00:45,5.0
 ID0952,Diane,2021-01-17,Sunday,0 days 15:01:26,Admin Support,Y,Y,61.0,0 days 00:00:38,5.0
-ID0924,Greg,2021-01-17,Sunday,0 days 11:42:43,Contract related,N,N,,0 days 00:00:00,
-ID0929,Jim,2021-01-17,Sunday,0 days 12:38:53,Streaming,N,N,,0 days 00:00:00,
-ID0931,Joe,2021-01-17,Sunday,0 days 12:44:38,Admin Support,N,N,,0 days 00:00:00,
-ID0932,Jim,2021-01-17,Sunday,0 days 12:44:38,Technical Support,N,N,,0 days 00:00:00,
-ID0943,Diane,2021-01-17,Sunday,0 days 14:18:14,Streaming,N,N,,0 days 00:00:00,
-ID0948,Stewart,2021-01-17,Sunday,0 days 14:31:12,Contract related,N,N,,0 days 00:00:00,
-ID0949,Greg,2021-01-17,Sunday,0 days 15:00:00,Streaming,N,N,,0 days 00:00:00,
-ID0960,Martha,2021-01-17,Sunday,0 days 16:29:17,Payment related,N,N,,0 days 00:00:00,
-ID0963,Becky,2021-01-17,Sunday,0 days 17:16:48,Streaming,N,N,,0 days 00:00:00,
 ID0977,Stewart,2021-01-18,Monday,0 days 10:16:19,Contract related,Y,Y,45.0,0 days 00:07:00,5.0
 ID0976,Jim,2021-01-18,Monday,0 days 09:36:00,Streaming,Y,Y,80.0,0 days 00:06:57,4.0
 ID1018,Greg,2021-01-18,Monday,0 days 17:13:55,Technical Support,Y,Y,75.0,0 days 00:06:56,5.0
@@ -1017,18 +847,6 @@ ID0980,Dan,2021-01-18,Monday,0 days 11:28:19,Payment related,Y,Y,33.0,0 days 00:
 ID1030,Stewart,2021-01-18,Monday,0 days 17:55:41,Admin Support,Y,Y,11.0,0 days 00:00:52,1.0
 ID1003,Dan,2021-01-18,Monday,0 days 13:10:34,Streaming,Y,Y,79.0,0 days 00:00:47,4.0
 ID1019,Joe,2021-01-18,Monday,0 days 17:18:14,Contract related,Y,Y,71.0,0 days 00:00:37,3.0
-ID0972,Dan,2021-01-18,Monday,0 days 09:24:29,Contract related,N,N,,0 days 00:00:00,
-ID0974,Jim,2021-01-18,Monday,0 days 09:31:41,Technical Support,N,N,,0 days 00:00:00,
-ID0975,Diane,2021-01-18,Monday,0 days 09:36:00,Admin Support,N,N,,0 days 00:00:00,
-ID0979,Martha,2021-01-18,Monday,0 days 11:28:19,Streaming,N,N,,0 days 00:00:00,
-ID0981,Stewart,2021-01-18,Monday,0 days 11:47:02,Payment related,N,N,,0 days 00:00:00,
-ID0993,Stewart,2021-01-18,Monday,0 days 12:34:34,Contract related,N,N,,0 days 00:00:00,
-ID0994,Dan,2021-01-18,Monday,0 days 12:34:34,Technical Support,N,N,,0 days 00:00:00,
-ID0995,Becky,2021-01-18,Monday,0 days 12:37:26,Streaming,N,N,,0 days 00:00:00,
-ID1004,Jim,2021-01-18,Monday,0 days 13:10:34,Technical Support,N,N,,0 days 00:00:00,
-ID1008,Joe,2021-01-18,Monday,0 days 14:58:34,Technical Support,N,N,,0 days 00:00:00,
-ID1010,Becky,2021-01-18,Monday,0 days 15:18:43,Contract related,N,N,,0 days 00:00:00,
-ID1011,Jim,2021-01-18,Monday,0 days 15:50:24,Admin Support,N,N,,0 days 00:00:00,
 ID1052,Jim,2021-01-19,Tuesday,0 days 11:44:10,Contract related,Y,N,79.0,0 days 00:06:49,1.0
 ID1087,Joe,2021-01-19,Tuesday,0 days 16:56:38,Admin Support,Y,Y,115.0,0 days 00:06:47,4.0
 ID1056,Stewart,2021-01-19,Tuesday,0 days 12:28:48,Contract related,Y,Y,84.0,0 days 00:06:44,2.0
@@ -1077,20 +895,6 @@ ID1062,Greg,2021-01-19,Tuesday,0 days 13:14:53,Contract related,Y,Y,114.0,0 days
 ID1089,Becky,2021-01-19,Tuesday,0 days 17:15:22,Streaming,Y,Y,35.0,0 days 00:00:59,3.0
 ID1063,Jim,2021-01-19,Tuesday,0 days 13:22:05,Admin Support,Y,Y,94.0,0 days 00:00:57,5.0
 ID1035,Martha,2021-01-19,Tuesday,0 days 09:18:43,Contract related,Y,Y,60.0,0 days 00:00:32,3.0
-ID1039,Joe,2021-01-19,Tuesday,0 days 09:44:38,Contract related,N,N,,0 days 00:00:00,
-ID1041,Joe,2021-01-19,Tuesday,0 days 10:13:26,Technical Support,N,N,,0 days 00:00:00,
-ID1042,Joe,2021-01-19,Tuesday,0 days 10:13:26,Streaming,N,N,,0 days 00:00:00,
-ID1045,Becky,2021-01-19,Tuesday,0 days 10:33:36,Contract related,N,N,,0 days 00:00:00,
-ID1047,Stewart,2021-01-19,Tuesday,0 days 10:52:19,Streaming,N,N,,0 days 00:00:00,
-ID1049,Dan,2021-01-19,Tuesday,0 days 11:25:26,Contract related,N,N,,0 days 00:00:00,
-ID1055,Martha,2021-01-19,Tuesday,0 days 12:28:48,Streaming,N,N,,0 days 00:00:00,
-ID1060,Dan,2021-01-19,Tuesday,0 days 12:59:02,Technical Support,N,N,,0 days 00:00:00,
-ID1064,Dan,2021-01-19,Tuesday,0 days 13:22:05,Payment related,N,N,,0 days 00:00:00,
-ID1067,Greg,2021-01-19,Tuesday,0 days 13:36:29,Technical Support,N,N,,0 days 00:00:00,
-ID1070,Diane,2021-01-19,Tuesday,0 days 13:37:55,Contract related,N,N,,0 days 00:00:00,
-ID1075,Greg,2021-01-19,Tuesday,0 days 15:00:00,Contract related,N,N,,0 days 00:00:00,
-ID1081,Becky,2021-01-19,Tuesday,0 days 15:54:43,Admin Support,N,N,,0 days 00:00:00,
-ID1091,Jim,2021-01-19,Tuesday,0 days 17:24:00,Contract related,N,N,,0 days 00:00:00,
 ID1119,Joe,2021-01-20,Wednesday,0 days 13:59:31,Streaming,Y,Y,112.0,0 days 00:06:46,3.0
 ID1106,Greg,2021-01-20,Wednesday,0 days 12:00:00,Payment related,Y,Y,15.0,0 days 00:06:35,1.0
 ID1115,Greg,2021-01-20,Wednesday,0 days 13:26:24,Technical Support,Y,N,25.0,0 days 00:06:32,3.0
@@ -1124,13 +928,6 @@ ID1117,Stewart,2021-01-20,Wednesday,0 days 13:26:24,Streaming,Y,Y,36.0,0 days 00
 ID1103,Becky,2021-01-20,Wednesday,0 days 11:24:00,Payment related,Y,Y,43.0,0 days 00:00:56,3.0
 ID1127,Joe,2021-01-20,Wednesday,0 days 17:42:43,Streaming,Y,Y,73.0,0 days 00:00:45,3.0
 ID1113,Stewart,2021-01-20,Wednesday,0 days 13:00:29,Payment related,Y,Y,34.0,0 days 00:00:34,5.0
-ID1093,Stewart,2021-01-20,Wednesday,0 days 09:05:46,Technical Support,N,N,,0 days 00:00:00,
-ID1097,Greg,2021-01-20,Wednesday,0 days 09:46:05,Admin Support,N,N,,0 days 00:00:00,
-ID1098,Dan,2021-01-20,Wednesday,0 days 09:46:05,Payment related,N,N,,0 days 00:00:00,
-ID1104,Martha,2021-01-20,Wednesday,0 days 11:24:00,Streaming,N,N,,0 days 00:00:00,
-ID1120,Diane,2021-01-20,Wednesday,0 days 13:59:31,Payment related,N,N,,0 days 00:00:00,
-ID1126,Stewart,2021-01-20,Wednesday,0 days 16:20:38,Contract related,N,N,,0 days 00:00:00,
-ID1130,Stewart,2021-01-20,Wednesday,0 days 17:55:41,Technical Support,N,N,,0 days 00:00:00,
 ID1167,Joe,2021-01-21,Thursday,0 days 16:46:34,Contract related,Y,Y,22.0,0 days 00:06:58,3.0
 ID1149,Dan,2021-01-21,Thursday,0 days 11:15:22,Payment related,Y,Y,68.0,0 days 00:06:53,1.0
 ID1177,Greg,2021-01-21,Thursday,0 days 17:36:58,Streaming,Y,Y,75.0,0 days 00:06:28,4.0
@@ -1167,18 +964,6 @@ ID1164,Jim,2021-01-21,Thursday,0 days 16:20:38,Contract related,Y,Y,79.0,0 days 
 ID1173,Stewart,2021-01-21,Thursday,0 days 17:26:53,Streaming,Y,Y,119.0,0 days 00:00:42,4.0
 ID1155,Stewart,2021-01-21,Thursday,0 days 12:07:12,Technical Support,Y,Y,18.0,0 days 00:00:37,5.0
 ID1150,Jim,2021-01-21,Thursday,0 days 11:15:22,Admin Support,Y,N,46.0,0 days 00:00:34,3.0
-ID1135,Dan,2021-01-21,Thursday,0 days 09:37:26,Streaming,N,N,,0 days 00:00:00,
-ID1148,Martha,2021-01-21,Thursday,0 days 10:59:31,Technical Support,N,N,,0 days 00:00:00,
-ID1154,Martha,2021-01-21,Thursday,0 days 12:02:53,Admin Support,N,N,,0 days 00:00:00,
-ID1156,Joe,2021-01-21,Thursday,0 days 12:07:12,Streaming,N,N,,0 days 00:00:00,
-ID1157,Joe,2021-01-21,Thursday,0 days 15:47:31,Payment related,N,N,,0 days 00:00:00,
-ID1158,Joe,2021-01-21,Thursday,0 days 15:47:31,Technical Support,N,N,,0 days 00:00:00,
-ID1159,Martha,2021-01-21,Thursday,0 days 15:48:58,Technical Support,N,N,,0 days 00:00:00,
-ID1162,Martha,2021-01-21,Thursday,0 days 16:03:22,Admin Support,N,N,,0 days 00:00:00,
-ID1163,Becky,2021-01-21,Thursday,0 days 16:20:38,Payment related,N,N,,0 days 00:00:00,
-ID1172,Becky,2021-01-21,Thursday,0 days 17:26:53,Technical Support,N,N,,0 days 00:00:00,
-ID1176,Martha,2021-01-21,Thursday,0 days 17:26:53,Technical Support,N,N,,0 days 00:00:00,
-ID1179,Dan,2021-01-21,Thursday,0 days 17:38:24,Technical Support,N,N,,0 days 00:00:00,
 ID1197,Greg,2021-01-22,Friday,0 days 11:55:41,Payment related,Y,Y,13.0,0 days 00:07:00,3.0
 ID1188,Becky,2021-01-22,Friday,0 days 09:48:58,Contract related,Y,Y,98.0,0 days 00:06:53,4.0
 ID1204,Dan,2021-01-22,Friday,0 days 14:19:41,Payment related,Y,Y,67.0,0 days 00:06:42,4.0
@@ -1213,22 +998,6 @@ ID1182,Diane,2021-01-22,Friday,0 days 09:11:31,Admin Support,Y,Y,20.0,0 days 00:
 ID1218,Becky,2021-01-22,Friday,0 days 16:01:55,Streaming,Y,Y,78.0,0 days 00:01:05,5.0
 ID1212,Greg,2021-01-22,Friday,0 days 14:49:55,Payment related,Y,Y,99.0,0 days 00:01:00,1.0
 ID1200,Dan,2021-01-22,Friday,0 days 11:55:41,Admin Support,Y,Y,32.0,0 days 00:00:35,5.0
-ID1181,Stewart,2021-01-22,Friday,0 days 09:11:31,Technical Support,N,N,,0 days 00:00:00,
-ID1191,Becky,2021-01-22,Friday,0 days 10:37:55,Technical Support,N,N,,0 days 00:00:00,
-ID1195,Greg,2021-01-22,Friday,0 days 11:42:43,Technical Support,N,N,,0 days 00:00:00,
-ID1201,Stewart,2021-01-22,Friday,0 days 12:47:31,Technical Support,N,N,,0 days 00:00:00,
-ID1202,Greg,2021-01-22,Friday,0 days 12:47:31,Contract related,N,N,,0 days 00:00:00,
-ID1203,Joe,2021-01-22,Friday,0 days 14:19:41,Admin Support,N,N,,0 days 00:00:00,
-ID1209,Stewart,2021-01-22,Friday,0 days 14:48:29,Streaming,N,N,,0 days 00:00:00,
-ID1213,Martha,2021-01-22,Friday,0 days 15:30:14,Contract related,N,N,,0 days 00:00:00,
-ID1214,Jim,2021-01-22,Friday,0 days 15:30:14,Streaming,N,N,,0 days 00:00:00,
-ID1215,Martha,2021-01-22,Friday,0 days 15:56:10,Streaming,N,N,,0 days 00:00:00,
-ID1216,Martha,2021-01-22,Friday,0 days 15:56:10,Admin Support,N,N,,0 days 00:00:00,
-ID1217,Martha,2021-01-22,Friday,0 days 16:01:55,Payment related,N,N,,0 days 00:00:00,
-ID1219,Greg,2021-01-22,Friday,0 days 16:39:22,Admin Support,N,N,,0 days 00:00:00,
-ID1221,Becky,2021-01-22,Friday,0 days 16:50:53,Contract related,N,N,,0 days 00:00:00,
-ID1225,Greg,2021-01-22,Friday,0 days 17:25:26,Admin Support,N,N,,0 days 00:00:00,
-ID1228,Martha,2021-01-22,Friday,0 days 17:38:24,Technical Support,N,N,,0 days 00:00:00,
 ID1242,Martha,2021-01-23,Saturday,0 days 11:00:58,Streaming,Y,Y,83.0,0 days 00:06:48,5.0
 ID1266,Joe,2021-01-23,Saturday,0 days 13:37:55,Admin Support,Y,Y,10.0,0 days 00:06:42,5.0
 ID1235,Becky,2021-01-23,Saturday,0 days 09:51:50,Payment related,Y,N,112.0,0 days 00:06:18,2.0
@@ -1273,16 +1042,6 @@ ID1247,Greg,2021-01-23,Saturday,0 days 11:32:38,Admin Support,Y,N,10.0,0 days 00
 ID1238,Joe,2021-01-23,Saturday,0 days 09:57:36,Technical Support,Y,N,120.0,0 days 00:00:54,4.0
 ID1248,Joe,2021-01-23,Saturday,0 days 11:32:38,Admin Support,Y,Y,100.0,0 days 00:00:42,5.0
 ID1273,Stewart,2021-01-23,Saturday,0 days 16:13:26,Contract related,Y,N,31.0,0 days 00:00:31,3.0
-ID1239,Diane,2021-01-23,Saturday,0 days 10:49:26,Admin Support,N,N,,0 days 00:00:00,
-ID1246,Dan,2021-01-23,Saturday,0 days 11:29:46,Contract related,N,N,,0 days 00:00:00,
-ID1254,Diane,2021-01-23,Saturday,0 days 11:44:10,Streaming,N,N,,0 days 00:00:00,
-ID1262,Martha,2021-01-23,Saturday,0 days 12:54:43,Technical Support,N,N,,0 days 00:00:00,
-ID1268,Martha,2021-01-23,Saturday,0 days 14:13:55,Streaming,N,N,,0 days 00:00:00,
-ID1270,Becky,2021-01-23,Saturday,0 days 14:52:48,Technical Support,N,N,,0 days 00:00:00,
-ID1272,Martha,2021-01-23,Saturday,0 days 16:01:55,Admin Support,N,N,,0 days 00:00:00,
-ID1280,Dan,2021-01-23,Saturday,0 days 17:24:00,Contract related,N,N,,0 days 00:00:00,
-ID1283,Greg,2021-01-23,Saturday,0 days 17:44:10,Contract related,N,N,,0 days 00:00:00,
-ID1284,Stewart,2021-01-23,Saturday,0 days 17:44:10,Payment related,N,N,,0 days 00:00:00,
 ID1314,Becky,2021-01-24,Sunday,0 days 12:25:55,Payment related,Y,Y,51.0,0 days 00:06:44,3.0
 ID1286,Diane,2021-01-24,Sunday,0 days 09:05:46,Streaming,Y,Y,48.0,0 days 00:06:36,2.0
 ID1308,Diane,2021-01-24,Sunday,0 days 11:11:02,Streaming,Y,Y,55.0,0 days 00:06:30,1.0
@@ -1330,13 +1089,6 @@ ID1289,Greg,2021-01-24,Sunday,0 days 09:12:58,Admin Support,Y,Y,21.0,0 days 00:0
 ID1329,Greg,2021-01-24,Sunday,0 days 16:01:55,Admin Support,Y,Y,68.0,0 days 00:00:43,1.0
 ID1313,Jim,2021-01-24,Sunday,0 days 12:25:55,Streaming,Y,N,61.0,0 days 00:00:42,5.0
 ID1305,Joe,2021-01-24,Sunday,0 days 10:32:10,Admin Support,Y,Y,125.0,0 days 00:00:31,3.0
-ID1285,Dan,2021-01-24,Sunday,0 days 09:05:46,Payment related,N,N,,0 days 00:00:00,
-ID1294,Joe,2021-01-24,Sunday,0 days 09:24:29,Contract related,N,N,,0 days 00:00:00,
-ID1296,Greg,2021-01-24,Sunday,0 days 09:54:43,Payment related,N,N,,0 days 00:00:00,
-ID1300,Jim,2021-01-24,Sunday,0 days 10:04:48,Technical Support,N,N,,0 days 00:00:00,
-ID1304,Martha,2021-01-24,Sunday,0 days 10:29:17,Admin Support,N,N,,0 days 00:00:00,
-ID1306,Becky,2021-01-24,Sunday,0 days 10:32:10,Contract related,N,N,,0 days 00:00:00,
-ID1333,Becky,2021-01-24,Sunday,0 days 17:16:48,Contract related,N,N,,0 days 00:00:00,
 ID1343,Dan,2021-01-25,Monday,0 days 09:33:07,Technical Support,Y,Y,40.0,0 days 00:06:57,3.0
 ID1341,Jim,2021-01-25,Monday,0 days 09:25:55,Streaming,Y,Y,44.0,0 days 00:06:50,3.0
 ID1401,Diane,2021-01-25,Monday,0 days 17:32:38,Payment related,Y,Y,19.0,0 days 00:06:38,5.0
@@ -1389,18 +1141,6 @@ ID1400,Martha,2021-01-25,Monday,0 days 16:13:26,Admin Support,Y,Y,13.0,0 days 00
 ID1385,Joe,2021-01-25,Monday,0 days 14:26:53,Payment related,Y,Y,106.0,0 days 00:00:54,3.0
 ID1348,Joe,2021-01-25,Monday,0 days 10:10:34,Payment related,Y,N,123.0,0 days 00:00:38,3.0
 ID1392,Martha,2021-01-25,Monday,0 days 15:05:46,Streaming,Y,Y,50.0,0 days 00:00:32,3.0
-ID1349,Diane,2021-01-25,Monday,0 days 10:27:50,Admin Support,N,N,,0 days 00:00:00,
-ID1350,Joe,2021-01-25,Monday,0 days 10:27:50,Contract related,N,N,,0 days 00:00:00,
-ID1355,Greg,2021-01-25,Monday,0 days 11:42:43,Admin Support,N,N,,0 days 00:00:00,
-ID1366,Jim,2021-01-25,Monday,0 days 12:10:05,Admin Support,N,N,,0 days 00:00:00,
-ID1368,Stewart,2021-01-25,Monday,0 days 12:12:58,Streaming,N,N,,0 days 00:00:00,
-ID1372,Jim,2021-01-25,Monday,0 days 12:21:36,Technical Support,N,N,,0 days 00:00:00,
-ID1375,Jim,2021-01-25,Monday,0 days 12:43:12,Admin Support,N,N,,0 days 00:00:00,
-ID1381,Becky,2021-01-25,Monday,0 days 14:11:02,Streaming,N,N,,0 days 00:00:00,
-ID1383,Diane,2021-01-25,Monday,0 days 14:12:29,Streaming,N,N,,0 days 00:00:00,
-ID1386,Joe,2021-01-25,Monday,0 days 14:26:53,Technical Support,N,N,,0 days 00:00:00,
-ID1391,Becky,2021-01-25,Monday,0 days 15:05:46,Payment related,N,N,,0 days 00:00:00,
-ID1396,Becky,2021-01-25,Monday,0 days 15:51:50,Contract related,N,N,,0 days 00:00:00,
 ID1459,Becky,2021-01-26,Tuesday,0 days 17:18:14,Contract related,Y,Y,38.0,0 days 00:06:58,1.0
 ID1419,Dan,2021-01-26,Tuesday,0 days 10:59:31,Payment related,Y,Y,68.0,0 days 00:06:48,5.0
 ID1439,Diane,2021-01-26,Tuesday,0 days 14:26:53,Admin Support,Y,Y,65.0,0 days 00:06:42,5.0
@@ -1454,13 +1194,6 @@ ID1405,Dan,2021-01-26,Tuesday,0 days 09:30:14,Payment related,Y,Y,113.0,0 days 0
 ID1451,Diane,2021-01-26,Tuesday,0 days 15:30:14,Contract related,Y,Y,94.0,0 days 00:00:46,4.0
 ID1427,Dan,2021-01-26,Tuesday,0 days 12:50:24,Admin Support,Y,Y,66.0,0 days 00:00:44,3.0
 ID1450,Jim,2021-01-26,Tuesday,0 days 15:28:48,Streaming,Y,Y,119.0,0 days 00:00:43,4.0
-ID1409,Stewart,2021-01-26,Tuesday,0 days 09:51:50,Technical Support,N,N,,0 days 00:00:00,
-ID1414,Stewart,2021-01-26,Tuesday,0 days 10:40:48,Payment related,N,N,,0 days 00:00:00,
-ID1421,Joe,2021-01-26,Tuesday,0 days 11:19:41,Admin Support,N,N,,0 days 00:00:00,
-ID1426,Becky,2021-01-26,Tuesday,0 days 12:48:58,Streaming,N,N,,0 days 00:00:00,
-ID1436,Stewart,2021-01-26,Tuesday,0 days 14:08:10,Streaming,N,N,,0 days 00:00:00,
-ID1452,Dan,2021-01-26,Tuesday,0 days 15:30:14,Payment related,N,N,,0 days 00:00:00,
-ID1457,Becky,2021-01-26,Tuesday,0 days 16:06:14,Payment related,N,N,,0 days 00:00:00,
 ID1487,Diane,2021-01-27,Wednesday,0 days 13:22:05,Contract related,Y,Y,15.0,0 days 00:06:54,2.0
 ID1495,Dan,2021-01-27,Wednesday,0 days 14:54:14,Technical Support,Y,Y,123.0,0 days 00:06:49,5.0
 ID1473,Jim,2021-01-27,Wednesday,0 days 10:43:41,Contract related,Y,Y,97.0,0 days 00:06:37,4.0
@@ -1508,15 +1241,6 @@ ID1491,Joe,2021-01-27,Wednesday,0 days 13:52:19,Contract related,Y,Y,50.0,0 days
 ID1497,Stewart,2021-01-27,Wednesday,0 days 15:21:36,Payment related,Y,Y,10.0,0 days 00:01:25,5.0
 ID1490,Martha,2021-01-27,Wednesday,0 days 13:27:50,Admin Support,Y,Y,49.0,0 days 00:01:24,4.0
 ID1517,Jim,2021-01-27,Wednesday,0 days 17:42:43,Contract related,Y,Y,93.0,0 days 00:00:56,4.0
-ID1466,Greg,2021-01-27,Wednesday,0 days 09:38:53,Streaming,N,N,,0 days 00:00:00,
-ID1469,Greg,2021-01-27,Wednesday,0 days 09:54:43,Payment related,N,N,,0 days 00:00:00,
-ID1477,Jim,2021-01-27,Wednesday,0 days 12:40:19,Contract related,N,N,,0 days 00:00:00,
-ID1479,Martha,2021-01-27,Wednesday,0 days 13:00:29,Technical Support,N,N,,0 days 00:00:00,
-ID1482,Jim,2021-01-27,Wednesday,0 days 13:03:22,Technical Support,N,N,,0 days 00:00:00,
-ID1500,Diane,2021-01-27,Wednesday,0 days 15:23:02,Streaming,N,N,,0 days 00:00:00,
-ID1506,Greg,2021-01-27,Wednesday,0 days 16:01:55,Technical Support,N,N,,0 days 00:00:00,
-ID1516,Greg,2021-01-27,Wednesday,0 days 17:18:14,Contract related,N,N,,0 days 00:00:00,
-ID1518,Martha,2021-01-27,Wednesday,0 days 17:42:43,Technical Support,N,N,,0 days 00:00:00,
 ID1564,Greg,2021-01-28,Thursday,0 days 16:19:12,Admin Support,Y,Y,67.0,0 days 00:06:42,2.0
 ID1559,Greg,2021-01-28,Thursday,0 days 15:53:17,Technical Support,Y,Y,93.0,0 days 00:06:31,3.0
 ID1523,Martha,2021-01-28,Thursday,0 days 09:12:58,Payment related,Y,Y,38.0,0 days 00:06:24,4.0
@@ -1569,10 +1293,6 @@ ID1529,Diane,2021-01-28,Thursday,0 days 10:40:48,Contract related,Y,Y,48.0,0 day
 ID1527,Greg,2021-01-28,Thursday,0 days 10:04:48,Technical Support,Y,N,120.0,0 days 00:01:27,4.0
 ID1571,Diane,2021-01-28,Thursday,0 days 17:52:48,Payment related,Y,Y,61.0,0 days 00:00:43,1.0
 ID1544,Becky,2021-01-28,Thursday,0 days 12:46:05,Streaming,Y,Y,123.0,0 days 00:00:41,4.0
-ID1545,Jim,2021-01-28,Thursday,0 days 13:00:29,Contract related,N,N,,0 days 00:00:00,
-ID1558,Becky,2021-01-28,Thursday,0 days 14:57:07,Technical Support,N,N,,0 days 00:00:00,
-ID1561,Diane,2021-01-28,Thursday,0 days 16:13:26,Streaming,N,N,,0 days 00:00:00,
-ID1572,Martha,2021-01-28,Thursday,0 days 17:52:48,Admin Support,N,N,,0 days 00:00:00,
 ID1620,Jim,2021-01-29,Friday,0 days 15:44:38,Contract related,Y,Y,20.0,0 days 00:06:53,3.0
 ID1617,Stewart,2021-01-29,Friday,0 days 15:21:36,Contract related,Y,Y,84.0,0 days 00:06:43,3.0
 ID1582,Dan,2021-01-29,Friday,0 days 09:57:36,Technical Support,Y,Y,23.0,0 days 00:06:15,4.0
@@ -1619,18 +1339,6 @@ ID1601,Martha,2021-01-29,Friday,0 days 13:00:29,Contract related,Y,Y,68.0,0 days
 ID1613,Becky,2021-01-29,Friday,0 days 14:49:55,Contract related,Y,Y,23.0,0 days 00:00:45,4.0
 ID1629,Greg,2021-01-29,Friday,0 days 17:41:17,Admin Support,Y,Y,28.0,0 days 00:00:39,4.0
 ID1609,Diane,2021-01-29,Friday,0 days 14:11:02,Streaming,Y,N,83.0,0 days 00:00:34,4.0
-ID1576,Jim,2021-01-29,Friday,0 days 09:02:53,Admin Support,N,N,,0 days 00:00:00,
-ID1578,Greg,2021-01-29,Friday,0 days 09:08:38,Payment related,N,N,,0 days 00:00:00,
-ID1580,Stewart,2021-01-29,Friday,0 days 09:20:10,Payment related,N,N,,0 days 00:00:00,
-ID1584,Becky,2021-01-29,Friday,0 days 10:20:38,Payment related,N,N,,0 days 00:00:00,
-ID1588,Jim,2021-01-29,Friday,0 days 10:50:53,Technical Support,N,N,,0 days 00:00:00,
-ID1591,Diane,2021-01-29,Friday,0 days 11:57:07,Payment related,N,N,,0 days 00:00:00,
-ID1610,Stewart,2021-01-29,Friday,0 days 14:11:02,Technical Support,N,N,,0 days 00:00:00,
-ID1611,Stewart,2021-01-29,Friday,0 days 14:32:38,Contract related,N,N,,0 days 00:00:00,
-ID1624,Becky,2021-01-29,Friday,0 days 15:51:50,Payment related,N,N,,0 days 00:00:00,
-ID1625,Joe,2021-01-29,Friday,0 days 16:10:34,Streaming,N,N,,0 days 00:00:00,
-ID1626,Joe,2021-01-29,Friday,0 days 16:10:34,Technical Support,N,N,,0 days 00:00:00,
-ID1631,Stewart,2021-01-29,Friday,0 days 17:52:48,Technical Support,N,N,,0 days 00:00:00,
 ID1662,Becky,2021-01-30,Saturday,0 days 12:44:38,Streaming,Y,Y,69.0,0 days 00:06:58,2.0
 ID1650,Stewart,2021-01-30,Saturday,0 days 11:26:53,Contract related,Y,N,94.0,0 days 00:06:56,5.0
 ID1680,Martha,2021-01-30,Saturday,0 days 15:00:00,Contract related,Y,Y,97.0,0 days 00:06:53,5.0
@@ -1698,19 +1406,6 @@ ID1702,Greg,2021-01-30,Saturday,0 days 17:09:36,Streaming,Y,Y,33.0,0 days 00:01:
 ID1637,Diane,2021-01-30,Saturday,0 days 09:53:17,Streaming,Y,Y,124.0,0 days 00:01:01,4.0
 ID1691,Becky,2021-01-30,Saturday,0 days 16:19:12,Technical Support,Y,Y,91.0,0 days 00:00:50,3.0
 ID1645,Becky,2021-01-30,Saturday,0 days 10:40:48,Payment related,Y,Y,22.0,0 days 00:00:43,3.0
-ID1647,Dan,2021-01-30,Saturday,0 days 11:12:29,Streaming,N,N,,0 days 00:00:00,
-ID1658,Martha,2021-01-30,Saturday,0 days 12:37:26,Contract related,N,N,,0 days 00:00:00,
-ID1672,Joe,2021-01-30,Saturday,0 days 14:00:58,Payment related,N,N,,0 days 00:00:00,
-ID1674,Stewart,2021-01-30,Saturday,0 days 14:09:36,Payment related,N,N,,0 days 00:00:00,
-ID1684,Diane,2021-01-30,Saturday,0 days 15:44:38,Payment related,N,N,,0 days 00:00:00,
-ID1690,Becky,2021-01-30,Saturday,0 days 16:13:26,Admin Support,N,N,,0 days 00:00:00,
-ID1693,Greg,2021-01-30,Saturday,0 days 16:19:12,Contract related,N,N,,0 days 00:00:00,
-ID1695,Jim,2021-01-30,Saturday,0 days 16:32:10,Technical Support,N,N,,0 days 00:00:00,
-ID1696,Jim,2021-01-30,Saturday,0 days 16:32:10,Contract related,N,N,,0 days 00:00:00,
-ID1697,Dan,2021-01-30,Saturday,0 days 16:49:26,Technical Support,N,N,,0 days 00:00:00,
-ID1705,Stewart,2021-01-30,Saturday,0 days 17:18:14,Contract related,N,N,,0 days 00:00:00,
-ID1706,Jim,2021-01-30,Saturday,0 days 17:18:14,Admin Support,N,N,,0 days 00:00:00,
-ID1707,Martha,2021-01-30,Saturday,0 days 17:25:26,Payment related,N,N,,0 days 00:00:00,
 ID1737,Diane,2021-01-31,Sunday,0 days 12:15:50,Payment related,Y,Y,37.0,0 days 00:06:57,4.0
 ID1734,Dan,2021-01-31,Sunday,0 days 12:00:00,Technical Support,Y,Y,112.0,0 days 00:06:43,3.0
 ID1745,Jim,2021-01-31,Sunday,0 days 14:05:17,Payment related,Y,Y,124.0,0 days 00:06:42,5.0
@@ -1759,18 +1454,6 @@ ID1717,Becky,2021-01-31,Sunday,0 days 09:14:24,Technical Support,Y,Y,30.0,0 days
 ID1721,Diane,2021-01-31,Sunday,0 days 09:27:22,Payment related,Y,N,67.0,0 days 00:00:58,1.0
 ID1750,Stewart,2021-01-31,Sunday,0 days 14:05:17,Payment related,Y,Y,75.0,0 days 00:00:33,3.0
 ID1759,Jim,2021-01-31,Sunday,0 days 15:56:10,Admin Support,Y,Y,50.0,0 days 00:00:31,2.0
-ID1720,Greg,2021-01-31,Sunday,0 days 09:24:29,Streaming,N,N,,0 days 00:00:00,
-ID1725,Jim,2021-01-31,Sunday,0 days 11:32:38,Payment related,N,N,,0 days 00:00:00,
-ID1726,Greg,2021-01-31,Sunday,0 days 11:32:38,Contract related,N,N,,0 days 00:00:00,
-ID1727,Joe,2021-01-31,Sunday,0 days 11:35:31,Admin Support,N,N,,0 days 00:00:00,
-ID1731,Dan,2021-01-31,Sunday,0 days 11:58:34,Contract related,N,N,,0 days 00:00:00,
-ID1740,Jim,2021-01-31,Sunday,0 days 12:37:26,Streaming,N,N,,0 days 00:00:00,
-ID1744,Martha,2021-01-31,Sunday,0 days 12:50:24,Contract related,N,N,,0 days 00:00:00,
-ID1749,Jim,2021-01-31,Sunday,0 days 14:05:17,Technical Support,N,N,,0 days 00:00:00,
-ID1757,Jim,2021-01-31,Sunday,0 days 15:38:53,Streaming,N,N,,0 days 00:00:00,
-ID1760,Martha,2021-01-31,Sunday,0 days 15:56:10,Admin Support,N,N,,0 days 00:00:00,
-ID1768,Dan,2021-01-31,Sunday,0 days 16:56:38,Streaming,N,N,,0 days 00:00:00,
-ID1769,Dan,2021-01-31,Sunday,0 days 17:08:10,Admin Support,N,N,,0 days 00:00:00,
 ID1792,Joe,2021-02-01,Monday,0 days 12:07:12,Technical Support,Y,Y,29.0,0 days 00:06:48,5.0
 ID1810,Dan,2021-02-01,Monday,0 days 13:46:34,Contract related,Y,N,87.0,0 days 00:06:47,5.0
 ID1778,Becky,2021-02-01,Monday,0 days 09:25:55,Payment related,Y,N,125.0,0 days 00:06:46,4.0
@@ -1828,21 +1511,6 @@ ID1804,Dan,2021-02-01,Monday,0 days 13:30:43,Streaming,Y,Y,99.0,0 days 00:00:55,
 ID1793,Dan,2021-02-01,Monday,0 days 12:18:43,Contract related,Y,Y,109.0,0 days 00:00:52,3.0
 ID1827,Dan,2021-02-01,Monday,0 days 16:22:05,Admin Support,Y,Y,114.0,0 days 00:00:45,5.0
 ID1824,Martha,2021-02-01,Monday,0 days 16:14:53,Payment related,Y,Y,44.0,0 days 00:00:41,5.0
-ID1773,Dan,2021-02-01,Monday,0 days 09:18:43,Contract related,N,N,,0 days 00:00:00,
-ID1777,Jim,2021-02-01,Monday,0 days 09:25:55,Technical Support,N,N,,0 days 00:00:00,
-ID1780,Martha,2021-02-01,Monday,0 days 09:37:26,Technical Support,N,N,,0 days 00:00:00,
-ID1781,Becky,2021-02-01,Monday,0 days 09:37:26,Contract related,N,N,,0 days 00:00:00,
-ID1785,Becky,2021-02-01,Monday,0 days 10:32:10,Admin Support,N,N,,0 days 00:00:00,
-ID1789,Greg,2021-02-01,Monday,0 days 11:18:14,Streaming,N,N,,0 days 00:00:00,
-ID1791,Dan,2021-02-01,Monday,0 days 12:07:12,Technical Support,N,N,,0 days 00:00:00,
-ID1805,Dan,2021-02-01,Monday,0 days 13:36:29,Contract related,N,N,,0 days 00:00:00,
-ID1809,Becky,2021-02-01,Monday,0 days 13:46:34,Contract related,N,N,,0 days 00:00:00,
-ID1817,Joe,2021-02-01,Monday,0 days 14:32:38,Payment related,N,N,,0 days 00:00:00,
-ID1830,Greg,2021-02-01,Monday,0 days 16:46:34,Payment related,N,N,,0 days 00:00:00,
-ID1832,Joe,2021-02-01,Monday,0 days 17:12:29,Payment related,N,N,,0 days 00:00:00,
-ID1833,Stewart,2021-02-01,Monday,0 days 17:24:00,Technical Support,N,N,,0 days 00:00:00,
-ID1834,Greg,2021-02-01,Monday,0 days 17:24:00,Payment related,N,N,,0 days 00:00:00,
-ID1844,Diane,2021-02-01,Monday,0 days 17:57:07,Streaming,N,N,,0 days 00:00:00,
 ID1848,Jim,2021-02-02,Tuesday,0 days 09:44:38,Contract related,Y,Y,39.0,0 days 00:06:59,4.0
 ID1857,Becky,2021-02-02,Tuesday,0 days 11:18:14,Streaming,Y,Y,102.0,0 days 00:06:37,4.0
 ID1870,Stewart,2021-02-02,Tuesday,0 days 15:30:14,Payment related,Y,Y,63.0,0 days 00:06:25,4.0
@@ -1871,14 +1539,6 @@ ID1854,Stewart,2021-02-02,Tuesday,0 days 10:35:02,Admin Support,Y,Y,60.0,0 days 
 ID1847,Dan,2021-02-02,Tuesday,0 days 09:44:38,Streaming,Y,Y,64.0,0 days 00:01:28,5.0
 ID1868,Becky,2021-02-02,Tuesday,0 days 14:00:58,Contract related,Y,Y,48.0,0 days 00:01:18,4.0
 ID1852,Stewart,2021-02-02,Tuesday,0 days 09:57:36,Streaming,Y,Y,35.0,0 days 00:01:03,4.0
-ID1849,Joe,2021-02-02,Tuesday,0 days 09:54:43,Admin Support,N,N,,0 days 00:00:00,
-ID1850,Stewart,2021-02-02,Tuesday,0 days 09:54:43,Contract related,N,N,,0 days 00:00:00,
-ID1851,Martha,2021-02-02,Tuesday,0 days 09:57:36,Streaming,N,N,,0 days 00:00:00,
-ID1860,Joe,2021-02-02,Tuesday,0 days 13:06:14,Contract related,N,N,,0 days 00:00:00,
-ID1863,Greg,2021-02-02,Tuesday,0 days 13:46:34,Payment related,N,N,,0 days 00:00:00,
-ID1865,Diane,2021-02-02,Tuesday,0 days 13:46:34,Streaming,N,N,,0 days 00:00:00,
-ID1878,Martha,2021-02-02,Tuesday,0 days 16:52:19,Technical Support,N,N,,0 days 00:00:00,
-ID1880,Stewart,2021-02-02,Tuesday,0 days 17:11:02,Payment related,N,N,,0 days 00:00:00,
 ID1934,Becky,2021-02-03,Wednesday,0 days 14:45:36,Payment related,Y,Y,59.0,0 days 00:06:59,1.0
 ID1901,Dan,2021-02-03,Wednesday,0 days 11:12:29,Contract related,Y,Y,20.0,0 days 00:06:58,4.0
 ID1900,Martha,2021-02-03,Wednesday,0 days 10:50:53,Admin Support,Y,Y,41.0,0 days 00:06:54,4.0
@@ -1938,21 +1598,6 @@ ID1942,Martha,2021-02-03,Wednesday,0 days 16:32:10,Contract related,Y,Y,17.0,0 d
 ID1882,Jim,2021-02-03,Wednesday,0 days 09:25:55,Streaming,Y,Y,47.0,0 days 00:00:53,4.0
 ID1906,Dan,2021-02-03,Wednesday,0 days 11:34:05,Streaming,Y,N,27.0,0 days 00:00:49,1.0
 ID1887,Becky,2021-02-03,Wednesday,0 days 09:41:46,Contract related,Y,Y,86.0,0 days 00:00:44,5.0
-ID1888,Diane,2021-02-03,Wednesday,0 days 09:41:46,Streaming,N,N,,0 days 00:00:00,
-ID1889,Greg,2021-02-03,Wednesday,0 days 09:48:58,Streaming,N,N,,0 days 00:00:00,
-ID1890,Diane,2021-02-03,Wednesday,0 days 09:48:58,Contract related,N,N,,0 days 00:00:00,
-ID1891,Dan,2021-02-03,Wednesday,0 days 10:09:07,Streaming,N,N,,0 days 00:00:00,
-ID1897,Dan,2021-02-03,Wednesday,0 days 10:45:07,Contract related,N,N,,0 days 00:00:00,
-ID1899,Greg,2021-02-03,Wednesday,0 days 10:50:53,Contract related,N,N,,0 days 00:00:00,
-ID1904,Dan,2021-02-03,Wednesday,0 days 11:13:55,Streaming,N,N,,0 days 00:00:00,
-ID1905,Martha,2021-02-03,Wednesday,0 days 11:34:05,Technical Support,N,N,,0 days 00:00:00,
-ID1912,Diane,2021-02-03,Wednesday,0 days 12:40:19,Technical Support,N,N,,0 days 00:00:00,
-ID1914,Joe,2021-02-03,Wednesday,0 days 12:44:38,Admin Support,N,N,,0 days 00:00:00,
-ID1921,Greg,2021-02-03,Wednesday,0 days 13:32:10,Streaming,N,N,,0 days 00:00:00,
-ID1922,Dan,2021-02-03,Wednesday,0 days 13:32:10,Admin Support,N,N,,0 days 00:00:00,
-ID1924,Jim,2021-02-03,Wednesday,0 days 13:33:36,Streaming,N,N,,0 days 00:00:00,
-ID1948,Diane,2021-02-03,Wednesday,0 days 16:58:05,Streaming,N,N,,0 days 00:00:00,
-ID1950,Stewart,2021-02-03,Wednesday,0 days 17:03:50,Payment related,N,N,,0 days 00:00:00,
 ID1962,Greg,2021-02-04,Thursday,0 days 10:04:48,Technical Support,Y,Y,117.0,0 days 00:06:57,5.0
 ID1956,Dan,2021-02-04,Thursday,0 days 09:11:31,Streaming,Y,Y,32.0,0 days 00:06:52,4.0
 ID1977,Stewart,2021-02-04,Thursday,0 days 12:00:00,Contract related,Y,Y,105.0,0 days 00:06:51,5.0
@@ -2008,23 +1653,6 @@ ID1963,Diane,2021-02-04,Thursday,0 days 10:09:07,Admin Support,Y,Y,118.0,0 days 
 ID2002,Stewart,2021-02-04,Thursday,0 days 14:47:02,Streaming,Y,Y,82.0,0 days 00:00:44,1.0
 ID1973,Becky,2021-02-04,Thursday,0 days 11:39:50,Contract related,Y,Y,31.0,0 days 00:00:42,3.0
 ID1981,Stewart,2021-02-04,Thursday,0 days 12:14:24,Streaming,Y,Y,44.0,0 days 00:00:36,3.0
-ID1955,Greg,2021-02-04,Thursday,0 days 09:11:31,Admin Support,N,N,,0 days 00:00:00,
-ID1958,Diane,2021-02-04,Thursday,0 days 09:36:00,Technical Support,N,N,,0 days 00:00:00,
-ID1959,Martha,2021-02-04,Thursday,0 days 09:56:10,Admin Support,N,N,,0 days 00:00:00,
-ID1967,Diane,2021-02-04,Thursday,0 days 10:33:36,Streaming,N,N,,0 days 00:00:00,
-ID1972,Jim,2021-02-04,Thursday,0 days 11:02:24,Contract related,N,N,,0 days 00:00:00,
-ID1975,Joe,2021-02-04,Thursday,0 days 11:45:36,Payment related,N,N,,0 days 00:00:00,
-ID1976,Stewart,2021-02-04,Thursday,0 days 11:45:36,Technical Support,N,N,,0 days 00:00:00,
-ID1983,Diane,2021-02-04,Thursday,0 days 12:20:10,Streaming,N,N,,0 days 00:00:00,
-ID1987,Joe,2021-02-04,Thursday,0 days 12:36:00,Technical Support,N,N,,0 days 00:00:00,
-ID1994,Diane,2021-02-04,Thursday,0 days 13:06:14,Admin Support,N,N,,0 days 00:00:00,
-ID1996,Stewart,2021-02-04,Thursday,0 days 13:23:31,Payment related,N,N,,0 days 00:00:00,
-ID2000,Diane,2021-02-04,Thursday,0 days 14:03:50,Technical Support,N,N,,0 days 00:00:00,
-ID2003,Jim,2021-02-04,Thursday,0 days 14:58:34,Admin Support,N,N,,0 days 00:00:00,
-ID2008,Jim,2021-02-04,Thursday,0 days 15:34:34,Streaming,N,N,,0 days 00:00:00,
-ID2009,Diane,2021-02-04,Thursday,0 days 15:46:05,Payment related,N,N,,0 days 00:00:00,
-ID2012,Joe,2021-02-04,Thursday,0 days 15:47:31,Technical Support,N,N,,0 days 00:00:00,
-ID2026,Martha,2021-02-04,Thursday,0 days 17:57:07,Technical Support,N,N,,0 days 00:00:00,
 ID2050,Joe,2021-02-05,Friday,0 days 11:39:50,Payment related,Y,Y,50.0,0 days 00:06:55,1.0
 ID2086,Martha,2021-02-05,Friday,0 days 16:04:48,Admin Support,Y,Y,82.0,0 days 00:06:54,1.0
 ID2036,Stewart,2021-02-05,Friday,0 days 09:40:19,Payment related,Y,Y,33.0,0 days 00:06:52,3.0
@@ -2082,21 +1710,6 @@ ID2044,Joe,2021-02-05,Friday,0 days 10:49:26,Streaming,Y,Y,61.0,0 days 00:00:55,
 ID2098,Diane,2021-02-05,Friday,0 days 17:44:10,Technical Support,Y,Y,125.0,0 days 00:00:50,3.0
 ID2074,Martha,2021-02-05,Friday,0 days 14:32:38,Streaming,Y,Y,113.0,0 days 00:00:37,5.0
 ID2089,Jim,2021-02-05,Friday,0 days 16:23:31,Technical Support,Y,Y,30.0,0 days 00:00:35,4.0
-ID2029,Greg,2021-02-05,Friday,0 days 09:27:22,Technical Support,N,N,,0 days 00:00:00,
-ID2030,Jim,2021-02-05,Friday,0 days 09:27:22,Contract related,N,N,,0 days 00:00:00,
-ID2032,Martha,2021-02-05,Friday,0 days 09:37:26,Streaming,N,N,,0 days 00:00:00,
-ID2038,Jim,2021-02-05,Friday,0 days 10:17:46,Admin Support,N,N,,0 days 00:00:00,
-ID2043,Dan,2021-02-05,Friday,0 days 10:49:26,Streaming,N,N,,0 days 00:00:00,
-ID2046,Martha,2021-02-05,Friday,0 days 11:13:55,Payment related,N,N,,0 days 00:00:00,
-ID2051,Dan,2021-02-05,Friday,0 days 11:42:43,Admin Support,N,N,,0 days 00:00:00,
-ID2058,Greg,2021-02-05,Friday,0 days 11:49:55,Admin Support,N,N,,0 days 00:00:00,
-ID2071,Dan,2021-02-05,Friday,0 days 14:26:53,Payment related,N,N,,0 days 00:00:00,
-ID2084,Martha,2021-02-05,Friday,0 days 15:41:46,Admin Support,N,N,,0 days 00:00:00,
-ID2090,Martha,2021-02-05,Friday,0 days 16:23:31,Technical Support,N,N,,0 days 00:00:00,
-ID2092,Dan,2021-02-05,Friday,0 days 16:55:12,Admin Support,N,N,,0 days 00:00:00,
-ID2094,Jim,2021-02-05,Friday,0 days 17:21:07,Admin Support,N,N,,0 days 00:00:00,
-ID2095,Martha,2021-02-05,Friday,0 days 17:39:50,Contract related,N,N,,0 days 00:00:00,
-ID2096,Jim,2021-02-05,Friday,0 days 17:39:50,Technical Support,N,N,,0 days 00:00:00,
 ID2137,Stewart,2021-02-06,Saturday,0 days 15:53:17,Payment related,Y,Y,63.0,0 days 00:06:51,3.0
 ID2135,Becky,2021-02-06,Saturday,0 days 14:55:41,Technical Support,Y,Y,44.0,0 days 00:06:35,4.0
 ID2113,Becky,2021-02-06,Saturday,0 days 11:32:38,Contract related,Y,Y,15.0,0 days 00:06:23,5.0
@@ -2139,14 +1752,6 @@ ID2106,Becky,2021-02-06,Saturday,0 days 10:46:34,Admin Support,Y,Y,116.0,0 days 
 ID2108,Greg,2021-02-06,Saturday,0 days 10:48:00,Technical Support,Y,Y,55.0,0 days 00:00:50,5.0
 ID2119,Dan,2021-02-06,Saturday,0 days 12:02:53,Streaming,Y,Y,41.0,0 days 00:00:49,4.0
 ID2105,Joe,2021-02-06,Saturday,0 days 10:46:34,Technical Support,Y,Y,27.0,0 days 00:00:38,4.0
-ID2110,Stewart,2021-02-06,Saturday,0 days 11:02:24,Contract related,N,N,,0 days 00:00:00,
-ID2114,Becky,2021-02-06,Saturday,0 days 11:32:38,Admin Support,N,N,,0 days 00:00:00,
-ID2116,Becky,2021-02-06,Saturday,0 days 11:38:24,Payment related,N,N,,0 days 00:00:00,
-ID2121,Martha,2021-02-06,Saturday,0 days 12:12:58,Payment related,N,N,,0 days 00:00:00,
-ID2127,Diane,2021-02-06,Saturday,0 days 13:03:22,Streaming,N,N,,0 days 00:00:00,
-ID2131,Martha,2021-02-06,Saturday,0 days 13:43:41,Payment related,N,N,,0 days 00:00:00,
-ID2133,Dan,2021-02-06,Saturday,0 days 14:52:48,Technical Support,N,N,,0 days 00:00:00,
-ID2138,Diane,2021-02-06,Saturday,0 days 15:53:17,Payment related,N,N,,0 days 00:00:00,
 ID2149,Diane,2021-02-07,Sunday,0 days 09:10:05,Admin Support,Y,Y,71.0,0 days 00:06:52,3.0
 ID2152,Dan,2021-02-07,Sunday,0 days 09:28:48,Payment related,Y,Y,11.0,0 days 00:06:50,5.0
 ID2177,Becky,2021-02-07,Sunday,0 days 13:48:00,Payment related,Y,Y,111.0,0 days 00:06:44,5.0
@@ -2194,15 +1799,6 @@ ID2160,Martha,2021-02-07,Sunday,0 days 10:13:26,Admin Support,Y,Y,13.0,0 days 00
 ID2188,Diane,2021-02-07,Sunday,0 days 15:20:10,Streaming,Y,Y,77.0,0 days 00:01:05,4.0
 ID2166,Diane,2021-02-07,Sunday,0 days 11:24:00,Technical Support,Y,Y,51.0,0 days 00:00:58,5.0
 ID2175,Diane,2021-02-07,Sunday,0 days 13:04:48,Technical Support,Y,Y,120.0,0 days 00:00:40,3.0
-ID2151,Martha,2021-02-07,Sunday,0 days 09:28:48,Technical Support,N,N,,0 days 00:00:00,
-ID2156,Becky,2021-02-07,Sunday,0 days 10:00:29,Payment related,N,N,,0 days 00:00:00,
-ID2159,Diane,2021-02-07,Sunday,0 days 10:13:26,Payment related,N,N,,0 days 00:00:00,
-ID2180,Dan,2021-02-07,Sunday,0 days 13:52:19,Admin Support,N,N,,0 days 00:00:00,
-ID2192,Martha,2021-02-07,Sunday,0 days 16:19:12,Technical Support,N,N,,0 days 00:00:00,
-ID2197,Jim,2021-02-07,Sunday,0 days 16:35:02,Payment related,N,N,,0 days 00:00:00,
-ID2199,Martha,2021-02-07,Sunday,0 days 16:39:22,Payment related,N,N,,0 days 00:00:00,
-ID2200,Becky,2021-02-07,Sunday,0 days 16:39:22,Payment related,N,N,,0 days 00:00:00,
-ID2204,Greg,2021-02-07,Sunday,0 days 17:25:26,Contract related,N,N,,0 days 00:00:00,
 ID2246,Dan,2021-02-08,Monday,0 days 17:57:07,Payment related,Y,Y,38.0,0 days 00:06:48,5.0
 ID2233,Diane,2021-02-08,Monday,0 days 16:13:26,Payment related,Y,Y,119.0,0 days 00:06:46,3.0
 ID2209,Diane,2021-02-08,Monday,0 days 09:23:02,Admin Support,Y,Y,40.0,0 days 00:06:40,1.0
@@ -2238,13 +1834,6 @@ ID2226,Greg,2021-02-08,Monday,0 days 14:26:53,Payment related,Y,Y,66.0,0 days 00
 ID2211,Joe,2021-02-08,Monday,0 days 10:07:41,Payment related,Y,Y,24.0,0 days 00:01:02,4.0
 ID2220,Stewart,2021-02-08,Monday,0 days 13:23:31,Contract related,Y,Y,81.0,0 days 00:00:55,2.0
 ID2245,Greg,2021-02-08,Monday,0 days 17:57:07,Admin Support,Y,Y,12.0,0 days 00:00:48,3.0
-ID2205,Jim,2021-02-08,Monday,0 days 09:00:00,Admin Support,N,N,,0 days 00:00:00,
-ID2212,Diane,2021-02-08,Monday,0 days 10:07:41,Contract related,N,N,,0 days 00:00:00,
-ID2216,Stewart,2021-02-08,Monday,0 days 12:11:31,Streaming,N,N,,0 days 00:00:00,
-ID2218,Martha,2021-02-08,Monday,0 days 13:09:07,Contract related,N,N,,0 days 00:00:00,
-ID2221,Diane,2021-02-08,Monday,0 days 14:15:22,Technical Support,N,N,,0 days 00:00:00,
-ID2231,Becky,2021-02-08,Monday,0 days 14:55:41,Payment related,N,N,,0 days 00:00:00,
-ID2242,Martha,2021-02-08,Monday,0 days 16:46:34,Streaming,N,N,,0 days 00:00:00,
 ID2255,Dan,2021-02-09,Tuesday,0 days 10:46:34,Admin Support,Y,Y,62.0,0 days 00:06:52,4.0
 ID2298,Jim,2021-02-09,Tuesday,0 days 17:03:50,Streaming,Y,N,36.0,0 days 00:06:51,2.0
 ID2258,Dan,2021-02-09,Tuesday,0 days 11:32:38,Payment related,Y,N,100.0,0 days 00:06:45,5.0
@@ -2291,16 +1880,6 @@ ID2297,Greg,2021-02-09,Tuesday,0 days 17:03:50,Payment related,Y,Y,110.0,0 days 
 ID2263,Dan,2021-02-09,Tuesday,0 days 12:37:26,Payment related,Y,Y,122.0,0 days 00:00:48,4.0
 ID2292,Greg,2021-02-09,Tuesday,0 days 16:22:05,Streaming,Y,Y,38.0,0 days 00:00:43,2.0
 ID2249,Stewart,2021-02-09,Tuesday,0 days 09:28:48,Streaming,Y,Y,105.0,0 days 00:00:32,5.0
-ID2261,Dan,2021-02-09,Tuesday,0 days 12:28:48,Payment related,N,N,,0 days 00:00:00,
-ID2262,Stewart,2021-02-09,Tuesday,0 days 12:28:48,Streaming,N,N,,0 days 00:00:00,
-ID2265,Becky,2021-02-09,Tuesday,0 days 12:47:31,Contract related,N,N,,0 days 00:00:00,
-ID2266,Greg,2021-02-09,Tuesday,0 days 12:47:31,Technical Support,N,N,,0 days 00:00:00,
-ID2274,Greg,2021-02-09,Tuesday,0 days 13:06:14,Technical Support,N,N,,0 days 00:00:00,
-ID2277,Jim,2021-02-09,Tuesday,0 days 13:29:17,Admin Support,N,N,,0 days 00:00:00,
-ID2282,Joe,2021-02-09,Tuesday,0 days 14:29:46,Payment related,N,N,,0 days 00:00:00,
-ID2283,Diane,2021-02-09,Tuesday,0 days 15:20:10,Technical Support,N,N,,0 days 00:00:00,
-ID2286,Martha,2021-02-09,Tuesday,0 days 15:54:43,Technical Support,N,N,,0 days 00:00:00,
-ID2301,Dan,2021-02-09,Tuesday,0 days 17:57:07,Admin Support,N,N,,0 days 00:00:00,
 ID2353,Diane,2021-02-10,Wednesday,0 days 17:08:10,Technical Support,Y,Y,114.0,0 days 00:06:54,3.0
 ID2309,Diane,2021-02-10,Wednesday,0 days 10:37:55,Technical Support,Y,Y,87.0,0 days 00:06:49,3.0
 ID2308,Jim,2021-02-10,Wednesday,0 days 09:18:43,Streaming,Y,Y,56.0,0 days 00:06:38,4.0
@@ -2349,20 +1928,6 @@ ID2329,Joe,2021-02-10,Wednesday,0 days 12:47:31,Technical Support,Y,Y,11.0,0 day
 ID2343,Greg,2021-02-10,Wednesday,0 days 15:46:05,Payment related,Y,Y,120.0,0 days 00:00:56,3.0
 ID2328,Martha,2021-02-10,Wednesday,0 days 12:23:02,Contract related,Y,Y,103.0,0 days 00:00:52,2.0
 ID2355,Diane,2021-02-10,Wednesday,0 days 17:18:14,Admin Support,Y,Y,47.0,0 days 00:00:47,4.0
-ID2304,Stewart,2021-02-10,Wednesday,0 days 09:01:26,Admin Support,N,N,,0 days 00:00:00,
-ID2310,Becky,2021-02-10,Wednesday,0 days 10:37:55,Contract related,N,N,,0 days 00:00:00,
-ID2321,Becky,2021-02-10,Wednesday,0 days 11:51:22,Payment related,N,N,,0 days 00:00:00,
-ID2322,Stewart,2021-02-10,Wednesday,0 days 11:51:22,Payment related,N,N,,0 days 00:00:00,
-ID2326,Becky,2021-02-10,Wednesday,0 days 12:20:10,Technical Support,N,N,,0 days 00:00:00,
-ID2327,Jim,2021-02-10,Wednesday,0 days 12:23:02,Contract related,N,N,,0 days 00:00:00,
-ID2330,Dan,2021-02-10,Wednesday,0 days 12:47:31,Admin Support,N,N,,0 days 00:00:00,
-ID2339,Stewart,2021-02-10,Wednesday,0 days 14:09:36,Streaming,N,N,,0 days 00:00:00,
-ID2346,Diane,2021-02-10,Wednesday,0 days 16:22:05,Admin Support,N,N,,0 days 00:00:00,
-ID2348,Becky,2021-02-10,Wednesday,0 days 16:26:24,Technical Support,N,N,,0 days 00:00:00,
-ID2349,Joe,2021-02-10,Wednesday,0 days 16:27:50,Technical Support,N,N,,0 days 00:00:00,
-ID2351,Dan,2021-02-10,Wednesday,0 days 16:27:50,Contract related,N,N,,0 days 00:00:00,
-ID2352,Diane,2021-02-10,Wednesday,0 days 16:27:50,Contract related,N,N,,0 days 00:00:00,
-ID2361,Jim,2021-02-10,Wednesday,0 days 17:35:31,Contract related,N,N,,0 days 00:00:00,
 ID2419,Martha,2021-02-11,Thursday,0 days 14:25:26,Streaming,Y,Y,89.0,0 days 00:06:57,5.0
 ID2398,Greg,2021-02-11,Thursday,0 days 12:34:34,Technical Support,Y,Y,120.0,0 days 00:06:54,3.0
 ID2379,Greg,2021-02-11,Thursday,0 days 11:05:17,Payment related,Y,Y,58.0,0 days 00:06:31,3.0
@@ -2421,20 +1986,6 @@ ID2399,Martha,2021-02-11,Thursday,0 days 12:36:00,Admin Support,Y,Y,32.0,0 days 
 ID2410,Joe,2021-02-11,Thursday,0 days 13:30:43,Contract related,Y,Y,116.0,0 days 00:00:49,5.0
 ID2385,Jim,2021-02-11,Thursday,0 days 11:55:41,Payment related,Y,Y,31.0,0 days 00:00:47,4.0
 ID2383,Dan,2021-02-11,Thursday,0 days 11:54:14,Streaming,Y,Y,106.0,0 days 00:00:41,4.0
-ID2367,Becky,2021-02-11,Thursday,0 days 09:11:31,Payment related,N,N,,0 days 00:00:00,
-ID2372,Greg,2021-02-11,Thursday,0 days 09:44:38,Contract related,N,N,,0 days 00:00:00,
-ID2380,Diane,2021-02-11,Thursday,0 days 11:05:17,Contract related,N,N,,0 days 00:00:00,
-ID2384,Becky,2021-02-11,Thursday,0 days 11:54:14,Admin Support,N,N,,0 days 00:00:00,
-ID2387,Diane,2021-02-11,Thursday,0 days 12:00:00,Payment related,N,N,,0 days 00:00:00,
-ID2389,Becky,2021-02-11,Thursday,0 days 12:00:00,Payment related,N,N,,0 days 00:00:00,
-ID2390,Becky,2021-02-11,Thursday,0 days 12:00:00,Admin Support,N,N,,0 days 00:00:00,
-ID2394,Dan,2021-02-11,Thursday,0 days 12:15:50,Payment related,N,N,,0 days 00:00:00,
-ID2395,Stewart,2021-02-11,Thursday,0 days 12:30:14,Payment related,N,N,,0 days 00:00:00,
-ID2397,Dan,2021-02-11,Thursday,0 days 12:34:34,Technical Support,N,N,,0 days 00:00:00,
-ID2401,Jim,2021-02-11,Thursday,0 days 12:50:24,Contract related,N,N,,0 days 00:00:00,
-ID2404,Stewart,2021-02-11,Thursday,0 days 12:57:36,Payment related,N,N,,0 days 00:00:00,
-ID2417,Jim,2021-02-11,Thursday,0 days 14:03:50,Contract related,N,N,,0 days 00:00:00,
-ID2433,Diane,2021-02-11,Thursday,0 days 17:02:24,Technical Support,N,N,,0 days 00:00:00,
 ID2446,Becky,2021-02-12,Friday,0 days 10:24:58,Streaming,Y,Y,21.0,0 days 00:07:00,5.0
 ID2457,Becky,2021-02-12,Friday,0 days 11:26:53,Technical Support,Y,Y,99.0,0 days 00:06:55,5.0
 ID2460,Dan,2021-02-12,Friday,0 days 11:54:14,Admin Support,Y,Y,67.0,0 days 00:06:52,3.0
@@ -2469,16 +2020,6 @@ ID2477,Becky,2021-02-12,Friday,0 days 17:52:48,Streaming,Y,Y,61.0,0 days 00:01:1
 ID2471,Diane,2021-02-12,Friday,0 days 13:29:17,Technical Support,Y,Y,43.0,0 days 00:00:56,2.0
 ID2466,Greg,2021-02-12,Friday,0 days 12:50:24,Payment related,Y,Y,57.0,0 days 00:00:46,1.0
 ID2454,Dan,2021-02-12,Friday,0 days 10:53:46,Admin Support,Y,Y,31.0,0 days 00:00:32,4.0
-ID2437,Martha,2021-02-12,Friday,0 days 09:12:58,Contract related,N,N,,0 days 00:00:00,
-ID2438,Joe,2021-02-12,Friday,0 days 09:12:58,Payment related,N,N,,0 days 00:00:00,
-ID2443,Martha,2021-02-12,Friday,0 days 10:16:19,Admin Support,N,N,,0 days 00:00:00,
-ID2444,Jim,2021-02-12,Friday,0 days 10:16:19,Technical Support,N,N,,0 days 00:00:00,
-ID2450,Becky,2021-02-12,Friday,0 days 10:32:10,Contract related,N,N,,0 days 00:00:00,
-ID2455,Dan,2021-02-12,Friday,0 days 11:08:10,Contract related,N,N,,0 days 00:00:00,
-ID2462,Dan,2021-02-12,Friday,0 days 12:14:24,Technical Support,N,N,,0 days 00:00:00,
-ID2468,Jim,2021-02-12,Friday,0 days 13:07:41,Admin Support,N,N,,0 days 00:00:00,
-ID2473,Diane,2021-02-12,Friday,0 days 15:53:17,Technical Support,N,N,,0 days 00:00:00,
-ID2480,Diane,2021-02-12,Friday,0 days 17:52:48,Streaming,N,N,,0 days 00:00:00,
 ID2519,Stewart,2021-02-13,Saturday,0 days 14:28:19,Admin Support,Y,Y,45.0,0 days 00:06:53,4.0
 ID2501,Martha,2021-02-13,Saturday,0 days 12:12:58,Payment related,Y,Y,79.0,0 days 00:06:47,1.0
 ID2502,Greg,2021-02-13,Saturday,0 days 12:12:58,Contract related,Y,Y,123.0,0 days 00:06:42,2.0
@@ -2522,17 +2063,6 @@ ID2492,Greg,2021-02-13,Saturday,0 days 10:10:34,Contract related,Y,Y,83.0,0 days
 ID2517,Greg,2021-02-13,Saturday,0 days 13:30:43,Streaming,Y,Y,54.0,0 days 00:00:35,4.0
 ID2520,Martha,2021-02-13,Saturday,0 days 14:28:19,Payment related,Y,Y,79.0,0 days 00:00:31,5.0
 ID2532,Joe,2021-02-13,Saturday,0 days 16:50:53,Contract related,Y,Y,35.0,0 days 00:00:31,5.0
-ID2481,Martha,2021-02-13,Saturday,0 days 09:14:24,Payment related,N,N,,0 days 00:00:00,
-ID2482,Dan,2021-02-13,Saturday,0 days 09:14:24,Technical Support,N,N,,0 days 00:00:00,
-ID2484,Jim,2021-02-13,Saturday,0 days 09:33:07,Streaming,N,N,,0 days 00:00:00,
-ID2486,Jim,2021-02-13,Saturday,0 days 09:36:00,Payment related,N,N,,0 days 00:00:00,
-ID2487,Becky,2021-02-13,Saturday,0 days 09:41:46,Contract related,N,N,,0 days 00:00:00,
-ID2494,Dan,2021-02-13,Saturday,0 days 10:33:36,Payment related,N,N,,0 days 00:00:00,
-ID2507,Jim,2021-02-13,Saturday,0 days 12:28:48,Admin Support,N,N,,0 days 00:00:00,
-ID2509,Dan,2021-02-13,Saturday,0 days 12:47:31,Technical Support,N,N,,0 days 00:00:00,
-ID2513,Greg,2021-02-13,Saturday,0 days 13:13:26,Admin Support,N,N,,0 days 00:00:00,
-ID2529,Martha,2021-02-13,Saturday,0 days 16:16:19,Streaming,N,N,,0 days 00:00:00,
-ID2531,Diane,2021-02-13,Saturday,0 days 16:50:53,Payment related,N,N,,0 days 00:00:00,
 ID2592,Joe,2021-02-14,Sunday,0 days 17:36:58,Streaming,Y,Y,68.0,0 days 00:06:54,4.0
 ID2593,Greg,2021-02-14,Sunday,0 days 17:42:43,Contract related,Y,N,99.0,0 days 00:06:54,1.0
 ID2564,Greg,2021-02-14,Sunday,0 days 13:50:53,Contract related,Y,Y,43.0,0 days 00:06:53,4.0
@@ -2583,16 +2113,6 @@ ID2591,Martha,2021-02-14,Sunday,0 days 17:36:58,Streaming,Y,N,109.0,0 days 00:01
 ID2554,Joe,2021-02-14,Sunday,0 days 12:41:46,Payment related,Y,Y,70.0,0 days 00:01:10,2.0
 ID2577,Becky,2021-02-14,Sunday,0 days 16:37:55,Streaming,Y,Y,70.0,0 days 00:00:39,1.0
 ID2549,Jim,2021-02-14,Sunday,0 days 11:54:14,Technical Support,Y,Y,42.0,0 days 00:00:36,4.0
-ID2538,Stewart,2021-02-14,Sunday,0 days 09:38:53,Contract related,N,N,,0 days 00:00:00,
-ID2541,Jim,2021-02-14,Sunday,0 days 09:48:58,Contract related,N,N,,0 days 00:00:00,
-ID2548,Diane,2021-02-14,Sunday,0 days 10:52:19,Technical Support,N,N,,0 days 00:00:00,
-ID2552,Greg,2021-02-14,Sunday,0 days 12:31:41,Contract related,N,N,,0 days 00:00:00,
-ID2555,Stewart,2021-02-14,Sunday,0 days 12:57:36,Streaming,N,N,,0 days 00:00:00,
-ID2556,Jim,2021-02-14,Sunday,0 days 12:57:36,Technical Support,N,N,,0 days 00:00:00,
-ID2561,Jim,2021-02-14,Sunday,0 days 13:46:34,Payment related,N,N,,0 days 00:00:00,
-ID2565,Dan,2021-02-14,Sunday,0 days 14:21:07,Payment related,N,N,,0 days 00:00:00,
-ID2574,Martha,2021-02-14,Sunday,0 days 15:34:34,Admin Support,N,N,,0 days 00:00:00,
-ID2579,Stewart,2021-02-14,Sunday,0 days 16:37:55,Contract related,N,N,,0 days 00:00:00,
 ID2624,Martha,2021-02-15,Monday,0 days 13:26:24,Streaming,Y,Y,50.0,0 days 00:06:47,2.0
 ID2612,Stewart,2021-02-15,Monday,0 days 11:45:36,Admin Support,Y,Y,105.0,0 days 00:06:34,5.0
 ID2650,Greg,2021-02-15,Monday,0 days 17:19:41,Admin Support,Y,Y,55.0,0 days 00:06:25,5.0
@@ -2639,18 +2159,6 @@ ID2599,Becky,2021-02-15,Monday,0 days 10:01:55,Technical Support,Y,Y,89.0,0 days
 ID2632,Joe,2021-02-15,Monday,0 days 14:29:46,Streaming,Y,Y,124.0,0 days 00:00:52,4.0
 ID2633,Diane,2021-02-15,Monday,0 days 14:44:10,Payment related,Y,Y,18.0,0 days 00:00:48,5.0
 ID2641,Joe,2021-02-15,Monday,0 days 15:47:31,Technical Support,Y,Y,25.0,0 days 00:00:47,4.0
-ID2602,Greg,2021-02-15,Monday,0 days 10:01:55,Payment related,N,N,,0 days 00:00:00,
-ID2613,Becky,2021-02-15,Monday,0 days 11:48:29,Technical Support,N,N,,0 days 00:00:00,
-ID2617,Dan,2021-02-15,Monday,0 days 12:21:36,Contract related,N,N,,0 days 00:00:00,
-ID2623,Jim,2021-02-15,Monday,0 days 13:26:24,Contract related,N,N,,0 days 00:00:00,
-ID2626,Stewart,2021-02-15,Monday,0 days 13:39:22,Streaming,N,N,,0 days 00:00:00,
-ID2628,Becky,2021-02-15,Monday,0 days 13:42:14,Admin Support,N,N,,0 days 00:00:00,
-ID2629,Greg,2021-02-15,Monday,0 days 14:28:19,Technical Support,N,N,,0 days 00:00:00,
-ID2635,Jim,2021-02-15,Monday,0 days 14:51:22,Technical Support,N,N,,0 days 00:00:00,
-ID2642,Becky,2021-02-15,Monday,0 days 15:47:31,Streaming,N,N,,0 days 00:00:00,
-ID2645,Becky,2021-02-15,Monday,0 days 17:11:02,Payment related,N,N,,0 days 00:00:00,
-ID2651,Dan,2021-02-15,Monday,0 days 17:45:36,Admin Support,N,N,,0 days 00:00:00,
-ID2652,Jim,2021-02-15,Monday,0 days 17:45:36,Payment related,N,N,,0 days 00:00:00,
 ID2657,Jim,2021-02-16,Tuesday,0 days 10:23:31,Admin Support,Y,Y,26.0,0 days 00:06:54,3.0
 ID2688,Martha,2021-02-16,Tuesday,0 days 15:34:34,Streaming,Y,Y,87.0,0 days 00:06:52,4.0
 ID2659,Greg,2021-02-16,Tuesday,0 days 10:30:43,Technical Support,Y,Y,26.0,0 days 00:06:28,3.0
@@ -2701,12 +2209,6 @@ ID2685,Greg,2021-02-16,Tuesday,0 days 15:20:10,Technical Support,Y,Y,105.0,0 day
 ID2678,Joe,2021-02-16,Tuesday,0 days 14:26:53,Payment related,Y,Y,53.0,0 days 00:01:04,1.0
 ID2701,Dan,2021-02-16,Tuesday,0 days 17:28:19,Technical Support,Y,Y,17.0,0 days 00:00:42,5.0
 ID2661,Stewart,2021-02-16,Tuesday,0 days 10:30:43,Admin Support,Y,Y,53.0,0 days 00:00:31,1.0
-ID2667,Jim,2021-02-16,Tuesday,0 days 11:18:14,Contract related,N,N,,0 days 00:00:00,
-ID2673,Diane,2021-02-16,Tuesday,0 days 12:50:24,Payment related,N,N,,0 days 00:00:00,
-ID2686,Diane,2021-02-16,Tuesday,0 days 15:20:10,Admin Support,N,N,,0 days 00:00:00,
-ID2690,Dan,2021-02-16,Tuesday,0 days 16:04:48,Admin Support,N,N,,0 days 00:00:00,
-ID2695,Greg,2021-02-16,Tuesday,0 days 16:29:17,Streaming,N,N,,0 days 00:00:00,
-ID2697,Becky,2021-02-16,Tuesday,0 days 16:32:10,Technical Support,N,N,,0 days 00:00:00,
 ID2775,Joe,2021-02-17,Wednesday,0 days 17:54:14,Contract related,Y,Y,78.0,0 days 00:06:57,3.0
 ID2758,Greg,2021-02-17,Wednesday,0 days 15:10:05,Contract related,Y,N,50.0,0 days 00:06:42,4.0
 ID2725,Martha,2021-02-17,Wednesday,0 days 10:43:41,Streaming,Y,Y,44.0,0 days 00:06:31,5.0
@@ -2762,19 +2264,6 @@ ID2769,Stewart,2021-02-17,Wednesday,0 days 17:11:02,Payment related,Y,N,69.0,0 d
 ID2712,Greg,2021-02-17,Wednesday,0 days 09:17:17,Contract related,Y,Y,47.0,0 days 00:00:35,3.0
 ID2722,Martha,2021-02-17,Wednesday,0 days 10:03:22,Payment related,Y,Y,89.0,0 days 00:00:33,2.0
 ID2734,Martha,2021-02-17,Wednesday,0 days 11:42:43,Payment related,Y,Y,67.0,0 days 00:00:30,4.0
-ID2721,Stewart,2021-02-17,Wednesday,0 days 10:03:22,Payment related,N,N,,0 days 00:00:00,
-ID2723,Diane,2021-02-17,Wednesday,0 days 10:36:29,Contract related,N,N,,0 days 00:00:00,
-ID2727,Jim,2021-02-17,Wednesday,0 days 11:24:00,Payment related,N,N,,0 days 00:00:00,
-ID2736,Becky,2021-02-17,Wednesday,0 days 12:05:46,Streaming,N,N,,0 days 00:00:00,
-ID2741,Joe,2021-02-17,Wednesday,0 days 12:17:17,Admin Support,N,N,,0 days 00:00:00,
-ID2748,Stewart,2021-02-17,Wednesday,0 days 13:36:29,Admin Support,N,N,,0 days 00:00:00,
-ID2750,Stewart,2021-02-17,Wednesday,0 days 14:19:41,Streaming,N,N,,0 days 00:00:00,
-ID2760,Stewart,2021-02-17,Wednesday,0 days 15:46:05,Technical Support,N,N,,0 days 00:00:00,
-ID2761,Diane,2021-02-17,Wednesday,0 days 16:06:14,Payment related,N,N,,0 days 00:00:00,
-ID2766,Greg,2021-02-17,Wednesday,0 days 16:27:50,Streaming,N,N,,0 days 00:00:00,
-ID2770,Jim,2021-02-17,Wednesday,0 days 17:11:02,Admin Support,N,N,,0 days 00:00:00,
-ID2771,Martha,2021-02-17,Wednesday,0 days 17:12:29,Technical Support,N,N,,0 days 00:00:00,
-ID2773,Joe,2021-02-17,Wednesday,0 days 17:44:10,Admin Support,N,N,,0 days 00:00:00,
 ID2811,Joe,2021-02-18,Thursday,0 days 13:48:00,Streaming,Y,Y,111.0,0 days 00:06:54,1.0
 ID2779,Greg,2021-02-18,Thursday,0 days 09:43:12,Admin Support,Y,Y,74.0,0 days 00:06:52,4.0
 ID2798,Diane,2021-02-18,Thursday,0 days 11:25:26,Admin Support,Y,Y,104.0,0 days 00:06:44,4.0
@@ -2812,19 +2301,6 @@ ID2820,Jim,2021-02-18,Thursday,0 days 16:00:29,Contract related,Y,Y,29.0,0 days 
 ID2785,Joe,2021-02-18,Thursday,0 days 10:16:19,Contract related,Y,Y,96.0,0 days 00:00:47,4.0
 ID2808,Stewart,2021-02-18,Thursday,0 days 13:37:55,Admin Support,Y,Y,119.0,0 days 00:00:46,4.0
 ID2810,Stewart,2021-02-18,Thursday,0 days 13:45:07,Technical Support,Y,Y,71.0,0 days 00:00:42,3.0
-ID2789,Joe,2021-02-18,Thursday,0 days 10:37:55,Payment related,N,N,,0 days 00:00:00,
-ID2791,Greg,2021-02-18,Thursday,0 days 10:56:38,Admin Support,N,N,,0 days 00:00:00,
-ID2797,Jim,2021-02-18,Thursday,0 days 11:25:26,Payment related,N,N,,0 days 00:00:00,
-ID2799,Stewart,2021-02-18,Thursday,0 days 11:34:05,Technical Support,N,N,,0 days 00:00:00,
-ID2801,Dan,2021-02-18,Thursday,0 days 11:38:24,Streaming,N,N,,0 days 00:00:00,
-ID2802,Dan,2021-02-18,Thursday,0 days 11:38:24,Technical Support,N,N,,0 days 00:00:00,
-ID2805,Stewart,2021-02-18,Thursday,0 days 13:33:36,Admin Support,N,N,,0 days 00:00:00,
-ID2806,Jim,2021-02-18,Thursday,0 days 13:33:36,Streaming,N,N,,0 days 00:00:00,
-ID2809,Martha,2021-02-18,Thursday,0 days 13:45:07,Contract related,N,N,,0 days 00:00:00,
-ID2813,Joe,2021-02-18,Thursday,0 days 14:47:02,Technical Support,N,N,,0 days 00:00:00,
-ID2815,Jim,2021-02-18,Thursday,0 days 14:52:48,Payment related,N,N,,0 days 00:00:00,
-ID2818,Jim,2021-02-18,Thursday,0 days 15:15:50,Contract related,N,N,,0 days 00:00:00,
-ID2819,Jim,2021-02-18,Thursday,0 days 16:00:29,Payment related,N,N,,0 days 00:00:00,
 ID2838,Diane,2021-02-19,Friday,0 days 11:22:34,Streaming,Y,Y,21.0,0 days 00:06:54,3.0
 ID2827,Jim,2021-02-19,Friday,0 days 09:01:26,Admin Support,Y,Y,78.0,0 days 00:06:46,4.0
 ID2867,Stewart,2021-02-19,Friday,0 days 16:26:24,Streaming,Y,N,104.0,0 days 00:06:29,4.0
@@ -2862,17 +2338,6 @@ ID2850,Jim,2021-02-19,Friday,0 days 13:45:07,Technical Support,Y,Y,109.0,0 days 
 ID2839,Becky,2021-02-19,Friday,0 days 11:42:43,Payment related,Y,Y,113.0,0 days 00:00:41,2.0
 ID2841,Jim,2021-02-19,Friday,0 days 11:54:14,Payment related,Y,N,26.0,0 days 00:00:40,3.0
 ID2857,Stewart,2021-02-19,Friday,0 days 14:52:48,Admin Support,Y,Y,109.0,0 days 00:00:39,2.0
-ID2828,Joe,2021-02-19,Friday,0 days 09:01:26,Payment related,N,N,,0 days 00:00:00,
-ID2834,Stewart,2021-02-19,Friday,0 days 09:25:55,Contract related,N,N,,0 days 00:00:00,
-ID2835,Dan,2021-02-19,Friday,0 days 10:46:34,Payment related,N,N,,0 days 00:00:00,
-ID2836,Jim,2021-02-19,Friday,0 days 10:46:34,Admin Support,N,N,,0 days 00:00:00,
-ID2843,Diane,2021-02-19,Friday,0 days 12:15:50,Admin Support,N,N,,0 days 00:00:00,
-ID2844,Martha,2021-02-19,Friday,0 days 12:15:50,Payment related,N,N,,0 days 00:00:00,
-ID2854,Greg,2021-02-19,Friday,0 days 14:26:53,Technical Support,N,N,,0 days 00:00:00,
-ID2862,Becky,2021-02-19,Friday,0 days 15:33:07,Contract related,N,N,,0 days 00:00:00,
-ID2863,Diane,2021-02-19,Friday,0 days 15:33:07,Payment related,N,N,,0 days 00:00:00,
-ID2866,Dan,2021-02-19,Friday,0 days 16:04:48,Technical Support,N,N,,0 days 00:00:00,
-ID2871,Stewart,2021-02-19,Friday,0 days 17:29:46,Contract related,N,N,,0 days 00:00:00,
 ID2933,Greg,2021-02-20,Saturday,0 days 16:16:19,Contract related,Y,Y,51.0,0 days 00:06:30,4.0
 ID2935,Stewart,2021-02-20,Saturday,0 days 16:32:10,Payment related,Y,N,27.0,0 days 00:06:24,4.0
 ID2900,Becky,2021-02-20,Saturday,0 days 12:02:53,Payment related,Y,Y,20.0,0 days 00:06:22,3.0
@@ -2925,22 +2390,6 @@ ID2919,Greg,2021-02-20,Saturday,0 days 15:11:31,Contract related,Y,Y,32.0,0 days
 ID2939,Diane,2021-02-20,Saturday,0 days 17:25:26,Payment related,Y,Y,22.0,0 days 00:00:51,3.0
 ID2882,Dan,2021-02-20,Saturday,0 days 10:10:34,Contract related,Y,Y,20.0,0 days 00:00:49,1.0
 ID2913,Dan,2021-02-20,Saturday,0 days 14:13:55,Admin Support,Y,Y,33.0,0 days 00:00:40,1.0
-ID2879,Joe,2021-02-20,Saturday,0 days 10:01:55,Contract related,N,N,,0 days 00:00:00,
-ID2883,Martha,2021-02-20,Saturday,0 days 10:24:58,Contract related,N,N,,0 days 00:00:00,
-ID2884,Joe,2021-02-20,Saturday,0 days 10:24:58,Admin Support,N,N,,0 days 00:00:00,
-ID2887,Jim,2021-02-20,Saturday,0 days 11:00:58,Admin Support,N,N,,0 days 00:00:00,
-ID2889,Martha,2021-02-20,Saturday,0 days 11:11:02,Contract related,N,N,,0 days 00:00:00,
-ID2902,Joe,2021-02-20,Saturday,0 days 12:10:05,Contract related,N,N,,0 days 00:00:00,
-ID2907,Greg,2021-02-20,Saturday,0 days 12:51:50,Technical Support,N,N,,0 days 00:00:00,
-ID2908,Becky,2021-02-20,Saturday,0 days 12:51:50,Technical Support,N,N,,0 days 00:00:00,
-ID2910,Greg,2021-02-20,Saturday,0 days 13:35:02,Streaming,N,N,,0 days 00:00:00,
-ID2912,Jim,2021-02-20,Saturday,0 days 13:56:38,Streaming,N,N,,0 days 00:00:00,
-ID2914,Diane,2021-02-20,Saturday,0 days 14:13:55,Contract related,N,N,,0 days 00:00:00,
-ID2918,Greg,2021-02-20,Saturday,0 days 15:07:12,Admin Support,N,N,,0 days 00:00:00,
-ID2925,Stewart,2021-02-20,Saturday,0 days 15:53:17,Technical Support,N,N,,0 days 00:00:00,
-ID2932,Joe,2021-02-20,Saturday,0 days 16:14:53,Streaming,N,N,,0 days 00:00:00,
-ID2938,Dan,2021-02-20,Saturday,0 days 16:52:19,Admin Support,N,N,,0 days 00:00:00,
-ID2940,Becky,2021-02-20,Saturday,0 days 17:25:26,Contract related,N,N,,0 days 00:00:00,
 ID2976,Greg,2021-02-21,Sunday,0 days 14:29:46,Streaming,Y,Y,47.0,0 days 00:06:59,4.0
 ID2944,Martha,2021-02-21,Sunday,0 days 09:57:36,Admin Support,Y,Y,74.0,0 days 00:06:46,2.0
 ID2978,Jim,2021-02-21,Sunday,0 days 14:47:02,Streaming,Y,Y,82.0,0 days 00:06:34,5.0
@@ -2989,12 +2438,6 @@ ID2959,Jim,2021-02-21,Sunday,0 days 11:54:14,Payment related,Y,Y,73.0,0 days 00:
 ID2960,Dan,2021-02-21,Sunday,0 days 11:54:14,Contract related,Y,Y,25.0,0 days 00:01:06,1.0
 ID2968,Jim,2021-02-21,Sunday,0 days 13:14:53,Contract related,Y,Y,91.0,0 days 00:00:53,3.0
 ID2953,Joe,2021-02-21,Sunday,0 days 11:12:29,Payment related,Y,Y,115.0,0 days 00:00:37,4.0
-ID2958,Becky,2021-02-21,Sunday,0 days 11:42:43,Admin Support,N,N,,0 days 00:00:00,
-ID2969,Greg,2021-02-21,Sunday,0 days 13:35:02,Payment related,N,N,,0 days 00:00:00,
-ID2975,Stewart,2021-02-21,Sunday,0 days 14:29:46,Payment related,N,N,,0 days 00:00:00,
-ID2977,Becky,2021-02-21,Sunday,0 days 14:47:02,Contract related,N,N,,0 days 00:00:00,
-ID2992,Becky,2021-02-21,Sunday,0 days 17:19:41,Technical Support,N,N,,0 days 00:00:00,
-ID2995,Jim,2021-02-21,Sunday,0 days 17:49:55,Streaming,N,N,,0 days 00:00:00,
 ID3013,Diane,2021-02-22,Monday,0 days 13:19:12,Contract related,Y,Y,116.0,0 days 00:06:53,1.0
 ID3022,Diane,2021-02-22,Monday,0 days 14:32:38,Streaming,Y,N,100.0,0 days 00:06:45,3.0
 ID3037,Greg,2021-02-22,Monday,0 days 16:39:22,Admin Support,Y,Y,64.0,0 days 00:06:37,3.0
@@ -3034,17 +2477,6 @@ ID3046,Martha,2021-02-22,Monday,0 days 17:19:41,Streaming,Y,Y,33.0,0 days 00:01:
 ID3028,Becky,2021-02-22,Monday,0 days 15:37:26,Payment related,Y,Y,92.0,0 days 00:01:26,2.0
 ID3033,Joe,2021-02-22,Monday,0 days 15:48:58,Contract related,Y,Y,88.0,0 days 00:01:17,4.0
 ID3024,Stewart,2021-02-22,Monday,0 days 15:12:58,Technical Support,Y,Y,69.0,0 days 00:00:35,4.0
-ID3000,Becky,2021-02-22,Monday,0 days 09:44:38,Streaming,N,N,,0 days 00:00:00,
-ID3004,Joe,2021-02-22,Monday,0 days 11:13:55,Admin Support,N,N,,0 days 00:00:00,
-ID3005,Jim,2021-02-22,Monday,0 days 11:29:46,Streaming,N,N,,0 days 00:00:00,
-ID3016,Martha,2021-02-22,Monday,0 days 13:30:43,Payment related,N,N,,0 days 00:00:00,
-ID3018,Jim,2021-02-22,Monday,0 days 14:06:43,Technical Support,N,N,,0 days 00:00:00,
-ID3019,Becky,2021-02-22,Monday,0 days 14:32:38,Technical Support,N,N,,0 days 00:00:00,
-ID3026,Dan,2021-02-22,Monday,0 days 15:18:43,Technical Support,N,N,,0 days 00:00:00,
-ID3040,Greg,2021-02-22,Monday,0 days 16:55:12,Payment related,N,N,,0 days 00:00:00,
-ID3041,Joe,2021-02-22,Monday,0 days 17:03:50,Contract related,N,N,,0 days 00:00:00,
-ID3042,Becky,2021-02-22,Monday,0 days 17:03:50,Admin Support,N,N,,0 days 00:00:00,
-ID3043,Dan,2021-02-22,Monday,0 days 17:09:36,Contract related,N,N,,0 days 00:00:00,
 ID3079,Dan,2021-02-23,Tuesday,0 days 14:48:29,Payment related,Y,Y,77.0,0 days 00:06:53,4.0
 ID3093,Greg,2021-02-23,Tuesday,0 days 16:55:12,Payment related,Y,Y,99.0,0 days 00:06:44,4.0
 ID3092,Martha,2021-02-23,Tuesday,0 days 16:40:48,Contract related,Y,Y,124.0,0 days 00:06:43,5.0
@@ -3088,17 +2520,6 @@ ID3047,Dan,2021-02-23,Tuesday,0 days 09:02:53,Technical Support,Y,Y,49.0,0 days 
 ID3096,Joe,2021-02-23,Tuesday,0 days 17:11:02,Technical Support,Y,Y,118.0,0 days 00:00:53,2.0
 ID3048,Dan,2021-02-23,Tuesday,0 days 09:02:53,Streaming,Y,Y,97.0,0 days 00:00:46,5.0
 ID3069,Becky,2021-02-23,Tuesday,0 days 13:37:55,Admin Support,Y,Y,56.0,0 days 00:00:37,5.0
-ID3056,Martha,2021-02-23,Tuesday,0 days 10:43:41,Contract related,N,N,,0 days 00:00:00,
-ID3061,Becky,2021-02-23,Tuesday,0 days 12:01:26,Payment related,N,N,,0 days 00:00:00,
-ID3063,Martha,2021-02-23,Tuesday,0 days 12:41:46,Contract related,N,N,,0 days 00:00:00,
-ID3067,Stewart,2021-02-23,Tuesday,0 days 13:26:24,Streaming,N,N,,0 days 00:00:00,
-ID3068,Martha,2021-02-23,Tuesday,0 days 13:26:24,Technical Support,N,N,,0 days 00:00:00,
-ID3077,Martha,2021-02-23,Tuesday,0 days 14:38:24,Technical Support,N,N,,0 days 00:00:00,
-ID3082,Joe,2021-02-23,Tuesday,0 days 14:54:14,Payment related,N,N,,0 days 00:00:00,
-ID3084,Jim,2021-02-23,Tuesday,0 days 15:21:36,Technical Support,N,N,,0 days 00:00:00,
-ID3087,Jim,2021-02-23,Tuesday,0 days 15:34:34,Admin Support,N,N,,0 days 00:00:00,
-ID3091,Greg,2021-02-23,Tuesday,0 days 16:40:48,Admin Support,N,N,,0 days 00:00:00,
-ID3098,Martha,2021-02-23,Tuesday,0 days 17:24:00,Admin Support,N,N,,0 days 00:00:00,
 ID3109,Stewart,2021-02-24,Wednesday,0 days 13:35:02,Payment related,Y,Y,71.0,0 days 00:06:57,5.0
 ID3132,Diane,2021-02-24,Wednesday,0 days 16:23:31,Contract related,Y,Y,60.0,0 days 00:06:09,5.0
 ID3130,Joe,2021-02-24,Wednesday,0 days 16:07:41,Technical Support,Y,Y,110.0,0 days 00:05:50,4.0
@@ -3141,16 +2562,6 @@ ID3110,Becky,2021-02-24,Wednesday,0 days 13:35:02,Technical Support,Y,Y,51.0,0 d
 ID3107,Joe,2021-02-24,Wednesday,0 days 13:17:46,Streaming,Y,Y,70.0,0 days 00:00:48,4.0
 ID3128,Greg,2021-02-24,Wednesday,0 days 15:41:46,Technical Support,Y,Y,59.0,0 days 00:00:42,4.0
 ID3111,Jim,2021-02-24,Wednesday,0 days 13:49:26,Payment related,Y,Y,103.0,0 days 00:00:32,5.0
-ID3105,Stewart,2021-02-24,Wednesday,0 days 13:00:29,Admin Support,N,N,,0 days 00:00:00,
-ID3106,Dan,2021-02-24,Wednesday,0 days 13:00:29,Contract related,N,N,,0 days 00:00:00,
-ID3120,Joe,2021-02-24,Wednesday,0 days 14:41:17,Admin Support,N,N,,0 days 00:00:00,
-ID3123,Diane,2021-02-24,Wednesday,0 days 15:21:36,Payment related,N,N,,0 days 00:00:00,
-ID3127,Diane,2021-02-24,Wednesday,0 days 15:41:46,Technical Support,N,N,,0 days 00:00:00,
-ID3129,Joe,2021-02-24,Wednesday,0 days 16:07:41,Payment related,N,N,,0 days 00:00:00,
-ID3139,Jim,2021-02-24,Wednesday,0 days 17:13:55,Payment related,N,N,,0 days 00:00:00,
-ID3142,Dan,2021-02-24,Wednesday,0 days 17:16:48,Technical Support,N,N,,0 days 00:00:00,
-ID3144,Dan,2021-02-24,Wednesday,0 days 17:28:19,Technical Support,N,N,,0 days 00:00:00,
-ID3146,Martha,2021-02-24,Wednesday,0 days 17:36:58,Payment related,N,N,,0 days 00:00:00,
 ID3184,Dan,2021-02-25,Thursday,0 days 12:34:34,Payment related,Y,Y,52.0,0 days 00:06:55,4.0
 ID3162,Diane,2021-02-25,Thursday,0 days 10:19:12,Payment related,Y,Y,82.0,0 days 00:06:47,5.0
 ID3178,Joe,2021-02-25,Thursday,0 days 12:04:19,Technical Support,Y,Y,73.0,0 days 00:06:31,3.0
@@ -3205,16 +2616,6 @@ ID3166,Joe,2021-02-25,Thursday,0 days 10:46:34,Admin Support,Y,Y,124.0,0 days 00
 ID3155,Greg,2021-02-25,Thursday,0 days 09:10:05,Payment related,Y,Y,118.0,0 days 00:01:13,3.0
 ID3199,Jim,2021-02-25,Thursday,0 days 15:41:46,Technical Support,Y,Y,94.0,0 days 00:01:11,4.0
 ID3208,Dan,2021-02-25,Thursday,0 days 16:40:48,Contract related,Y,Y,14.0,0 days 00:00:36,5.0
-ID3161,Diane,2021-02-25,Thursday,0 days 10:19:12,Admin Support,N,N,,0 days 00:00:00,
-ID3167,Martha,2021-02-25,Thursday,0 days 10:52:19,Streaming,N,N,,0 days 00:00:00,
-ID3173,Diane,2021-02-25,Thursday,0 days 11:42:43,Technical Support,N,N,,0 days 00:00:00,
-ID3177,Martha,2021-02-25,Thursday,0 days 12:04:19,Contract related,N,N,,0 days 00:00:00,
-ID3180,Greg,2021-02-25,Thursday,0 days 12:05:46,Streaming,N,N,,0 days 00:00:00,
-ID3189,Diane,2021-02-25,Thursday,0 days 14:11:02,Contract related,N,N,,0 days 00:00:00,
-ID3196,Dan,2021-02-25,Thursday,0 days 15:27:22,Admin Support,N,N,,0 days 00:00:00,
-ID3200,Stewart,2021-02-25,Thursday,0 days 15:41:46,Streaming,N,N,,0 days 00:00:00,
-ID3210,Diane,2021-02-25,Thursday,0 days 17:06:43,Payment related,N,N,,0 days 00:00:00,
-ID3213,Becky,2021-02-25,Thursday,0 days 17:24:00,Admin Support,N,N,,0 days 00:00:00,
 ID3257,Stewart,2021-02-26,Friday,0 days 16:49:26,Streaming,Y,Y,120.0,0 days 00:06:39,4.0
 ID3267,Becky,2021-02-26,Friday,0 days 17:39:50,Admin Support,Y,Y,27.0,0 days 00:06:32,4.0
 ID3239,Diane,2021-02-26,Friday,0 days 13:06:14,Admin Support,Y,Y,117.0,0 days 00:06:29,4.0
@@ -3258,19 +2659,6 @@ ID3254,Diane,2021-02-26,Friday,0 days 16:04:48,Contract related,Y,N,87.0,0 days 
 ID3263,Dan,2021-02-26,Friday,0 days 17:35:31,Contract related,Y,Y,123.0,0 days 00:00:45,5.0
 ID3233,Stewart,2021-02-26,Friday,0 days 11:45:36,Streaming,Y,Y,26.0,0 days 00:00:42,5.0
 ID3220,Joe,2021-02-26,Friday,0 days 09:18:43,Contract related,Y,N,33.0,0 days 00:00:41,3.0
-ID3222,Jim,2021-02-26,Friday,0 days 10:12:00,Admin Support,N,N,,0 days 00:00:00,
-ID3224,Martha,2021-02-26,Friday,0 days 10:24:58,Streaming,N,N,,0 days 00:00:00,
-ID3229,Greg,2021-02-26,Friday,0 days 11:36:58,Payment related,N,N,,0 days 00:00:00,
-ID3232,Becky,2021-02-26,Friday,0 days 11:44:10,Technical Support,N,N,,0 days 00:00:00,
-ID3234,Greg,2021-02-26,Friday,0 days 11:45:36,Payment related,N,N,,0 days 00:00:00,
-ID3237,Becky,2021-02-26,Friday,0 days 13:01:55,Admin Support,N,N,,0 days 00:00:00,
-ID3246,Greg,2021-02-26,Friday,0 days 14:54:14,Streaming,N,N,,0 days 00:00:00,
-ID3248,Diane,2021-02-26,Friday,0 days 15:01:26,Contract related,N,N,,0 days 00:00:00,
-ID3252,Joe,2021-02-26,Friday,0 days 15:41:46,Contract related,N,N,,0 days 00:00:00,
-ID3253,Becky,2021-02-26,Friday,0 days 16:04:48,Streaming,N,N,,0 days 00:00:00,
-ID3256,Martha,2021-02-26,Friday,0 days 16:29:17,Payment related,N,N,,0 days 00:00:00,
-ID3258,Jim,2021-02-26,Friday,0 days 16:49:26,Streaming,N,N,,0 days 00:00:00,
-ID3259,Stewart,2021-02-26,Friday,0 days 16:58:05,Streaming,N,N,,0 days 00:00:00,
 ID3303,Greg,2021-02-27,Saturday,0 days 14:38:24,Admin Support,Y,Y,94.0,0 days 00:06:57,4.0
 ID3285,Jim,2021-02-27,Saturday,0 days 10:50:53,Contract related,Y,Y,82.0,0 days 00:06:45,3.0
 ID3318,Stewart,2021-02-27,Saturday,0 days 16:37:55,Payment related,Y,Y,111.0,0 days 00:06:39,4.0
@@ -3314,17 +2702,6 @@ ID3281,Greg,2021-02-27,Saturday,0 days 09:56:10,Technical Support,Y,N,26.0,0 day
 ID3290,Dan,2021-02-27,Saturday,0 days 12:14:24,Streaming,Y,Y,120.0,0 days 00:00:49,5.0
 ID3322,Joe,2021-02-27,Saturday,0 days 16:52:19,Technical Support,Y,Y,21.0,0 days 00:00:46,4.0
 ID3312,Becky,2021-02-27,Saturday,0 days 15:25:55,Streaming,Y,Y,48.0,0 days 00:00:44,2.0
-ID3274,Martha,2021-02-27,Saturday,0 days 09:11:31,Streaming,N,N,,0 days 00:00:00,
-ID3276,Becky,2021-02-27,Saturday,0 days 09:11:31,Contract related,N,N,,0 days 00:00:00,
-ID3277,Greg,2021-02-27,Saturday,0 days 09:46:05,Streaming,N,N,,0 days 00:00:00,
-ID3279,Greg,2021-02-27,Saturday,0 days 09:50:24,Streaming,N,N,,0 days 00:00:00,
-ID3280,Diane,2021-02-27,Saturday,0 days 09:50:24,Payment related,N,N,,0 days 00:00:00,
-ID3282,Greg,2021-02-27,Saturday,0 days 09:56:10,Admin Support,N,N,,0 days 00:00:00,
-ID3292,Diane,2021-02-27,Saturday,0 days 12:34:34,Contract related,N,N,,0 days 00:00:00,
-ID3297,Martha,2021-02-27,Saturday,0 days 13:07:41,Admin Support,N,N,,0 days 00:00:00,
-ID3301,Jim,2021-02-27,Saturday,0 days 14:11:02,Contract related,N,N,,0 days 00:00:00,
-ID3315,Diane,2021-02-27,Saturday,0 days 16:20:38,Admin Support,N,N,,0 days 00:00:00,
-ID3326,Becky,2021-02-27,Saturday,0 days 17:09:36,Payment related,N,N,,0 days 00:00:00,
 ID3385,Becky,2021-02-28,Sunday,0 days 17:32:38,Admin Support,Y,Y,44.0,0 days 00:06:50,3.0
 ID3384,Dan,2021-02-28,Sunday,0 days 16:50:53,Payment related,Y,Y,118.0,0 days 00:06:31,3.0
 ID3362,Joe,2021-02-28,Sunday,0 days 13:14:53,Technical Support,Y,N,115.0,0 days 00:06:30,2.0
@@ -3375,18 +2752,6 @@ ID3371,Diane,2021-02-28,Sunday,0 days 14:48:29,Contract related,Y,Y,53.0,0 days 
 ID3341,Martha,2021-02-28,Sunday,0 days 11:00:58,Contract related,Y,Y,32.0,0 days 00:00:46,5.0
 ID3365,Greg,2021-02-28,Sunday,0 days 13:23:31,Admin Support,Y,Y,45.0,0 days 00:00:42,4.0
 ID3339,Greg,2021-02-28,Sunday,0 days 10:33:36,Streaming,Y,Y,102.0,0 days 00:00:35,3.0
-ID3329,Stewart,2021-02-28,Sunday,0 days 09:14:24,Contract related,N,N,,0 days 00:00:00,
-ID3331,Diane,2021-02-28,Sunday,0 days 09:15:50,Contract related,N,N,,0 days 00:00:00,
-ID3332,Joe,2021-02-28,Sunday,0 days 09:15:50,Admin Support,N,N,,0 days 00:00:00,
-ID3334,Jim,2021-02-28,Sunday,0 days 09:30:14,Streaming,N,N,,0 days 00:00:00,
-ID3336,Dan,2021-02-28,Sunday,0 days 10:07:41,Payment related,N,N,,0 days 00:00:00,
-ID3357,Greg,2021-02-28,Sunday,0 days 12:40:19,Admin Support,N,N,,0 days 00:00:00,
-ID3363,Becky,2021-02-28,Sunday,0 days 13:20:38,Contract related,N,N,,0 days 00:00:00,
-ID3366,Jim,2021-02-28,Sunday,0 days 13:23:31,Admin Support,N,N,,0 days 00:00:00,
-ID3367,Diane,2021-02-28,Sunday,0 days 13:40:48,Contract related,N,N,,0 days 00:00:00,
-ID3370,Jim,2021-02-28,Sunday,0 days 14:03:50,Contract related,N,N,,0 days 00:00:00,
-ID3375,Martha,2021-02-28,Sunday,0 days 15:21:36,Admin Support,N,N,,0 days 00:00:00,
-ID3377,Joe,2021-02-28,Sunday,0 days 15:25:55,Technical Support,N,N,,0 days 00:00:00,
 ID3409,Becky,2021-03-01,Monday,0 days 13:06:14,Payment related,Y,Y,96.0,0 days 00:07:00,4.0
 ID3413,Dan,2021-03-01,Monday,0 days 13:14:53,Contract related,Y,N,116.0,0 days 00:06:32,3.0
 ID3437,Stewart,2021-03-01,Monday,0 days 15:33:07,Admin Support,Y,Y,29.0,0 days 00:06:16,3.0
@@ -3439,18 +2804,6 @@ ID3424,Becky,2021-03-01,Monday,0 days 13:37:55,Contract related,Y,Y,101.0,0 days
 ID3418,Stewart,2021-03-01,Monday,0 days 13:16:19,Streaming,Y,Y,66.0,0 days 00:00:45,3.0
 ID3421,Becky,2021-03-01,Monday,0 days 13:36:29,Payment related,Y,Y,69.0,0 days 00:00:37,5.0
 ID3445,Jim,2021-03-01,Monday,0 days 17:03:50,Payment related,Y,Y,116.0,0 days 00:00:32,4.0
-ID3394,Martha,2021-03-01,Monday,0 days 09:33:07,Admin Support,N,N,,0 days 00:00:00,
-ID3395,Diane,2021-03-01,Monday,0 days 09:57:36,Technical Support,N,N,,0 days 00:00:00,
-ID3398,Diane,2021-03-01,Monday,0 days 10:01:55,Admin Support,N,N,,0 days 00:00:00,
-ID3399,Becky,2021-03-01,Monday,0 days 10:33:36,Contract related,N,N,,0 days 00:00:00,
-ID3401,Greg,2021-03-01,Monday,0 days 11:13:55,Technical Support,N,N,,0 days 00:00:00,
-ID3406,Jim,2021-03-01,Monday,0 days 12:36:00,Technical Support,N,N,,0 days 00:00:00,
-ID3420,Stewart,2021-03-01,Monday,0 days 13:20:38,Technical Support,N,N,,0 days 00:00:00,
-ID3427,Joe,2021-03-01,Monday,0 days 14:12:29,Contract related,N,N,,0 days 00:00:00,
-ID3435,Jim,2021-03-01,Monday,0 days 14:55:41,Admin Support,N,N,,0 days 00:00:00,
-ID3436,Dan,2021-03-01,Monday,0 days 14:55:41,Payment related,N,N,,0 days 00:00:00,
-ID3443,Becky,2021-03-01,Monday,0 days 16:48:00,Contract related,N,N,,0 days 00:00:00,
-ID3447,Becky,2021-03-01,Monday,0 days 17:16:48,Contract related,N,N,,0 days 00:00:00,
 ID3487,Martha,2021-03-02,Tuesday,0 days 14:57:07,Payment related,Y,Y,75.0,0 days 00:06:59,4.0
 ID3468,Becky,2021-03-02,Tuesday,0 days 11:08:10,Payment related,Y,N,106.0,0 days 00:06:48,3.0
 ID3493,Greg,2021-03-02,Tuesday,0 days 15:47:31,Streaming,Y,Y,91.0,0 days 00:06:39,3.0
@@ -3500,19 +2853,6 @@ ID3475,Martha,2021-03-02,Tuesday,0 days 13:00:29,Payment related,Y,Y,54.0,0 days
 ID3470,Diane,2021-03-02,Tuesday,0 days 11:32:38,Admin Support,Y,Y,89.0,0 days 00:00:52,4.0
 ID3466,Diane,2021-03-02,Tuesday,0 days 10:53:46,Technical Support,Y,Y,42.0,0 days 00:00:49,4.0
 ID3489,Martha,2021-03-02,Tuesday,0 days 15:23:02,Technical Support,Y,Y,31.0,0 days 00:00:30,4.0
-ID3457,Martha,2021-03-02,Tuesday,0 days 10:09:07,Technical Support,N,N,,0 days 00:00:00,
-ID3459,Dan,2021-03-02,Tuesday,0 days 10:23:31,Payment related,N,N,,0 days 00:00:00,
-ID3467,Jim,2021-03-02,Tuesday,0 days 11:08:10,Streaming,N,N,,0 days 00:00:00,
-ID3469,Joe,2021-03-02,Tuesday,0 days 11:32:38,Streaming,N,N,,0 days 00:00:00,
-ID3471,Greg,2021-03-02,Tuesday,0 days 11:57:07,Technical Support,N,N,,0 days 00:00:00,
-ID3478,Greg,2021-03-02,Tuesday,0 days 13:07:41,Payment related,N,N,,0 days 00:00:00,
-ID3480,Stewart,2021-03-02,Tuesday,0 days 13:23:31,Admin Support,N,N,,0 days 00:00:00,
-ID3483,Joe,2021-03-02,Tuesday,0 days 14:06:43,Streaming,N,N,,0 days 00:00:00,
-ID3486,Greg,2021-03-02,Tuesday,0 days 14:34:05,Admin Support,N,N,,0 days 00:00:00,
-ID3498,Jim,2021-03-02,Tuesday,0 days 16:26:24,Contract related,N,N,,0 days 00:00:00,
-ID3504,Dan,2021-03-02,Tuesday,0 days 16:42:14,Contract related,N,N,,0 days 00:00:00,
-ID3505,Diane,2021-03-02,Tuesday,0 days 16:45:07,Contract related,N,N,,0 days 00:00:00,
-ID3512,Jim,2021-03-02,Tuesday,0 days 17:18:14,Contract related,N,N,,0 days 00:00:00,
 ID3522,Dan,2021-03-03,Wednesday,0 days 10:07:41,Contract related,Y,Y,39.0,0 days 00:06:50,1.0
 ID3563,Greg,2021-03-03,Wednesday,0 days 17:13:55,Technical Support,Y,Y,34.0,0 days 00:06:36,4.0
 ID3560,Dan,2021-03-03,Wednesday,0 days 16:17:46,Admin Support,Y,Y,67.0,0 days 00:06:35,4.0
@@ -3556,15 +2896,6 @@ ID3531,Greg,2021-03-03,Wednesday,0 days 13:12:00,Contract related,Y,Y,64.0,0 day
 ID3538,Dan,2021-03-03,Wednesday,0 days 14:44:10,Admin Support,Y,Y,60.0,0 days 00:00:52,3.0
 ID3542,Joe,2021-03-03,Wednesday,0 days 15:25:55,Contract related,Y,Y,70.0,0 days 00:00:46,2.0
 ID3559,Becky,2021-03-03,Wednesday,0 days 16:17:46,Technical Support,Y,Y,100.0,0 days 00:00:33,1.0
-ID3515,Greg,2021-03-03,Wednesday,0 days 09:20:10,Technical Support,N,N,,0 days 00:00:00,
-ID3516,Diane,2021-03-03,Wednesday,0 days 09:20:10,Streaming,N,N,,0 days 00:00:00,
-ID3517,Joe,2021-03-03,Wednesday,0 days 09:40:19,Contract related,N,N,,0 days 00:00:00,
-ID3532,Stewart,2021-03-03,Wednesday,0 days 13:12:00,Payment related,N,N,,0 days 00:00:00,
-ID3540,Dan,2021-03-03,Wednesday,0 days 14:51:22,Admin Support,N,N,,0 days 00:00:00,
-ID3541,Becky,2021-03-03,Wednesday,0 days 15:25:55,Payment related,N,N,,0 days 00:00:00,
-ID3543,Joe,2021-03-03,Wednesday,0 days 15:27:22,Payment related,N,N,,0 days 00:00:00,
-ID3556,Diane,2021-03-03,Wednesday,0 days 15:57:36,Contract related,N,N,,0 days 00:00:00,
-ID3558,Diane,2021-03-03,Wednesday,0 days 16:06:14,Admin Support,N,N,,0 days 00:00:00,
 ID3613,Martha,2021-03-04,Thursday,0 days 15:30:14,Admin Support,Y,Y,61.0,0 days 00:06:46,5.0
 ID3616,Becky,2021-03-04,Thursday,0 days 15:36:00,Payment related,Y,Y,32.0,0 days 00:06:26,3.0
 ID3606,Joe,2021-03-04,Thursday,0 days 13:40:48,Payment related,Y,Y,11.0,0 days 00:06:13,3.0
@@ -3624,17 +2955,6 @@ ID3621,Greg,2021-03-04,Thursday,0 days 16:17:46,Streaming,Y,Y,54.0,0 days 00:00:
 ID3605,Joe,2021-03-04,Thursday,0 days 13:40:48,Technical Support,Y,Y,125.0,0 days 00:00:46,3.0
 ID3631,Martha,2021-03-04,Thursday,0 days 17:22:34,Contract related,Y,Y,96.0,0 days 00:00:44,1.0
 ID3620,Becky,2021-03-04,Thursday,0 days 16:06:14,Streaming,Y,Y,23.0,0 days 00:00:31,3.0
-ID3569,Diane,2021-03-04,Thursday,0 days 09:43:12,Technical Support,N,N,,0 days 00:00:00,
-ID3575,Dan,2021-03-04,Thursday,0 days 09:54:43,Admin Support,N,N,,0 days 00:00:00,
-ID3576,Joe,2021-03-04,Thursday,0 days 09:54:43,Payment related,N,N,,0 days 00:00:00,
-ID3582,Greg,2021-03-04,Thursday,0 days 10:30:43,Admin Support,N,N,,0 days 00:00:00,
-ID3584,Martha,2021-03-04,Thursday,0 days 10:43:41,Streaming,N,N,,0 days 00:00:00,
-ID3586,Joe,2021-03-04,Thursday,0 days 10:59:31,Admin Support,N,N,,0 days 00:00:00,
-ID3589,Becky,2021-03-04,Thursday,0 days 11:11:02,Admin Support,N,N,,0 days 00:00:00,
-ID3603,Greg,2021-03-04,Thursday,0 days 13:36:29,Streaming,N,N,,0 days 00:00:00,
-ID3609,Dan,2021-03-04,Thursday,0 days 14:49:55,Technical Support,N,N,,0 days 00:00:00,
-ID3625,Dan,2021-03-04,Thursday,0 days 16:36:29,Contract related,N,N,,0 days 00:00:00,
-ID3632,Stewart,2021-03-04,Thursday,0 days 17:22:34,Technical Support,N,N,,0 days 00:00:00,
 ID3663,Becky,2021-03-05,Friday,0 days 14:13:55,Streaming,Y,Y,11.0,0 days 00:06:48,4.0
 ID3648,Becky,2021-03-05,Friday,0 days 11:44:10,Admin Support,Y,Y,62.0,0 days 00:05:59,4.0
 ID3679,Martha,2021-03-05,Friday,0 days 16:20:38,Technical Support,Y,Y,103.0,0 days 00:05:40,4.0
@@ -3682,13 +3002,6 @@ ID3637,Becky,2021-03-05,Friday,0 days 10:24:58,Payment related,Y,N,98.0,0 days 0
 ID3644,Becky,2021-03-05,Friday,0 days 11:15:22,Streaming,Y,Y,112.0,0 days 00:00:59,3.0
 ID3640,Diane,2021-03-05,Friday,0 days 10:46:34,Streaming,Y,Y,118.0,0 days 00:00:41,2.0
 ID3641,Greg,2021-03-05,Friday,0 days 10:52:19,Payment related,Y,Y,97.0,0 days 00:00:34,4.0
-ID3649,Diane,2021-03-05,Friday,0 days 12:11:31,Payment related,N,N,,0 days 00:00:00,
-ID3658,Jim,2021-03-05,Friday,0 days 12:50:24,Admin Support,N,N,,0 days 00:00:00,
-ID3668,Becky,2021-03-05,Friday,0 days 15:15:50,Streaming,N,N,,0 days 00:00:00,
-ID3670,Stewart,2021-03-05,Friday,0 days 15:51:50,Payment related,N,N,,0 days 00:00:00,
-ID3680,Joe,2021-03-05,Friday,0 days 16:20:38,Technical Support,N,N,,0 days 00:00:00,
-ID3687,Jim,2021-03-05,Friday,0 days 17:34:05,Streaming,N,N,,0 days 00:00:00,
-ID3690,Stewart,2021-03-05,Friday,0 days 17:52:48,Streaming,N,N,,0 days 00:00:00,
 ID3706,Jim,2021-03-06,Saturday,0 days 11:02:24,Contract related,Y,Y,52.0,0 days 00:06:46,4.0
 ID3710,Dan,2021-03-06,Saturday,0 days 11:25:26,Payment related,Y,Y,93.0,0 days 00:06:38,2.0
 ID3701,Joe,2021-03-06,Saturday,0 days 10:40:48,Payment related,Y,Y,117.0,0 days 00:06:36,3.0
@@ -3737,20 +3050,6 @@ ID3744,Dan,2021-03-06,Saturday,0 days 16:49:26,Technical Support,Y,Y,76.0,0 days
 ID3711,Martha,2021-03-06,Saturday,0 days 11:28:19,Payment related,Y,Y,106.0,0 days 00:00:54,5.0
 ID3705,Dan,2021-03-06,Saturday,0 days 11:02:24,Technical Support,Y,Y,116.0,0 days 00:00:52,4.0
 ID3738,Jim,2021-03-06,Saturday,0 days 16:32:10,Payment related,Y,Y,125.0,0 days 00:00:42,5.0
-ID3698,Martha,2021-03-06,Saturday,0 days 10:17:46,Payment related,N,N,,0 days 00:00:00,
-ID3704,Joe,2021-03-06,Saturday,0 days 10:45:07,Admin Support,N,N,,0 days 00:00:00,
-ID3708,Joe,2021-03-06,Saturday,0 days 11:21:07,Contract related,N,N,,0 days 00:00:00,
-ID3712,Joe,2021-03-06,Saturday,0 days 11:28:19,Streaming,N,N,,0 days 00:00:00,
-ID3716,Martha,2021-03-06,Saturday,0 days 12:18:43,Payment related,N,N,,0 days 00:00:00,
-ID3718,Greg,2021-03-06,Saturday,0 days 12:46:05,Contract related,N,N,,0 days 00:00:00,
-ID3723,Greg,2021-03-06,Saturday,0 days 13:42:14,Contract related,N,N,,0 days 00:00:00,
-ID3725,Jim,2021-03-06,Saturday,0 days 13:46:34,Technical Support,N,N,,0 days 00:00:00,
-ID3730,Greg,2021-03-06,Saturday,0 days 14:25:26,Admin Support,N,N,,0 days 00:00:00,
-ID3731,Becky,2021-03-06,Saturday,0 days 14:28:19,Streaming,N,N,,0 days 00:00:00,
-ID3739,Diane,2021-03-06,Saturday,0 days 16:35:02,Contract related,N,N,,0 days 00:00:00,
-ID3745,Greg,2021-03-06,Saturday,0 days 17:15:22,Admin Support,N,N,,0 days 00:00:00,
-ID3749,Diane,2021-03-06,Saturday,0 days 17:22:34,Technical Support,N,N,,0 days 00:00:00,
-ID3750,Greg,2021-03-06,Saturday,0 days 17:22:34,Payment related,N,N,,0 days 00:00:00,
 ID3756,Diane,2021-03-07,Sunday,0 days 10:01:55,Contract related,Y,Y,23.0,0 days 00:06:54,4.0
 ID3755,Martha,2021-03-07,Sunday,0 days 10:01:55,Payment related,Y,Y,96.0,0 days 00:06:46,1.0
 ID3765,Martha,2021-03-07,Sunday,0 days 12:33:07,Payment related,Y,Y,70.0,0 days 00:06:44,4.0
@@ -3783,22 +3082,6 @@ ID3797,Joe,2021-03-07,Sunday,0 days 16:58:05,Admin Support,Y,Y,13.0,0 days 00:01
 ID3792,Greg,2021-03-07,Sunday,0 days 16:24:58,Admin Support,Y,N,56.0,0 days 00:01:07,5.0
 ID3764,Martha,2021-03-07,Sunday,0 days 12:21:36,Payment related,Y,Y,35.0,0 days 00:01:02,5.0
 ID3783,Jim,2021-03-07,Sunday,0 days 15:25:55,Streaming,Y,Y,27.0,0 days 00:00:53,3.0
-ID3754,Jim,2021-03-07,Sunday,0 days 09:59:02,Payment related,N,N,,0 days 00:00:00,
-ID3757,Martha,2021-03-07,Sunday,0 days 10:58:05,Technical Support,N,N,,0 days 00:00:00,
-ID3758,Joe,2021-03-07,Sunday,0 days 10:58:05,Admin Support,N,N,,0 days 00:00:00,
-ID3760,Dan,2021-03-07,Sunday,0 days 12:01:26,Admin Support,N,N,,0 days 00:00:00,
-ID3763,Diane,2021-03-07,Sunday,0 days 12:21:36,Contract related,N,N,,0 days 00:00:00,
-ID3768,Greg,2021-03-07,Sunday,0 days 13:06:14,Streaming,N,N,,0 days 00:00:00,
-ID3771,Becky,2021-03-07,Sunday,0 days 13:40:48,Payment related,N,N,,0 days 00:00:00,
-ID3775,Greg,2021-03-07,Sunday,0 days 13:52:19,Admin Support,N,N,,0 days 00:00:00,
-ID3778,Joe,2021-03-07,Sunday,0 days 13:53:46,Technical Support,N,N,,0 days 00:00:00,
-ID3786,Martha,2021-03-07,Sunday,0 days 15:30:14,Technical Support,N,N,,0 days 00:00:00,
-ID3789,Diane,2021-03-07,Sunday,0 days 15:59:02,Contract related,N,N,,0 days 00:00:00,
-ID3790,Jim,2021-03-07,Sunday,0 days 15:59:02,Admin Support,N,N,,0 days 00:00:00,
-ID3791,Dan,2021-03-07,Sunday,0 days 16:24:58,Admin Support,N,N,,0 days 00:00:00,
-ID3793,Diane,2021-03-07,Sunday,0 days 16:43:41,Technical Support,N,N,,0 days 00:00:00,
-ID3799,Stewart,2021-03-07,Sunday,0 days 17:15:22,Streaming,N,N,,0 days 00:00:00,
-ID3800,Dan,2021-03-07,Sunday,0 days 17:15:22,Technical Support,N,N,,0 days 00:00:00,
 ID3805,Diane,2021-03-08,Monday,0 days 10:24:58,Payment related,Y,Y,72.0,0 days 00:07:00,5.0
 ID3849,Joe,2021-03-08,Monday,0 days 17:48:29,Streaming,Y,Y,93.0,0 days 00:06:50,3.0
 ID3855,Dan,2021-03-08,Monday,0 days 17:52:48,Payment related,Y,Y,93.0,0 days 00:06:41,4.0
@@ -3850,11 +3133,6 @@ ID3833,Diane,2021-03-08,Monday,0 days 15:00:00,Admin Support,Y,Y,10.0,0 days 00:
 ID3842,Martha,2021-03-08,Monday,0 days 16:37:55,Admin Support,Y,Y,85.0,0 days 00:00:34,3.0
 ID3806,Dan,2021-03-08,Monday,0 days 10:24:58,Contract related,Y,Y,77.0,0 days 00:00:31,4.0
 ID3850,Dan,2021-03-08,Monday,0 days 17:48:29,Payment related,Y,Y,110.0,0 days 00:00:31,4.0
-ID3812,Greg,2021-03-08,Monday,0 days 11:19:41,Admin Support,N,N,,0 days 00:00:00,
-ID3819,Dan,2021-03-08,Monday,0 days 13:07:41,Technical Support,N,N,,0 days 00:00:00,
-ID3826,Stewart,2021-03-08,Monday,0 days 13:46:34,Admin Support,N,N,,0 days 00:00:00,
-ID3831,Diane,2021-03-08,Monday,0 days 14:35:31,Streaming,N,N,,0 days 00:00:00,
-ID3832,Greg,2021-03-08,Monday,0 days 14:35:31,Technical Support,N,N,,0 days 00:00:00,
 ID3868,Martha,2021-03-09,Tuesday,0 days 10:30:43,Technical Support,Y,Y,113.0,0 days 00:06:41,4.0
 ID3875,Diane,2021-03-09,Tuesday,0 days 11:48:29,Contract related,Y,Y,93.0,0 days 00:06:40,5.0
 ID3892,Greg,2021-03-09,Tuesday,0 days 15:43:12,Contract related,Y,Y,62.0,0 days 00:06:36,5.0
@@ -3894,13 +3172,6 @@ ID3880,Stewart,2021-03-09,Tuesday,0 days 13:26:24,Contract related,Y,Y,100.0,0 d
 ID3882,Stewart,2021-03-09,Tuesday,0 days 13:45:07,Admin Support,Y,Y,108.0,0 days 00:01:01,5.0
 ID3873,Joe,2021-03-09,Tuesday,0 days 11:22:34,Admin Support,Y,Y,63.0,0 days 00:00:50,3.0
 ID3895,Stewart,2021-03-09,Tuesday,0 days 15:59:02,Technical Support,Y,Y,74.0,0 days 00:00:47,5.0
-ID3859,Dan,2021-03-09,Tuesday,0 days 09:40:19,Contract related,N,N,,0 days 00:00:00,
-ID3872,Diane,2021-03-09,Tuesday,0 days 11:03:50,Payment related,N,N,,0 days 00:00:00,
-ID3877,Diane,2021-03-09,Tuesday,0 days 13:22:05,Contract related,N,N,,0 days 00:00:00,
-ID3881,Diane,2021-03-09,Tuesday,0 days 13:45:07,Admin Support,N,N,,0 days 00:00:00,
-ID3884,Diane,2021-03-09,Tuesday,0 days 15:21:36,Payment related,N,N,,0 days 00:00:00,
-ID3898,Joe,2021-03-09,Tuesday,0 days 16:52:19,Admin Support,N,N,,0 days 00:00:00,
-ID3902,Becky,2021-03-09,Tuesday,0 days 17:06:43,Admin Support,N,N,,0 days 00:00:00,
 ID3925,Joe,2021-03-10,Wednesday,0 days 13:42:14,Payment related,Y,Y,51.0,0 days 00:06:45,3.0
 ID3912,Stewart,2021-03-10,Wednesday,0 days 10:07:41,Technical Support,Y,Y,74.0,0 days 00:06:37,5.0
 ID3943,Greg,2021-03-10,Wednesday,0 days 16:46:34,Streaming,Y,Y,92.0,0 days 00:06:23,2.0
@@ -3935,18 +3206,6 @@ ID3928,Joe,2021-03-10,Wednesday,0 days 13:45:07,Admin Support,Y,Y,82.0,0 days 00
 ID3920,Becky,2021-03-10,Wednesday,0 days 12:48:58,Streaming,Y,Y,43.0,0 days 00:00:36,3.0
 ID3936,Dan,2021-03-10,Wednesday,0 days 15:17:17,Contract related,Y,Y,20.0,0 days 00:00:33,3.0
 ID3931,Greg,2021-03-10,Wednesday,0 days 13:56:38,Contract related,Y,Y,116.0,0 days 00:00:31,3.0
-ID3904,Martha,2021-03-10,Wednesday,0 days 09:12:58,Payment related,N,N,,0 days 00:00:00,
-ID3906,Greg,2021-03-10,Wednesday,0 days 09:18:43,Technical Support,N,N,,0 days 00:00:00,
-ID3908,Jim,2021-03-10,Wednesday,0 days 09:51:50,Technical Support,N,N,,0 days 00:00:00,
-ID3913,Joe,2021-03-10,Wednesday,0 days 10:22:05,Payment related,N,N,,0 days 00:00:00,
-ID3914,Greg,2021-03-10,Wednesday,0 days 10:22:05,Contract related,N,N,,0 days 00:00:00,
-ID3915,Greg,2021-03-10,Wednesday,0 days 10:26:24,Streaming,N,N,,0 days 00:00:00,
-ID3919,Jim,2021-03-10,Wednesday,0 days 12:48:58,Payment related,N,N,,0 days 00:00:00,
-ID3923,Greg,2021-03-10,Wednesday,0 days 13:32:10,Contract related,N,N,,0 days 00:00:00,
-ID3926,Diane,2021-03-10,Wednesday,0 days 13:42:14,Contract related,N,N,,0 days 00:00:00,
-ID3930,Martha,2021-03-10,Wednesday,0 days 13:48:00,Technical Support,N,N,,0 days 00:00:00,
-ID3937,Stewart,2021-03-10,Wednesday,0 days 15:24:29,Contract related,N,N,,0 days 00:00:00,
-ID3939,Stewart,2021-03-10,Wednesday,0 days 16:00:29,Streaming,N,N,,0 days 00:00:00,
 ID3981,Stewart,2021-03-11,Thursday,0 days 12:31:41,Payment related,Y,Y,119.0,0 days 00:06:51,3.0
 ID3991,Dan,2021-03-11,Thursday,0 days 13:40:48,Technical Support,Y,Y,44.0,0 days 00:06:38,3.0
 ID3954,Jim,2021-03-11,Thursday,0 days 09:40:19,Contract related,Y,Y,86.0,0 days 00:06:37,5.0
@@ -4007,20 +3266,6 @@ ID3953,Greg,2021-03-11,Thursday,0 days 09:40:19,Payment related,Y,Y,48.0,0 days 
 ID4007,Dan,2021-03-11,Thursday,0 days 15:24:29,Payment related,Y,Y,27.0,0 days 00:00:43,4.0
 ID3977,Martha,2021-03-11,Thursday,0 days 12:20:10,Technical Support,Y,Y,36.0,0 days 00:00:42,3.0
 ID3994,Stewart,2021-03-11,Thursday,0 days 13:50:53,Technical Support,Y,Y,53.0,0 days 00:00:34,4.0
-ID3949,Stewart,2021-03-11,Thursday,0 days 09:10:05,Technical Support,N,N,,0 days 00:00:00,
-ID3951,Joe,2021-03-11,Thursday,0 days 09:38:53,Streaming,N,N,,0 days 00:00:00,
-ID3955,Dan,2021-03-11,Thursday,0 days 09:57:36,Streaming,N,N,,0 days 00:00:00,
-ID3960,Jim,2021-03-11,Thursday,0 days 10:09:07,Admin Support,N,N,,0 days 00:00:00,
-ID3964,Greg,2021-03-11,Thursday,0 days 10:30:43,Payment related,N,N,,0 days 00:00:00,
-ID3972,Diane,2021-03-11,Thursday,0 days 11:26:53,Technical Support,N,N,,0 days 00:00:00,
-ID3978,Jim,2021-03-11,Thursday,0 days 12:20:10,Streaming,N,N,,0 days 00:00:00,
-ID3983,Jim,2021-03-11,Thursday,0 days 12:38:53,Streaming,N,N,,0 days 00:00:00,
-ID3987,Greg,2021-03-11,Thursday,0 days 12:57:36,Streaming,N,N,,0 days 00:00:00,
-ID3988,Becky,2021-03-11,Thursday,0 days 12:57:36,Admin Support,N,N,,0 days 00:00:00,
-ID3993,Diane,2021-03-11,Thursday,0 days 13:50:53,Payment related,N,N,,0 days 00:00:00,
-ID4011,Stewart,2021-03-11,Thursday,0 days 15:59:02,Contract related,N,N,,0 days 00:00:00,
-ID4019,Jim,2021-03-11,Thursday,0 days 17:39:50,Contract related,N,N,,0 days 00:00:00,
-ID4021,Joe,2021-03-11,Thursday,0 days 17:39:50,Payment related,N,N,,0 days 00:00:00,
 ID4033,Martha,2021-03-12,Friday,0 days 10:09:07,Payment related,Y,Y,14.0,0 days 00:06:52,3.0
 ID4060,Joe,2021-03-12,Friday,0 days 14:32:38,Technical Support,Y,Y,105.0,0 days 00:06:50,3.0
 ID4051,Stewart,2021-03-12,Friday,0 days 13:29:17,Contract related,Y,Y,21.0,0 days 00:06:34,5.0
@@ -4065,12 +3310,6 @@ ID4035,Martha,2021-03-12,Friday,0 days 10:12:00,Payment related,Y,Y,73.0,0 days 
 ID4045,Diane,2021-03-12,Friday,0 days 11:16:48,Admin Support,Y,Y,27.0,0 days 00:00:49,5.0
 ID4055,Joe,2021-03-12,Friday,0 days 14:18:14,Technical Support,Y,Y,117.0,0 days 00:00:46,4.0
 ID4071,Greg,2021-03-12,Friday,0 days 17:52:48,Admin Support,Y,N,95.0,0 days 00:00:38,1.0
-ID4034,Greg,2021-03-12,Friday,0 days 10:09:07,Payment related,N,N,,0 days 00:00:00,
-ID4036,Joe,2021-03-12,Friday,0 days 10:12:00,Streaming,N,N,,0 days 00:00:00,
-ID4037,Diane,2021-03-12,Friday,0 days 10:22:05,Admin Support,N,N,,0 days 00:00:00,
-ID4048,Becky,2021-03-12,Friday,0 days 12:01:26,Payment related,N,N,,0 days 00:00:00,
-ID4052,Greg,2021-03-12,Friday,0 days 13:29:17,Technical Support,N,N,,0 days 00:00:00,
-ID4058,Diane,2021-03-12,Friday,0 days 14:31:12,Admin Support,N,N,,0 days 00:00:00,
 ID4117,Becky,2021-03-13,Saturday,0 days 17:24:00,Technical Support,Y,Y,107.0,0 days 00:06:33,3.0
 ID4080,Stewart,2021-03-13,Saturday,0 days 10:49:26,Payment related,Y,Y,56.0,0 days 00:06:07,2.0
 ID4098,Dan,2021-03-13,Saturday,0 days 14:41:17,Admin Support,Y,Y,94.0,0 days 00:05:52,1.0
@@ -4110,15 +3349,6 @@ ID4082,Becky,2021-03-13,Saturday,0 days 11:15:22,Admin Support,Y,Y,36.0,0 days 0
 ID4112,Becky,2021-03-13,Saturday,0 days 16:17:46,Streaming,Y,Y,22.0,0 days 00:00:43,1.0
 ID4096,Becky,2021-03-13,Saturday,0 days 14:38:24,Technical Support,Y,Y,71.0,0 days 00:00:34,4.0
 ID4097,Dan,2021-03-13,Saturday,0 days 14:41:17,Contract related,Y,Y,99.0,0 days 00:00:34,4.0
-ID4073,Diane,2021-03-13,Saturday,0 days 09:02:53,Admin Support,N,N,,0 days 00:00:00,
-ID4074,Martha,2021-03-13,Saturday,0 days 09:02:53,Admin Support,N,N,,0 days 00:00:00,
-ID4079,Joe,2021-03-13,Saturday,0 days 10:49:26,Admin Support,N,N,,0 days 00:00:00,
-ID4086,Martha,2021-03-13,Saturday,0 days 11:38:24,Streaming,N,N,,0 days 00:00:00,
-ID4092,Stewart,2021-03-13,Saturday,0 days 14:13:55,Technical Support,N,N,,0 days 00:00:00,
-ID4094,Joe,2021-03-13,Saturday,0 days 14:18:14,Streaming,N,N,,0 days 00:00:00,
-ID4113,Martha,2021-03-13,Saturday,0 days 16:53:46,Technical Support,N,N,,0 days 00:00:00,
-ID4118,Jim,2021-03-13,Saturday,0 days 17:24:00,Technical Support,N,N,,0 days 00:00:00,
-ID4120,Joe,2021-03-13,Saturday,0 days 17:44:10,Contract related,N,N,,0 days 00:00:00,
 ID4168,Dan,2021-03-14,Sunday,0 days 16:36:29,Contract related,Y,Y,28.0,0 days 00:06:48,3.0
 ID4134,Martha,2021-03-14,Sunday,0 days 11:09:36,Streaming,Y,Y,61.0,0 days 00:06:39,5.0
 ID4159,Greg,2021-03-14,Sunday,0 days 15:17:17,Contract related,Y,Y,65.0,0 days 00:06:37,4.0
@@ -4158,17 +3388,6 @@ ID4142,Jim,2021-03-14,Sunday,0 days 13:00:29,Contract related,Y,Y,38.0,0 days 00
 ID4128,Diane,2021-03-14,Sunday,0 days 10:07:41,Contract related,Y,Y,34.0,0 days 00:01:04,4.0
 ID4140,Jim,2021-03-14,Sunday,0 days 11:52:48,Admin Support,Y,Y,110.0,0 days 00:00:49,3.0
 ID4129,Diane,2021-03-14,Sunday,0 days 10:09:07,Contract related,Y,Y,77.0,0 days 00:00:48,2.0
-ID4124,Joe,2021-03-14,Sunday,0 days 09:20:10,Admin Support,N,N,,0 days 00:00:00,
-ID4138,Jim,2021-03-14,Sunday,0 days 11:36:58,Payment related,N,N,,0 days 00:00:00,
-ID4145,Dan,2021-03-14,Sunday,0 days 13:16:19,Technical Support,N,N,,0 days 00:00:00,
-ID4148,Becky,2021-03-14,Sunday,0 days 13:24:58,Technical Support,N,N,,0 days 00:00:00,
-ID4150,Jim,2021-03-14,Sunday,0 days 13:40:48,Streaming,N,N,,0 days 00:00:00,
-ID4151,Diane,2021-03-14,Sunday,0 days 13:46:34,Contract related,N,N,,0 days 00:00:00,
-ID4156,Dan,2021-03-14,Sunday,0 days 14:25:26,Admin Support,N,N,,0 days 00:00:00,
-ID4157,Becky,2021-03-14,Sunday,0 days 14:39:50,Admin Support,N,N,,0 days 00:00:00,
-ID4165,Greg,2021-03-14,Sunday,0 days 16:36:29,Contract related,N,N,,0 days 00:00:00,
-ID4169,Joe,2021-03-14,Sunday,0 days 17:57:07,Admin Support,N,N,,0 days 00:00:00,
-ID4170,Dan,2021-03-14,Sunday,0 days 17:57:07,Streaming,N,N,,0 days 00:00:00,
 ID4200,Stewart,2021-03-15,Monday,0 days 14:09:36,Streaming,Y,Y,24.0,0 days 00:06:56,4.0
 ID4207,Greg,2021-03-15,Monday,0 days 16:27:50,Technical Support,Y,Y,12.0,0 days 00:06:45,5.0
 ID4218,Dan,2021-03-15,Monday,0 days 17:32:38,Technical Support,Y,Y,122.0,0 days 00:06:34,3.0
@@ -4210,15 +3429,6 @@ ID4215,Diane,2021-03-15,Monday,0 days 17:28:19,Contract related,Y,Y,13.0,0 days 
 ID4175,Martha,2021-03-15,Monday,0 days 09:44:38,Technical Support,Y,Y,106.0,0 days 00:00:46,4.0
 ID4178,Dan,2021-03-15,Monday,0 days 10:00:29,Contract related,Y,Y,34.0,0 days 00:00:38,4.0
 ID4212,Greg,2021-03-15,Monday,0 days 17:11:02,Admin Support,Y,Y,43.0,0 days 00:00:36,3.0
-ID4171,Dan,2021-03-15,Monday,0 days 09:08:38,Admin Support,N,N,,0 days 00:00:00,
-ID4186,Becky,2021-03-15,Monday,0 days 11:09:36,Streaming,N,N,,0 days 00:00:00,
-ID4187,Jim,2021-03-15,Monday,0 days 11:58:34,Contract related,N,N,,0 days 00:00:00,
-ID4190,Jim,2021-03-15,Monday,0 days 12:10:05,Payment related,N,N,,0 days 00:00:00,
-ID4193,Becky,2021-03-15,Monday,0 days 13:07:41,Contract related,N,N,,0 days 00:00:00,
-ID4198,Stewart,2021-03-15,Monday,0 days 13:52:19,Payment related,N,N,,0 days 00:00:00,
-ID4210,Jim,2021-03-15,Monday,0 days 17:05:17,Technical Support,N,N,,0 days 00:00:00,
-ID4211,Greg,2021-03-15,Monday,0 days 17:11:02,Payment related,N,N,,0 days 00:00:00,
-ID4220,Jim,2021-03-15,Monday,0 days 17:47:02,Technical Support,N,N,,0 days 00:00:00,
 ID4227,Dan,2021-03-16,Tuesday,0 days 10:10:34,Streaming,Y,Y,106.0,0 days 00:06:52,3.0
 ID4241,Jim,2021-03-16,Tuesday,0 days 12:43:12,Streaming,Y,Y,33.0,0 days 00:06:40,3.0
 ID4248,Diane,2021-03-16,Tuesday,0 days 13:16:19,Admin Support,Y,Y,26.0,0 days 00:06:34,3.0
@@ -4267,18 +3477,6 @@ ID4274,Stewart,2021-03-16,Tuesday,0 days 16:13:26,Contract related,Y,Y,53.0,0 da
 ID4222,Joe,2021-03-16,Tuesday,0 days 09:11:31,Admin Support,Y,Y,80.0,0 days 00:01:09,2.0
 ID4242,Stewart,2021-03-16,Tuesday,0 days 12:43:12,Streaming,Y,Y,58.0,0 days 00:01:06,4.0
 ID4258,Stewart,2021-03-16,Tuesday,0 days 14:13:55,Admin Support,Y,Y,99.0,0 days 00:01:04,3.0
-ID4229,Martha,2021-03-16,Tuesday,0 days 10:23:31,Contract related,N,N,,0 days 00:00:00,
-ID4231,Dan,2021-03-16,Tuesday,0 days 10:23:31,Admin Support,N,N,,0 days 00:00:00,
-ID4232,Joe,2021-03-16,Tuesday,0 days 10:23:31,Streaming,N,N,,0 days 00:00:00,
-ID4233,Martha,2021-03-16,Tuesday,0 days 10:35:02,Streaming,N,N,,0 days 00:00:00,
-ID4235,Becky,2021-03-16,Tuesday,0 days 11:12:29,Technical Support,N,N,,0 days 00:00:00,
-ID4236,Dan,2021-03-16,Tuesday,0 days 11:12:29,Streaming,N,N,,0 days 00:00:00,
-ID4246,Joe,2021-03-16,Tuesday,0 days 13:04:48,Streaming,N,N,,0 days 00:00:00,
-ID4251,Martha,2021-03-16,Tuesday,0 days 13:32:10,Contract related,N,N,,0 days 00:00:00,
-ID4253,Greg,2021-03-16,Tuesday,0 days 13:56:38,Technical Support,N,N,,0 days 00:00:00,
-ID4268,Martha,2021-03-16,Tuesday,0 days 15:40:19,Contract related,N,N,,0 days 00:00:00,
-ID4271,Diane,2021-03-16,Tuesday,0 days 16:00:29,Payment related,N,N,,0 days 00:00:00,
-ID4280,Jim,2021-03-16,Tuesday,0 days 17:49:55,Contract related,N,N,,0 days 00:00:00,
 ID4284,Greg,2021-03-17,Wednesday,0 days 09:43:12,Admin Support,Y,Y,104.0,0 days 00:06:58,1.0
 ID4316,Diane,2021-03-17,Wednesday,0 days 16:46:34,Contract related,Y,Y,58.0,0 days 00:06:20,2.0
 ID4282,Dan,2021-03-17,Wednesday,0 days 09:05:46,Streaming,Y,Y,57.0,0 days 00:06:06,5.0
@@ -4317,18 +3515,6 @@ ID4304,Dan,2021-03-17,Wednesday,0 days 14:21:07,Payment related,Y,Y,29.0,0 days 
 ID4283,Jim,2021-03-17,Wednesday,0 days 09:43:12,Technical Support,Y,Y,26.0,0 days 00:01:19,5.0
 ID4297,Martha,2021-03-17,Wednesday,0 days 13:58:05,Payment related,Y,Y,69.0,0 days 00:01:19,1.0
 ID4293,Martha,2021-03-17,Wednesday,0 days 13:01:55,Payment related,Y,Y,49.0,0 days 00:00:54,1.0
-ID4288,Martha,2021-03-17,Wednesday,0 days 11:25:26,Technical Support,N,N,,0 days 00:00:00,
-ID4292,Dan,2021-03-17,Wednesday,0 days 12:43:12,Admin Support,N,N,,0 days 00:00:00,
-ID4295,Joe,2021-03-17,Wednesday,0 days 13:24:58,Streaming,N,N,,0 days 00:00:00,
-ID4299,Becky,2021-03-17,Wednesday,0 days 14:00:58,Payment related,N,N,,0 days 00:00:00,
-ID4300,Martha,2021-03-17,Wednesday,0 days 14:00:58,Technical Support,N,N,,0 days 00:00:00,
-ID4303,Martha,2021-03-17,Wednesday,0 days 14:21:07,Streaming,N,N,,0 days 00:00:00,
-ID4310,Dan,2021-03-17,Wednesday,0 days 16:20:38,Streaming,N,N,,0 days 00:00:00,
-ID4313,Joe,2021-03-17,Wednesday,0 days 16:42:14,Contract related,N,N,,0 days 00:00:00,
-ID4317,Jim,2021-03-17,Wednesday,0 days 16:52:19,Technical Support,N,N,,0 days 00:00:00,
-ID4318,Greg,2021-03-17,Wednesday,0 days 16:52:19,Admin Support,N,N,,0 days 00:00:00,
-ID4325,Stewart,2021-03-17,Wednesday,0 days 17:26:53,Admin Support,N,N,,0 days 00:00:00,
-ID4330,Greg,2021-03-17,Wednesday,0 days 18:00:00,Contract related,N,N,,0 days 00:00:00,
 ID4352,Martha,2021-03-18,Thursday,0 days 14:02:24,Admin Support,Y,Y,26.0,0 days 00:06:48,4.0
 ID4338,Martha,2021-03-18,Thursday,0 days 10:56:38,Technical Support,Y,Y,41.0,0 days 00:06:22,3.0
 ID4369,Jim,2021-03-18,Thursday,0 days 16:58:05,Contract related,Y,Y,96.0,0 days 00:06:22,3.0
@@ -4369,14 +3555,6 @@ ID4350,Becky,2021-03-18,Thursday,0 days 13:49:26,Streaming,Y,Y,104.0,0 days 00:0
 ID4334,Stewart,2021-03-18,Thursday,0 days 09:21:36,Streaming,Y,Y,57.0,0 days 00:00:44,3.0
 ID4345,Greg,2021-03-18,Thursday,0 days 12:51:50,Payment related,Y,Y,13.0,0 days 00:00:43,3.0
 ID4353,Diane,2021-03-18,Thursday,0 days 14:25:26,Admin Support,Y,Y,47.0,0 days 00:00:36,2.0
-ID4333,Joe,2021-03-18,Thursday,0 days 09:21:36,Contract related,N,N,,0 days 00:00:00,
-ID4339,Dan,2021-03-18,Thursday,0 days 11:38:24,Contract related,N,N,,0 days 00:00:00,
-ID4341,Stewart,2021-03-18,Thursday,0 days 12:02:53,Payment related,N,N,,0 days 00:00:00,
-ID4354,Jim,2021-03-18,Thursday,0 days 14:25:26,Contract related,N,N,,0 days 00:00:00,
-ID4355,Dan,2021-03-18,Thursday,0 days 14:41:17,Admin Support,N,N,,0 days 00:00:00,
-ID4368,Jim,2021-03-18,Thursday,0 days 16:30:43,Payment related,N,N,,0 days 00:00:00,
-ID4370,Greg,2021-03-18,Thursday,0 days 16:58:05,Payment related,N,N,,0 days 00:00:00,
-ID4374,Greg,2021-03-18,Thursday,0 days 17:22:34,Contract related,N,N,,0 days 00:00:00,
 ID4418,Greg,2021-03-19,Friday,0 days 16:33:36,Contract related,Y,Y,47.0,0 days 00:06:54,4.0
 ID4406,Diane,2021-03-19,Friday,0 days 14:18:14,Admin Support,Y,Y,98.0,0 days 00:06:47,4.0
 ID4416,Joe,2021-03-19,Friday,0 days 16:27:50,Payment related,Y,Y,105.0,0 days 00:06:19,5.0
@@ -4409,16 +3587,6 @@ ID4401,Stewart,2021-03-19,Friday,0 days 13:07:41,Contract related,Y,Y,12.0,0 day
 ID4399,Joe,2021-03-19,Friday,0 days 12:59:02,Technical Support,Y,N,123.0,0 days 00:00:46,4.0
 ID4384,Stewart,2021-03-19,Friday,0 days 10:03:22,Payment related,Y,Y,112.0,0 days 00:00:40,3.0
 ID4392,Jim,2021-03-19,Friday,0 days 11:29:46,Streaming,Y,Y,45.0,0 days 00:00:39,4.0
-ID4381,Jim,2021-03-19,Friday,0 days 09:47:31,Contract related,N,N,,0 days 00:00:00,
-ID4385,Becky,2021-03-19,Friday,0 days 10:14:53,Payment related,N,N,,0 days 00:00:00,
-ID4388,Becky,2021-03-19,Friday,0 days 11:12:29,Payment related,N,N,,0 days 00:00:00,
-ID4390,Stewart,2021-03-19,Friday,0 days 11:13:55,Payment related,N,N,,0 days 00:00:00,
-ID4397,Jim,2021-03-19,Friday,0 days 12:59:02,Payment related,N,N,,0 days 00:00:00,
-ID4398,Martha,2021-03-19,Friday,0 days 12:59:02,Streaming,N,N,,0 days 00:00:00,
-ID4404,Joe,2021-03-19,Friday,0 days 13:55:12,Contract related,N,N,,0 days 00:00:00,
-ID4405,Joe,2021-03-19,Friday,0 days 14:18:14,Admin Support,N,N,,0 days 00:00:00,
-ID4408,Diane,2021-03-19,Friday,0 days 15:21:36,Payment related,N,N,,0 days 00:00:00,
-ID4417,Stewart,2021-03-19,Friday,0 days 16:33:36,Payment related,N,N,,0 days 00:00:00,
 ID4474,Martha,2021-03-20,Saturday,0 days 17:57:07,Payment related,Y,Y,93.0,0 days 00:06:18,4.0
 ID4427,Joe,2021-03-20,Saturday,0 days 10:19:12,Streaming,Y,Y,111.0,0 days 00:06:16,3.0
 ID4425,Dan,2021-03-20,Saturday,0 days 10:17:46,Admin Support,Y,Y,102.0,0 days 00:06:15,3.0
@@ -4462,19 +3630,6 @@ ID4464,Martha,2021-03-20,Saturday,0 days 15:56:10,Contract related,Y,Y,37.0,0 da
 ID4475,Diane,2021-03-20,Saturday,0 days 17:58:34,Streaming,Y,N,17.0,0 days 00:00:49,4.0
 ID4430,Martha,2021-03-20,Saturday,0 days 10:42:14,Technical Support,Y,Y,32.0,0 days 00:00:36,5.0
 ID4463,Jim,2021-03-20,Saturday,0 days 15:56:10,Technical Support,Y,Y,17.0,0 days 00:00:31,3.0
-ID4421,Stewart,2021-03-20,Saturday,0 days 09:05:46,Admin Support,N,N,,0 days 00:00:00,
-ID4426,Stewart,2021-03-20,Saturday,0 days 10:17:46,Streaming,N,N,,0 days 00:00:00,
-ID4429,Diane,2021-03-20,Saturday,0 days 10:42:14,Contract related,N,N,,0 days 00:00:00,
-ID4431,Dan,2021-03-20,Saturday,0 days 11:12:29,Payment related,N,N,,0 days 00:00:00,
-ID4437,Becky,2021-03-20,Saturday,0 days 11:55:41,Contract related,N,N,,0 days 00:00:00,
-ID4438,Diane,2021-03-20,Saturday,0 days 11:55:41,Contract related,N,N,,0 days 00:00:00,
-ID4441,Jim,2021-03-20,Saturday,0 days 12:24:29,Streaming,N,N,,0 days 00:00:00,
-ID4453,Diane,2021-03-20,Saturday,0 days 15:23:02,Payment related,N,N,,0 days 00:00:00,
-ID4454,Joe,2021-03-20,Saturday,0 days 15:23:02,Technical Support,N,N,,0 days 00:00:00,
-ID4458,Becky,2021-03-20,Saturday,0 days 15:43:12,Technical Support,N,N,,0 days 00:00:00,
-ID4462,Joe,2021-03-20,Saturday,0 days 15:44:38,Payment related,N,N,,0 days 00:00:00,
-ID4467,Martha,2021-03-20,Saturday,0 days 16:50:53,Streaming,N,N,,0 days 00:00:00,
-ID4471,Martha,2021-03-20,Saturday,0 days 17:44:10,Streaming,N,N,,0 days 00:00:00,
 ID4486,Diane,2021-03-21,Sunday,0 days 10:35:02,Streaming,Y,Y,11.0,0 days 00:06:48,3.0
 ID4537,Stewart,2021-03-21,Sunday,0 days 17:42:43,Contract related,Y,Y,116.0,0 days 00:06:33,5.0
 ID4521,Stewart,2021-03-21,Sunday,0 days 15:12:58,Admin Support,Y,Y,88.0,0 days 00:06:25,3.0
@@ -4524,19 +3679,6 @@ ID4506,Martha,2021-03-21,Sunday,0 days 13:09:07,Streaming,Y,Y,43.0,0 days 00:01:
 ID4523,Martha,2021-03-21,Sunday,0 days 15:15:50,Contract related,Y,Y,28.0,0 days 00:00:49,1.0
 ID4516,Greg,2021-03-21,Sunday,0 days 14:22:34,Technical Support,Y,Y,49.0,0 days 00:00:32,4.0
 ID4531,Jim,2021-03-21,Sunday,0 days 16:52:19,Admin Support,Y,Y,105.0,0 days 00:00:32,4.0
-ID4478,Diane,2021-03-21,Sunday,0 days 09:01:26,Admin Support,N,N,,0 days 00:00:00,
-ID4488,Greg,2021-03-21,Sunday,0 days 10:43:41,Contract related,N,N,,0 days 00:00:00,
-ID4491,Dan,2021-03-21,Sunday,0 days 11:31:12,Payment related,N,N,,0 days 00:00:00,
-ID4496,Greg,2021-03-21,Sunday,0 days 11:55:41,Technical Support,N,N,,0 days 00:00:00,
-ID4497,Diane,2021-03-21,Sunday,0 days 12:00:00,Payment related,N,N,,0 days 00:00:00,
-ID4498,Diane,2021-03-21,Sunday,0 days 12:00:00,Technical Support,N,N,,0 days 00:00:00,
-ID4500,Joe,2021-03-21,Sunday,0 days 12:18:43,Admin Support,N,N,,0 days 00:00:00,
-ID4501,Stewart,2021-03-21,Sunday,0 days 12:53:17,Payment related,N,N,,0 days 00:00:00,
-ID4509,Stewart,2021-03-21,Sunday,0 days 13:49:26,Payment related,N,N,,0 days 00:00:00,
-ID4510,Diane,2021-03-21,Sunday,0 days 13:49:26,Admin Support,N,N,,0 days 00:00:00,
-ID4529,Greg,2021-03-21,Sunday,0 days 16:12:00,Technical Support,N,N,,0 days 00:00:00,
-ID4533,Becky,2021-03-21,Sunday,0 days 17:26:53,Admin Support,N,N,,0 days 00:00:00,
-ID4536,Becky,2021-03-21,Sunday,0 days 17:32:38,Payment related,N,N,,0 days 00:00:00,
 ID4552,Martha,2021-03-22,Monday,0 days 12:00:00,Streaming,Y,Y,57.0,0 days 00:06:38,4.0
 ID4581,Stewart,2021-03-22,Monday,0 days 16:24:58,Streaming,Y,Y,20.0,0 days 00:06:35,2.0
 ID4589,Martha,2021-03-22,Monday,0 days 17:48:29,Technical Support,Y,Y,124.0,0 days 00:06:19,1.0
@@ -4581,16 +3723,6 @@ ID4592,Jim,2021-03-22,Monday,0 days 17:58:34,Technical Support,Y,Y,80.0,0 days 0
 ID4541,Diane,2021-03-22,Monday,0 days 09:46:05,Streaming,Y,Y,84.0,0 days 00:00:53,2.0
 ID4548,Stewart,2021-03-22,Monday,0 days 10:14:53,Technical Support,Y,Y,40.0,0 days 00:00:53,3.0
 ID4557,Martha,2021-03-22,Monday,0 days 12:46:05,Technical Support,Y,Y,37.0,0 days 00:00:32,1.0
-ID4539,Diane,2021-03-22,Monday,0 days 09:44:38,Payment related,N,N,,0 days 00:00:00,
-ID4544,Diane,2021-03-22,Monday,0 days 10:03:22,Contract related,N,N,,0 days 00:00:00,
-ID4556,Jim,2021-03-22,Monday,0 days 12:07:12,Technical Support,N,N,,0 days 00:00:00,
-ID4559,Diane,2021-03-22,Monday,0 days 13:26:24,Admin Support,N,N,,0 days 00:00:00,
-ID4563,Diane,2021-03-22,Monday,0 days 13:32:10,Contract related,N,N,,0 days 00:00:00,
-ID4564,Diane,2021-03-22,Monday,0 days 13:32:10,Streaming,N,N,,0 days 00:00:00,
-ID4571,Becky,2021-03-22,Monday,0 days 14:51:22,Technical Support,N,N,,0 days 00:00:00,
-ID4572,Diane,2021-03-22,Monday,0 days 14:51:22,Contract related,N,N,,0 days 00:00:00,
-ID4585,Greg,2021-03-22,Monday,0 days 16:49:26,Contract related,N,N,,0 days 00:00:00,
-ID4588,Dan,2021-03-22,Monday,0 days 17:39:50,Payment related,N,N,,0 days 00:00:00,
 ID4614,Jim,2021-03-23,Tuesday,0 days 15:21:36,Admin Support,Y,Y,27.0,0 days 00:06:28,2.0
 ID4609,Diane,2021-03-23,Tuesday,0 days 14:05:17,Admin Support,Y,Y,26.0,0 days 00:05:58,4.0
 ID4605,Martha,2021-03-23,Tuesday,0 days 13:03:22,Streaming,Y,N,51.0,0 days 00:05:31,3.0
@@ -4630,13 +3762,6 @@ ID4596,Dan,2021-03-23,Tuesday,0 days 09:47:31,Technical Support,Y,Y,27.0,0 days 
 ID4634,Stewart,2021-03-23,Tuesday,0 days 17:32:38,Admin Support,Y,Y,77.0,0 days 00:00:42,4.0
 ID4623,Dan,2021-03-23,Tuesday,0 days 16:33:36,Technical Support,Y,Y,93.0,0 days 00:00:36,4.0
 ID4597,Dan,2021-03-23,Tuesday,0 days 11:22:34,Technical Support,Y,Y,53.0,0 days 00:00:35,1.0
-ID4602,Greg,2021-03-23,Tuesday,0 days 12:27:22,Technical Support,N,N,,0 days 00:00:00,
-ID4603,Martha,2021-03-23,Tuesday,0 days 12:38:53,Streaming,N,N,,0 days 00:00:00,
-ID4611,Martha,2021-03-23,Tuesday,0 days 14:26:53,Streaming,N,N,,0 days 00:00:00,
-ID4620,Diane,2021-03-23,Tuesday,0 days 16:20:38,Streaming,N,N,,0 days 00:00:00,
-ID4622,Greg,2021-03-23,Tuesday,0 days 16:24:58,Streaming,N,N,,0 days 00:00:00,
-ID4630,Joe,2021-03-23,Tuesday,0 days 16:48:00,Payment related,N,N,,0 days 00:00:00,
-ID4635,Joe,2021-03-23,Tuesday,0 days 17:39:50,Payment related,N,N,,0 days 00:00:00,
 ID4641,Jim,2021-03-24,Wednesday,0 days 09:12:58,Contract related,Y,Y,111.0,0 days 00:06:41,5.0
 ID4691,Greg,2021-03-24,Wednesday,0 days 17:28:19,Streaming,Y,Y,102.0,0 days 00:06:41,1.0
 ID4665,Dan,2021-03-24,Wednesday,0 days 13:17:46,Technical Support,Y,Y,11.0,0 days 00:06:23,5.0
@@ -4682,15 +3807,6 @@ ID4677,Martha,2021-03-24,Wednesday,0 days 15:17:17,Admin Support,Y,Y,123.0,0 day
 ID4692,Martha,2021-03-24,Wednesday,0 days 17:28:19,Contract related,Y,N,73.0,0 days 00:00:40,3.0
 ID4659,Greg,2021-03-24,Wednesday,0 days 11:11:02,Technical Support,Y,Y,119.0,0 days 00:00:35,2.0
 ID4660,Diane,2021-03-24,Wednesday,0 days 11:11:02,Payment related,Y,Y,80.0,0 days 00:00:34,5.0
-ID4643,Greg,2021-03-24,Wednesday,0 days 09:37:26,Admin Support,N,N,,0 days 00:00:00,
-ID4644,Greg,2021-03-24,Wednesday,0 days 09:37:26,Technical Support,N,N,,0 days 00:00:00,
-ID4647,Dan,2021-03-24,Wednesday,0 days 09:50:24,Technical Support,N,N,,0 days 00:00:00,
-ID4649,Dan,2021-03-24,Wednesday,0 days 09:59:02,Payment related,N,N,,0 days 00:00:00,
-ID4657,Diane,2021-03-24,Wednesday,0 days 11:08:10,Technical Support,N,N,,0 days 00:00:00,
-ID4658,Joe,2021-03-24,Wednesday,0 days 11:08:10,Admin Support,N,N,,0 days 00:00:00,
-ID4664,Jim,2021-03-24,Wednesday,0 days 12:18:43,Admin Support,N,N,,0 days 00:00:00,
-ID4673,Stewart,2021-03-24,Wednesday,0 days 14:39:50,Payment related,N,N,,0 days 00:00:00,
-ID4681,Diane,2021-03-24,Wednesday,0 days 15:46:05,Contract related,N,N,,0 days 00:00:00,
 ID4704,Jim,2021-03-25,Thursday,0 days 10:48:00,Contract related,Y,N,73.0,0 days 00:06:50,4.0
 ID4731,Diane,2021-03-25,Thursday,0 days 16:26:24,Streaming,Y,Y,29.0,0 days 00:06:48,5.0
 ID4724,Becky,2021-03-25,Thursday,0 days 15:23:02,Contract related,Y,Y,74.0,0 days 00:06:46,4.0
@@ -4728,15 +3844,6 @@ ID4697,Martha,2021-03-25,Thursday,0 days 09:18:43,Payment related,Y,Y,17.0,0 day
 ID4695,Martha,2021-03-25,Thursday,0 days 09:04:19,Streaming,Y,Y,46.0,0 days 00:01:40,3.0
 ID4712,Becky,2021-03-25,Thursday,0 days 12:04:19,Payment related,Y,Y,95.0,0 days 00:01:37,3.0
 ID4717,Becky,2021-03-25,Thursday,0 days 14:49:55,Admin Support,Y,N,70.0,0 days 00:00:37,1.0
-ID4693,Greg,2021-03-25,Thursday,0 days 09:01:26,Payment related,N,N,,0 days 00:00:00,
-ID4701,Jim,2021-03-25,Thursday,0 days 10:27:50,Streaming,N,N,,0 days 00:00:00,
-ID4706,Greg,2021-03-25,Thursday,0 days 10:53:46,Payment related,N,N,,0 days 00:00:00,
-ID4707,Greg,2021-03-25,Thursday,0 days 11:00:58,Technical Support,N,N,,0 days 00:00:00,
-ID4708,Martha,2021-03-25,Thursday,0 days 11:00:58,Payment related,N,N,,0 days 00:00:00,
-ID4713,Joe,2021-03-25,Thursday,0 days 13:40:48,Admin Support,N,N,,0 days 00:00:00,
-ID4719,Greg,2021-03-25,Thursday,0 days 15:01:26,Admin Support,N,N,,0 days 00:00:00,
-ID4726,Stewart,2021-03-25,Thursday,0 days 15:50:24,Contract related,N,N,,0 days 00:00:00,
-ID4735,Becky,2021-03-25,Thursday,0 days 17:35:31,Contract related,N,N,,0 days 00:00:00,
 ID4757,Greg,2021-03-26,Friday,0 days 11:55:41,Streaming,Y,Y,94.0,0 days 00:06:53,5.0
 ID4775,Diane,2021-03-26,Friday,0 days 14:49:55,Admin Support,Y,Y,57.0,0 days 00:06:37,5.0
 ID4792,Greg,2021-03-26,Friday,0 days 17:42:43,Contract related,Y,Y,96.0,0 days 00:06:31,3.0
@@ -4783,14 +3890,6 @@ ID4752,Martha,2021-03-26,Friday,0 days 10:14:53,Technical Support,Y,Y,42.0,0 day
 ID4780,Joe,2021-03-26,Friday,0 days 15:41:46,Contract related,Y,Y,110.0,0 days 00:00:47,5.0
 ID4773,Stewart,2021-03-26,Friday,0 days 14:38:24,Technical Support,Y,Y,59.0,0 days 00:00:45,3.0
 ID4770,Greg,2021-03-26,Friday,0 days 12:51:50,Payment related,Y,Y,22.0,0 days 00:00:35,3.0
-ID4742,Joe,2021-03-26,Friday,0 days 09:24:29,Streaming,N,N,,0 days 00:00:00,
-ID4744,Martha,2021-03-26,Friday,0 days 09:34:34,Streaming,N,N,,0 days 00:00:00,
-ID4747,Diane,2021-03-26,Friday,0 days 10:06:14,Technical Support,N,N,,0 days 00:00:00,
-ID4762,Diane,2021-03-26,Friday,0 days 12:24:29,Admin Support,N,N,,0 days 00:00:00,
-ID4764,Stewart,2021-03-26,Friday,0 days 12:46:05,Streaming,N,N,,0 days 00:00:00,
-ID4774,Becky,2021-03-26,Friday,0 days 14:38:24,Admin Support,N,N,,0 days 00:00:00,
-ID4778,Joe,2021-03-26,Friday,0 days 15:20:10,Technical Support,N,N,,0 days 00:00:00,
-ID4786,Diane,2021-03-26,Friday,0 days 16:52:19,Contract related,N,N,,0 days 00:00:00,
 ID4833,Stewart,2021-03-27,Saturday,0 days 15:51:50,Admin Support,Y,N,108.0,0 days 00:06:54,3.0
 ID4837,Stewart,2021-03-27,Saturday,0 days 16:16:19,Technical Support,Y,N,67.0,0 days 00:06:51,4.0
 ID4821,Stewart,2021-03-27,Saturday,0 days 15:17:17,Contract related,Y,Y,87.0,0 days 00:06:45,1.0
@@ -4837,18 +3936,6 @@ ID4804,Becky,2021-03-27,Saturday,0 days 11:48:29,Admin Support,Y,Y,94.0,0 days 0
 ID4793,Greg,2021-03-27,Saturday,0 days 09:36:00,Technical Support,Y,Y,19.0,0 days 00:01:05,4.0
 ID4813,Stewart,2021-03-27,Saturday,0 days 13:30:43,Technical Support,Y,Y,93.0,0 days 00:00:58,4.0
 ID4798,Greg,2021-03-27,Saturday,0 days 11:09:36,Contract related,Y,Y,88.0,0 days 00:00:41,5.0
-ID4795,Greg,2021-03-27,Saturday,0 days 11:03:50,Technical Support,N,N,,0 days 00:00:00,
-ID4796,Martha,2021-03-27,Saturday,0 days 11:03:50,Contract related,N,N,,0 days 00:00:00,
-ID4797,Jim,2021-03-27,Saturday,0 days 11:09:36,Technical Support,N,N,,0 days 00:00:00,
-ID4805,Greg,2021-03-27,Saturday,0 days 12:23:02,Streaming,N,N,,0 days 00:00:00,
-ID4808,Becky,2021-03-27,Saturday,0 days 12:25:55,Payment related,N,N,,0 days 00:00:00,
-ID4814,Joe,2021-03-27,Saturday,0 days 13:30:43,Payment related,N,N,,0 days 00:00:00,
-ID4817,Greg,2021-03-27,Saturday,0 days 14:19:41,Payment related,N,N,,0 days 00:00:00,
-ID4822,Martha,2021-03-27,Saturday,0 days 15:17:17,Streaming,N,N,,0 days 00:00:00,
-ID4823,Becky,2021-03-27,Saturday,0 days 15:21:36,Contract related,N,N,,0 days 00:00:00,
-ID4829,Diane,2021-03-27,Saturday,0 days 15:43:12,Technical Support,N,N,,0 days 00:00:00,
-ID4843,Jim,2021-03-27,Saturday,0 days 16:50:53,Admin Support,N,N,,0 days 00:00:00,
-ID4846,Stewart,2021-03-27,Saturday,0 days 16:58:05,Contract related,N,N,,0 days 00:00:00,
 ID4888,Diane,2021-03-28,Sunday,0 days 17:58:34,Contract related,Y,Y,103.0,0 days 00:06:32,5.0
 ID4882,Greg,2021-03-28,Sunday,0 days 17:09:36,Streaming,Y,Y,120.0,0 days 00:06:17,2.0
 ID4867,Joe,2021-03-28,Sunday,0 days 13:06:14,Admin Support,Y,Y,39.0,0 days 00:06:09,4.0
@@ -4880,13 +3967,6 @@ ID4879,Diane,2021-03-28,Sunday,0 days 17:05:17,Payment related,Y,Y,24.0,0 days 0
 ID4857,Diane,2021-03-28,Sunday,0 days 11:03:50,Payment related,Y,Y,32.0,0 days 00:00:49,4.0
 ID4885,Dan,2021-03-28,Sunday,0 days 17:52:48,Contract related,Y,Y,32.0,0 days 00:00:47,3.0
 ID4868,Greg,2021-03-28,Sunday,0 days 13:06:14,Streaming,Y,Y,12.0,0 days 00:00:35,2.0
-ID4856,Martha,2021-03-28,Sunday,0 days 10:26:24,Technical Support,N,N,,0 days 00:00:00,
-ID4858,Becky,2021-03-28,Sunday,0 days 11:03:50,Payment related,N,N,,0 days 00:00:00,
-ID4860,Stewart,2021-03-28,Sunday,0 days 11:28:19,Technical Support,N,N,,0 days 00:00:00,
-ID4870,Joe,2021-03-28,Sunday,0 days 13:37:55,Admin Support,N,N,,0 days 00:00:00,
-ID4875,Diane,2021-03-28,Sunday,0 days 16:04:48,Technical Support,N,N,,0 days 00:00:00,
-ID4876,Dan,2021-03-28,Sunday,0 days 16:04:48,Payment related,N,N,,0 days 00:00:00,
-ID4881,Greg,2021-03-28,Sunday,0 days 17:09:36,Admin Support,N,N,,0 days 00:00:00,
 ID4901,Martha,2021-03-29,Monday,0 days 11:05:17,Technical Support,Y,Y,27.0,0 days 00:06:59,2.0
 ID4944,Dan,2021-03-29,Monday,0 days 16:10:34,Admin Support,Y,Y,91.0,0 days 00:06:59,3.0
 ID4940,Joe,2021-03-29,Monday,0 days 15:43:12,Technical Support,Y,N,27.0,0 days 00:06:48,1.0
@@ -4937,16 +4017,6 @@ ID4938,Stewart,2021-03-29,Monday,0 days 15:40:19,Admin Support,Y,N,26.0,0 days 0
 ID4936,Jim,2021-03-29,Monday,0 days 15:36:00,Contract related,Y,Y,80.0,0 days 00:00:38,4.0
 ID4904,Martha,2021-03-29,Monday,0 days 11:12:29,Contract related,Y,Y,78.0,0 days 00:00:31,4.0
 ID4918,Becky,2021-03-29,Monday,0 days 13:45:07,Admin Support,Y,Y,91.0,0 days 00:00:30,4.0
-ID4891,Martha,2021-03-29,Monday,0 days 09:50:24,Streaming,N,N,,0 days 00:00:00,
-ID4896,Martha,2021-03-29,Monday,0 days 10:39:22,Technical Support,N,N,,0 days 00:00:00,
-ID4900,Greg,2021-03-29,Monday,0 days 10:49:26,Technical Support,N,N,,0 days 00:00:00,
-ID4916,Becky,2021-03-29,Monday,0 days 13:30:43,Streaming,N,N,,0 days 00:00:00,
-ID4917,Becky,2021-03-29,Monday,0 days 13:45:07,Technical Support,N,N,,0 days 00:00:00,
-ID4924,Becky,2021-03-29,Monday,0 days 14:52:48,Contract related,N,N,,0 days 00:00:00,
-ID4926,Dan,2021-03-29,Monday,0 days 14:58:34,Streaming,N,N,,0 days 00:00:00,
-ID4929,Joe,2021-03-29,Monday,0 days 15:05:46,Admin Support,N,N,,0 days 00:00:00,
-ID4942,Martha,2021-03-29,Monday,0 days 15:44:38,Admin Support,N,N,,0 days 00:00:00,
-ID4948,Joe,2021-03-29,Monday,0 days 17:57:07,Contract related,N,N,,0 days 00:00:00,
 ID4957,Dan,2021-03-30,Tuesday,0 days 12:36:00,Admin Support,Y,Y,114.0,0 days 00:06:54,4.0
 ID4964,Diane,2021-03-30,Tuesday,0 days 15:46:05,Technical Support,Y,Y,55.0,0 days 00:05:24,2.0
 ID4953,Jim,2021-03-30,Tuesday,0 days 11:24:00,Streaming,Y,Y,50.0,0 days 00:05:21,3.0
@@ -4963,15 +4033,6 @@ ID4970,Dan,2021-03-30,Tuesday,0 days 16:46:34,Technical Support,Y,Y,41.0,0 days 
 ID4949,Jim,2021-03-30,Tuesday,0 days 09:05:46,Payment related,Y,Y,92.0,0 days 00:01:13,2.0
 ID4950,Diane,2021-03-30,Tuesday,0 days 09:21:36,Payment related,Y,Y,108.0,0 days 00:01:13,3.0
 ID4972,Joe,2021-03-30,Tuesday,0 days 17:25:26,Contract related,Y,Y,42.0,0 days 00:00:35,5.0
-ID4954,Dan,2021-03-30,Tuesday,0 days 12:01:26,Streaming,N,N,,0 days 00:00:00,
-ID4956,Stewart,2021-03-30,Tuesday,0 days 12:30:14,Admin Support,N,N,,0 days 00:00:00,
-ID4961,Dan,2021-03-30,Tuesday,0 days 13:50:53,Contract related,N,N,,0 days 00:00:00,
-ID4962,Jim,2021-03-30,Tuesday,0 days 15:08:38,Streaming,N,N,,0 days 00:00:00,
-ID4965,Becky,2021-03-30,Tuesday,0 days 15:50:24,Admin Support,N,N,,0 days 00:00:00,
-ID4966,Jim,2021-03-30,Tuesday,0 days 16:04:48,Streaming,N,N,,0 days 00:00:00,
-ID4967,Joe,2021-03-30,Tuesday,0 days 16:13:26,Contract related,N,N,,0 days 00:00:00,
-ID4968,Jim,2021-03-30,Tuesday,0 days 16:29:17,Technical Support,N,N,,0 days 00:00:00,
-ID4971,Greg,2021-03-30,Tuesday,0 days 17:13:55,Streaming,N,N,,0 days 00:00:00,
 ID4976,Martha,2021-03-31,Wednesday,0 days 09:20:10,Technical Support,Y,Y,87.0,0 days 00:06:57,4.0
 ID4991,Stewart,2021-03-31,Wednesday,0 days 13:46:34,Streaming,Y,Y,73.0,0 days 00:06:26,1.0
 ID4974,Martha,2021-03-31,Wednesday,0 days 09:01:26,Payment related,Y,Y,124.0,0 days 00:06:24,3.0
@@ -4992,10 +4053,3 @@ ID4986,Diane,2021-03-31,Wednesday,0 days 12:50:24,Streaming,Y,N,55.0,0 days 00:0
 ID4998,Diane,2021-03-31,Wednesday,0 days 16:53:46,Payment related,Y,Y,84.0,0 days 00:01:49,4.0
 ID4999,Jim,2021-03-31,Wednesday,0 days 17:02:24,Streaming,Y,Y,98.0,0 days 00:00:58,5.0
 ID4978,Greg,2021-03-31,Wednesday,0 days 10:13:26,Contract related,Y,Y,94.0,0 days 00:00:40,4.0
-ID4979,Greg,2021-03-31,Wednesday,0 days 10:39:22,Technical Support,N,N,,0 days 00:00:00,
-ID4985,Jim,2021-03-31,Wednesday,0 days 12:50:24,Payment related,N,N,,0 days 00:00:00,
-ID4992,Joe,2021-03-31,Wednesday,0 days 14:13:55,Streaming,N,N,,0 days 00:00:00,
-ID4993,Joe,2021-03-31,Wednesday,0 days 14:18:14,Admin Support,N,N,,0 days 00:00:00,
-ID4994,Greg,2021-03-31,Wednesday,0 days 14:58:34,Contract related,N,N,,0 days 00:00:00,
-ID4995,Dan,2021-03-31,Wednesday,0 days 15:33:07,Payment related,N,N,,0 days 00:00:00,
-ID5000,Diane,2021-03-31,Wednesday,0 days 17:39:50,Contract related,N,N,,0 days 00:00:00,
